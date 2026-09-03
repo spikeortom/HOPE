@@ -1,0 +1,434 @@
+{
+  "metadata": {
+    "version": "0.2.4",
+    "lastUpdated": "2026-09-03",
+    "description": "各国劳动法规、供应链合规与跨境投资监管要求汇总",
+    "disclaimer": "本数据来源于公开法律法规，仅供参考",
+    "note": "complianceRatings 为评级参考标准（档位定义），不代表任何实测分布或统计结果"
+  },
+  "legalFrameworks": [
+    {
+      "id": "legal-eu-csddd",
+      "name": "EU Corporate Sustainability Due Diligence Directive (CSDDD)",
+      "jurisdiction": "European Union",
+      "shortName": "欧盟企业可持续发展尽职调查指令",
+      "description": "要求大型企业对其供应链进行人权和环境尽职调查",
+      "requirements": [
+        "识别、预防和减轻供应链中的人权和环境影响",
+        "建立投诉机制",
+        "定期发布尽职调查报告",
+        "对供应链中的违规行为承担责任"
+      ],
+      "applicableScope": "员工超过1000人且营业额超过4.5亿欧元的企业",
+      "effectiveDate": "2026年起分阶段实施"
+    },
+    {
+      "id": "legal-de-lksg",
+      "name": "German Supply Chain Due Diligence Act (LkSG)",
+      "jurisdiction": "Germany",
+      "shortName": "德国供应链法",
+      "description": "要求德国大企业对供应链进行人权和环境尽职调查",
+      "requirements": [
+        "建立人权和环境合规管理体系",
+        "对供应商进行风险评估",
+        "建立申诉机制",
+        "定期报告"
+      ],
+      "applicableScope": "员工超过1000人的德国企业（2023年起）或超过300人的企业（2024年起）",
+      "effectiveDate": "2023年1月1日"
+    },
+    {
+      "id": "legal-cn-labor",
+      "name": "中华人民共和国劳动法",
+      "jurisdiction": "China",
+      "shortName": "中国劳动法",
+      "description": "规定劳动者基本权益保护",
+      "requirements": [
+        "保护劳动者合法权益",
+        "规定每日工作不超过8小时，每周不超过44小时",
+        "加班需支付加班费（150%/200%/300%）",
+        "不得违法解除劳动合同"
+      ],
+      "enforcement": "由劳动行政部门监督执行",
+      "effectiveDate": "1995年1月1日施行"
+    },
+    {
+      "id": "legal-us-flsa",
+      "name": "Fair Labor Standards Act (FLSA)",
+      "jurisdiction": "United States",
+      "shortName": "公平劳动标准法",
+      "description": "美国联邦劳动法律",
+      "requirements": [
+        "规定最低工资标准",
+        "规定加班工资（1.5倍）",
+        "限制童工",
+        "记录保存要求"
+      ],
+      "effectiveDate": "1938年"
+    },
+    {
+      "id": "legal-ilo",
+      "name": "ILO Core Labour Standards",
+      "jurisdiction": "International",
+      "shortName": "国际劳工组织核心劳工标准",
+      "description": "国际劳工组织制定的核心劳动标准",
+      "requirements": [
+        "结社自由和有效承认集体谈判权",
+        "消除一切形式的强迫劳动",
+        "有效废除童工",
+        "消除就业和职业歧视"
+      ],
+      "conventions": [
+        "C029",
+        "C087",
+        "C098",
+        "C100",
+        "C105",
+        "C111",
+        "C138",
+        "C182"
+      ]
+    },
+    {
+      "id": "legal-uk-slavery",
+      "name": "Modern Slavery Act 2015",
+      "jurisdiction": "United Kingdom",
+      "shortName": "英国现代奴隶制法",
+      "description": "要求企业披露供应链中防止现代奴隶制的措施",
+      "requirements": [
+        "发布年度透明度声明",
+        "说明企业为防止供应链中出现奴隶制所采取的措施"
+      ],
+      "applicableScope": "在英国开展业务且年营业额超过3600万英镑的企业"
+    },
+    {
+      "id": "legal-eu-fdi",
+      "name": "EU FDI Screening Regulation (EU) 2019/452",
+      "jurisdiction": "European Union",
+      "shortName": "欧盟外商直接投资筛查条例",
+      "description": "建立欧盟层面外商直接投资筛查合作机制，由各成员国具体执行",
+      "requirements": [
+        "涉及关键基础设施、关键技术、关键投入品、敏感信息或媒体领域的外资并购可能触发成员国审查",
+        "成员国间就已审查交易进行信息通报",
+        "欧盟委员会可发表意见"
+      ],
+      "effectiveDate": "2019年3月全联盟适用"
+    },
+    {
+      "id": "legal-us-cfius",
+      "name": "CFIUS Review (Section 721 / FIRRMA)",
+      "jurisdiction": "United States",
+      "shortName": "美国外资投资委员会审查",
+      "description": "对可能影响美国国家安全的外资并购、合资进行审查",
+      "requirements": [
+        "关键技术、关键基础设施、敏感个人数据领域的交易适用强制申报或自愿申报",
+        "未经批准实施受管辖交易可能被剥离或处罚",
+        "TID（Technology/Infrastructure/Data）业务交易需评估申报义务"
+      ],
+      "effectiveDate": "FIRRMA 于2018年8月生效"
+    },
+    {
+      "id": "legal-de-awv",
+      "name": "German Foreign Trade and Payments Ordinance (AWV) Investment Screening",
+      "jurisdiction": "Germany",
+      "shortName": "德国对外贸易条例投资审查",
+      "description": "德国联邦经济与气候保护部对外资并购德国企业进行跨部门安全审查",
+      "requirements": [
+        "国防、IT安全、关键基础设施等行业适用强制事前申报",
+        "其余敏感行业适用自愿申报，审查机关可主动介入",
+        "敏感行业审查门槛为10%投票权，其余为20%"
+      ],
+      "effectiveDate": "2021年修订版现行有效"
+    },
+    {
+      "id": "legal-uk-nsia",
+      "name": "National Security and Investment Act 2021 (NSIA)",
+      "jurisdiction": "United Kingdom",
+      "shortName": "英国国家安全与投资法",
+      "description": "对涉及英国国家安全的实体与资产收购实行申报与召回审查",
+      "requirements": [
+        "17个敏感领域适用强制事前申报",
+        "未申报完成交易可被认定无效并处罚",
+        "审查机关可在5年内召回其他交易"
+      ],
+      "effectiveDate": "2022年1月4日"
+    },
+    {
+      "id": "legal-jp-fefta",
+      "name": "Foreign Exchange and Foreign Trade Act (FEFTA)",
+      "jurisdiction": "Japan",
+      "shortName": "日本外汇及外国贸易法",
+      "description": "对指定行业的外资持股与并购实行事前申报制度",
+      "requirements": [
+        "武器、航空航天、核能、电信、制造业等指定行业取得1%以上股份需事前申报",
+        "窗口指导与审查机关可要求变更或中止交易"
+      ],
+      "effectiveDate": "2020年修订收紧指定行业范围"
+    },
+    {
+      "id": "legal-au-firb",
+      "name": "Foreign Acquisitions and Takeovers Act (FIRB Regime)",
+      "jurisdiction": "Australia",
+      "shortName": "澳大利亚外资审查",
+      "description": "由财政部按国家利益标准审查外资收购申请",
+      "requirements": [
+        "超过门槛金额或敏感行业的收购需事前申请",
+        "敏感行业（电信、国防、土地等）适用更低的申报门槛",
+        "违反申报义务面临刑事与民事处罚"
+      ],
+      "effectiveDate": "1975年制定，2021年改革收费与审查框架"
+    },
+    {
+      "id": "legal-ca-ica",
+      "name": "Investment Canada Act (ICA)",
+      "jurisdiction": "Canada",
+      "shortName": "加拿大投资法",
+      "description": "对重大外资收购实行净收益审查与国家安全审查双重机制",
+      "requirements": [
+        "超过门槛金额的收购需申报净收益审查",
+        "所有投资均可能触发国家安全审查",
+        "文化行业适用更严格门槛"
+      ],
+      "effectiveDate": "1985年制定，2024年修订提高门槛并收紧国家安全审查"
+    },
+    {
+      "id": "legal-us-ear",
+      "name": "Export Administration Regulations (EAR)",
+      "jurisdiction": "United States",
+      "shortName": "美国出口管制条例",
+      "description": "由商务部工业与安全局（BIS）管理两用物项出口管制",
+      "requirements": [
+        "受控物项出口、再出口需申请许可",
+        "交易前筛查实体清单（Entity List）、未经验证清单等限制名单",
+        "违反管制面临刑事与行政处罚"
+      ],
+      "effectiveDate": "现行有效，清单动态更新"
+    },
+    {
+      "id": "legal-eu-dualuse",
+      "name": "EU Dual-Use Regulation (EU) 2021/821",
+      "jurisdiction": "European Union",
+      "shortName": "欧盟两用物项出口管制条例",
+      "description": "欧盟统一的两用物项出口管制框架",
+      "requirements": [
+        "清单内物项出口需成员国许可",
+        "网络监控物项适用人类安全例外",
+        "军事最终用途适用全面管制（catch-all）条款"
+      ],
+      "effectiveDate": "2021年9月生效"
+    },
+    {
+      "id": "legal-eu-worktime",
+      "name": "EU Working Time Directive 2003/88/EC",
+      "jurisdiction": "European Union",
+      "shortName": "欧盟工作时间指令",
+      "description": "规定欧盟成员国最低工作时间保护标准",
+      "requirements": [
+        "每日至少连续11小时休息",
+        "每周平均工作时间不超过48小时（含加班）",
+        "每年至少4周带薪年假",
+        "夜班工作有额外保护要求"
+      ],
+      "effectiveDate": "2003年8月生效"
+    },
+    {
+      "id": "legal-us-osha",
+      "name": "Occupational Safety and Health Act (OSH Act)",
+      "jurisdiction": "United States",
+      "shortName": "美国职业安全健康法",
+      "description": "规定美国工作场所安全与健康标准",
+      "requirements": [
+        "雇主须提供无已知严重危害的工作场所（一般义务条款）",
+        "执行OSHA标准与记录保存要求",
+        "严重伤亡事件需按时报告"
+      ],
+      "effectiveDate": "1971年"
+    },
+    {
+      "id": "legal-jp-lsa",
+      "name": "Labor Standards Act (Japan)",
+      "jurisdiction": "Japan",
+      "shortName": "日本劳动基准法",
+      "description": "日本劳动条件底线法律",
+      "requirements": [
+        "法定工时每日8小时、每周40小时",
+        "加班上限原则上每月45小时、每年360小时（2019年工作方式改革）",
+        "每年至少5天带薪年假",
+        "解雇需具备客观合理理由"
+      ],
+      "effectiveDate": "1947年制定，2019年重大修订"
+    },
+    {
+      "id": "legal-hu-labor",
+      "name": "Hungarian Labor Code (Munka Törvénykönyve)",
+      "jurisdiction": "Hungary",
+      "shortName": "匈牙利劳动法典",
+      "description": "匈牙利雇佣关系基本法律，中资电池与汽车工厂密集适用",
+      "requirements": [
+        "标准工时每日8小时、每周40小时",
+        "年休假基础20个工作日起",
+        "加班需书面约定并设年度上限",
+        "外籍员工需统一的工作许可与居留安排"
+      ],
+      "effectiveDate": "2012年新版，2023年放宽加班上限至每年400小时"
+    },
+    {
+      "id": "legal-th-lpa",
+      "name": "Labour Protection Act (Thailand)",
+      "jurisdiction": "Thailand",
+      "shortName": "泰国劳动保护法",
+      "description": "泰国雇佣关系与劳动者保护基本法律",
+      "requirements": [
+        "标准工时每日8小时、每周48小时",
+        "解雇需支付法定遣散费（按工时分档）",
+        "外籍员工按1:4比例配置本地雇员并办理工作证",
+        "符合泰国4.0技能升级要求"
+      ],
+      "effectiveDate": "1998年制定，2017年/2019年修订"
+    },
+    {
+      "id": "legal-vn-labor",
+      "name": "Vietnam Labor Code 2019 (Bộ luật Lao động)",
+      "jurisdiction": "Vietnam",
+      "shortName": "越南劳动法典2019",
+      "description": "越南统一劳动法律，电子产品代工与制造企业密集适用",
+      "requirements": [
+        "标准工时每日8小时、每周48小时",
+        "加班每年不超过300小时（部分行业）",
+        "强制缴纳社会保险、医疗保险、失业保险",
+        "企业员工规模较大需建立基层员工组织对话机制"
+      ],
+      "effectiveDate": "2021年1月1日"
+    },
+    {
+      "id": "legal-mx-lft",
+      "name": "Federal Labor Law (Ley Federal del Trabajo, Mexico)",
+      "jurisdiction": "Mexico",
+      "shortName": "墨西哥联邦劳动法",
+      "description": "墨西哥雇佣关系基本法律，近岸制造企业密集适用",
+      "requirements": [
+        "标准工时每周48小时（2023年起分阶段向40小时过渡）",
+        "强制年度利润分享（PTU）",
+        "集体劳动合同需经合法性投票（USMCA 快速反应机制）",
+        "解雇需符合法定原因并支付补偿"
+      ],
+      "effectiveDate": "1931年制定，2019年/2023年重大修订"
+    },
+    {
+      "id": "legal-br-clt",
+      "name": "Consolidation of Labor Laws (CLT, Brazil)",
+      "jurisdiction": "Brazil",
+      "shortName": "巴西统一劳动法",
+      "description": "巴西雇佣关系基本法典，制造业与矿业企业密集适用",
+      "requirements": [
+        "标准工时每周44小时",
+        "强制第13个月工资、带薪年假加成",
+        "强制 FGTS 离职工龄保障基金",
+        "2017年劳动改革引入协商优先原则"
+      ],
+      "effectiveDate": "1943年制定，2017年重大修订"
+    },
+    {
+      "id": "legal-id-manpower",
+      "name": "Manpower Law No. 13/2003 (Indonesia)",
+      "jurisdiction": "Indonesia",
+      "shortName": "印度尼西亚人力法",
+      "description": "印尼雇佣关系基本法律，镍冶炼与电子制造企业密集适用",
+      "requirements": [
+        "标准工时每日7小时（6天制）或每日8小时（5天制）",
+        "强制 BPJS 社会保障计划",
+        "解雇需协商或经劳资法院批准并支付遣散费",
+        "2020年《创造就业法》放宽外包与工时安排"
+      ],
+      "effectiveDate": "2003年制定，2020年《创造就业法》修订"
+    },
+    {
+      "id": "legal-in-labor",
+      "name": "India Labour Codes (Industrial Relations Code, Code on Wages, OSH Code, Social Security Code)",
+      "jurisdiction": "India",
+      "shortName": "印度劳动法典",
+      "description": "印度2020年通过的四部劳动法典，整合29部中央劳动法律",
+      "requirements": [
+        "统一最低工资与加班规则",
+        "固定期限合同适用范围扩大",
+        "裁员100人以上需政府批准（现行制度）",
+        "四部法典已通过，实施时间以官方公报为准"
+      ],
+      "effectiveDate": "2020年通过，分阶段实施"
+    }
+  ],
+  "reportingChannels": [
+    {
+      "id": "channel-001",
+      "name": "企业ESG报告",
+      "method": "查阅企业年度ESG/CSR报告",
+      "description": "大多数上市公司会发布年度可持续发展报告",
+      "availability": "企业官网/年报"
+    },
+    {
+      "id": "channel-002",
+      "name": "供应链合规数据库",
+      "method": "使用第三方合规数据库查询",
+      "examples": [
+        "EcoVadis",
+        "Sedex",
+        "SAI Global"
+      ],
+      "description": "第三方平台提供供应商合规评级"
+    },
+    {
+      "id": "channel-003",
+      "name": "各国政府公开信息",
+      "method": "查询政府公开的企业合规信息",
+      "examples": [
+        "SEC EDGAR",
+        "国家企业信用信息公示系统",
+        "EU Transparency Register"
+      ],
+      "description": "政府公开的企业登记和合规信息"
+    },
+    {
+      "id": "channel-004",
+      "name": "NGO报告",
+      "method": "查阅非政府组织的调查报告",
+      "examples": [
+        "Human Rights Watch",
+        "Amnesty International"
+      ],
+      "description": "NGO定期发布的企业人权报告"
+    },
+    {
+      "id": "channel-005",
+      "name": "监管机构官方公告",
+      "method": "查阅外资审查与出口管制机关的官方公告与年度报告",
+      "examples": [
+        "CFIUS Annual Report",
+        "EU FDI Screening Annual Report",
+        "BIS licensing statistics"
+      ],
+      "description": "官方披露的审查趋势与执法案例"
+    }
+  ],
+  "complianceRatings": [
+    {
+      "rating": "A",
+      "description": "全面合规：建立了完善的供应链合规管理体系，定期发布尽职调查报告"
+    },
+    {
+      "rating": "B",
+      "description": "基本合规：已有部分合规措施，仍存在改进空间"
+    },
+    {
+      "rating": "C",
+      "description": "合规不足：存在明显缺口，需要改进"
+    },
+    {
+      "rating": "D",
+      "description": "严重不合规：存在重大劳动权益风险"
+    },
+    {
+      "rating": "待评估",
+      "description": "公开数据不足，暂无法评估"
+    }
+  ]
+}

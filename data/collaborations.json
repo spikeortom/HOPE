@@ -1,0 +1,6283 @@
+{
+  "metadata": {
+    "version": "0.2.4",
+    "lastUpdated": "2026-09-03",
+    "description": "HOPE - 企业出海与海外合作关系详情",
+    "disclaimer": "数据来源于公开渠道，仅供参考"
+  },
+  "relationships": [
+    {
+      "id": "rel-001",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-001",
+        "name": "宁德时代"
+      },
+      "overseas": {
+        "name": "特斯拉",
+        "country": "美国"
+      },
+      "products": [
+        "动力电池"
+      ],
+      "since": "2020",
+      "region": [
+        "中国",
+        "美国",
+        "德国"
+      ]
+    },
+    {
+      "id": "rel-002",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-001",
+        "name": "宁德时代"
+      },
+      "overseas": {
+        "name": "宝马",
+        "country": "德国"
+      },
+      "products": [
+        "动力电池"
+      ],
+      "since": "2018",
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-003",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-001",
+        "name": "宁德时代"
+      },
+      "overseas": {
+        "name": "奔驰",
+        "country": "德国"
+      },
+      "products": [
+        "动力电池"
+      ],
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-004",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-001",
+        "name": "宁德时代"
+      },
+      "overseas": {
+        "name": "大众",
+        "country": "德国"
+      },
+      "products": [
+        "动力电池"
+      ],
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-005",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-001",
+        "name": "宁德时代"
+      },
+      "overseas": {
+        "name": "丰田",
+        "country": "日本"
+      },
+      "products": [
+        "动力电池"
+      ],
+      "region": [
+        "中国",
+        "日本"
+      ]
+    },
+    {
+      "id": "rel-006",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-001",
+        "name": "宁德时代"
+      },
+      "location": "德国图林根",
+      "products": [
+        "动力电池"
+      ],
+      "capacity": "14GWh",
+      "status": "已投产",
+      "overseas": {
+        "country": "德国"
+      }
+    },
+    {
+      "id": "rel-007",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-001",
+        "name": "宁德时代"
+      },
+      "location": "匈牙利德布勒森",
+      "products": [
+        "动力电池"
+      ],
+      "capacity": "100GWh",
+      "status": "建设中",
+      "overseas": {
+        "country": "匈牙利"
+      }
+    },
+    {
+      "id": "rel-008",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-auto-002",
+        "name": "比亚迪"
+      },
+      "overseas": {
+        "name": "丰田",
+        "country": "日本"
+      },
+      "jointVenture": "比亚迪丰田电动车科技有限公司",
+      "purpose": "纯电动车研发",
+      "location": "深圳"
+    },
+    {
+      "id": "rel-009",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-auto-002",
+        "name": "比亚迪"
+      },
+      "overseas": {
+        "name": "戴姆勒",
+        "country": "德国"
+      },
+      "jointVenture": "腾势汽车",
+      "purpose": "高端电动车",
+      "location": "深圳"
+    },
+    {
+      "id": "rel-010",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-002",
+        "name": "比亚迪"
+      },
+      "location": "匈牙利",
+      "products": [
+        "电动大巴"
+      ],
+      "status": "已投产",
+      "overseas": {
+        "country": "匈牙利"
+      }
+    },
+    {
+      "id": "rel-011",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-002",
+        "name": "比亚迪"
+      },
+      "location": "泰国",
+      "products": [
+        "新能源汽车"
+      ],
+      "status": "建设中",
+      "overseas": {
+        "country": "泰国"
+      }
+    },
+    {
+      "id": "rel-012",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-002",
+        "name": "比亚迪"
+      },
+      "location": "巴西",
+      "products": [
+        "新能源汽车"
+      ],
+      "status": "建设中",
+      "overseas": {
+        "country": "巴西"
+      }
+    },
+    {
+      "id": "rel-013",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-003",
+        "name": "星宇股份"
+      },
+      "overseas": {
+        "name": "宝马",
+        "country": "德国"
+      },
+      "products": [
+        "汽车车灯"
+      ],
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-014",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-003",
+        "name": "星宇股份"
+      },
+      "overseas": {
+        "name": "奔驰",
+        "country": "德国"
+      },
+      "products": [
+        "汽车车灯"
+      ],
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-015",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-003",
+        "name": "星宇股份"
+      },
+      "overseas": {
+        "name": "大众",
+        "country": "德国"
+      },
+      "products": [
+        "汽车车灯"
+      ],
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-016",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-003",
+        "name": "星宇股份"
+      },
+      "location": "塞尔维亚",
+      "products": [
+        "汽车车灯"
+      ],
+      "status": "已投产",
+      "overseas": {
+        "country": "塞尔维亚"
+      }
+    },
+    {
+      "id": "rel-017",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-004",
+        "name": "福耀玻璃"
+      },
+      "overseas": {
+        "name": "宝马",
+        "country": "德国"
+      },
+      "products": [
+        "汽车玻璃"
+      ]
+    },
+    {
+      "id": "rel-018",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-004",
+        "name": "福耀玻璃"
+      },
+      "overseas": {
+        "name": "奔驰",
+        "country": "德国"
+      },
+      "products": [
+        "汽车玻璃"
+      ]
+    },
+    {
+      "id": "rel-019",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-004",
+        "name": "福耀玻璃"
+      },
+      "overseas": {
+        "name": "大众",
+        "country": "德国"
+      },
+      "products": [
+        "汽车玻璃"
+      ]
+    },
+    {
+      "id": "rel-020",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-004",
+        "name": "福耀玻璃"
+      },
+      "overseas": {
+        "name": "丰田",
+        "country": "日本"
+      },
+      "products": [
+        "汽车玻璃"
+      ]
+    },
+    {
+      "id": "rel-021",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-004",
+        "name": "福耀玻璃"
+      },
+      "overseas": {
+        "name": "通用",
+        "country": "美国"
+      },
+      "products": [
+        "汽车玻璃"
+      ]
+    },
+    {
+      "id": "rel-022",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-004",
+        "name": "福耀玻璃"
+      },
+      "location": "美国俄亥俄",
+      "products": [
+        "汽车玻璃"
+      ],
+      "capacity": "年产450万套",
+      "status": "已投产",
+      "overseas": {
+        "country": "美国"
+      }
+    },
+    {
+      "id": "rel-023",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-004",
+        "name": "福耀玻璃"
+      },
+      "location": "德国",
+      "products": [
+        "汽车玻璃"
+      ],
+      "status": "已投产",
+      "overseas": {
+        "country": "德国"
+      }
+    },
+    {
+      "id": "rel-024",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-005",
+        "name": "均胜电子"
+      },
+      "overseas": {
+        "name": "宝马",
+        "country": "德国"
+      },
+      "products": [
+        "汽车电子"
+      ]
+    },
+    {
+      "id": "rel-025",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-005",
+        "name": "均胜电子"
+      },
+      "overseas": {
+        "name": "大众",
+        "country": "德国"
+      },
+      "products": [
+        "汽车电子"
+      ]
+    },
+    {
+      "id": "rel-026",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-005",
+        "name": "均胜电子"
+      },
+      "location": "德国",
+      "products": [
+        "汽车电子"
+      ],
+      "status": "已投产",
+      "overseas": {
+        "country": "德国"
+      }
+    },
+    {
+      "id": "rel-027",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-005",
+        "name": "均胜电子"
+      },
+      "location": "美国",
+      "products": [
+        "汽车电子"
+      ],
+      "status": "已投产",
+      "overseas": {
+        "country": "美国"
+      }
+    },
+    {
+      "id": "rel-028",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-006",
+        "name": "敏实集团"
+      },
+      "overseas": {
+        "name": "丰田",
+        "country": "日本"
+      },
+      "products": [
+        "车身零部件"
+      ]
+    },
+    {
+      "id": "rel-029",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-006",
+        "name": "敏实集团"
+      },
+      "overseas": {
+        "name": "本田",
+        "country": "日本"
+      },
+      "products": [
+        "车身零部件"
+      ]
+    },
+    {
+      "id": "rel-030",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-006",
+        "name": "敏实集团"
+      },
+      "overseas": {
+        "name": "日产",
+        "country": "日本"
+      },
+      "products": [
+        "车身零部件"
+      ]
+    },
+    {
+      "id": "rel-031",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-006",
+        "name": "敏实集团"
+      },
+      "location": "日本",
+      "products": [
+        "车身零部件"
+      ],
+      "status": "已投产",
+      "overseas": {
+        "country": "日本"
+      }
+    },
+    {
+      "id": "rel-032",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-006",
+        "name": "敏实集团"
+      },
+      "location": "美国",
+      "products": [
+        "车身零部件"
+      ],
+      "status": "已投产",
+      "overseas": {
+        "country": "美国"
+      }
+    },
+    {
+      "id": "rel-033",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-007",
+        "name": "三花智控"
+      },
+      "overseas": {
+        "name": "特斯拉",
+        "country": "美国"
+      },
+      "products": [
+        "热管理系统"
+      ]
+    },
+    {
+      "id": "rel-034",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-007",
+        "name": "三花智控"
+      },
+      "overseas": {
+        "name": "宝马",
+        "country": "德国"
+      },
+      "products": [
+        "热管理系统"
+      ]
+    },
+    {
+      "id": "rel-035",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-007",
+        "name": "三花智控"
+      },
+      "location": "墨西哥",
+      "products": [
+        "热管理系统"
+      ],
+      "status": "已投产",
+      "overseas": {
+        "country": "墨西哥"
+      }
+    },
+    {
+      "id": "rel-036",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-007",
+        "name": "三花智控"
+      },
+      "location": "波兰",
+      "products": [
+        "热管理系统"
+      ],
+      "status": "已投产",
+      "overseas": {
+        "country": "波兰"
+      }
+    },
+    {
+      "id": "rel-037",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-009",
+        "name": "万向钱潮"
+      },
+      "overseas": {
+        "name": "通用",
+        "country": "美国"
+      },
+      "products": [
+        "万向节"
+      ]
+    },
+    {
+      "id": "rel-038",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-009",
+        "name": "万向钱潮"
+      },
+      "overseas": {
+        "name": "福特",
+        "country": "美国"
+      },
+      "products": [
+        "万向节"
+      ]
+    },
+    {
+      "id": "rel-039",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-009",
+        "name": "万向钱潮"
+      },
+      "location": "美国",
+      "products": [
+        "万向节"
+      ],
+      "status": "已投产",
+      "overseas": {
+        "country": "美国"
+      }
+    },
+    {
+      "id": "rel-040",
+      "type": "outsourcing",
+      "domestic": {
+        "id": "cn-tech-005",
+        "name": "小米"
+      },
+      "overseas": {
+        "name": "富士康",
+        "country": "台湾"
+      },
+      "products": [
+        "智能手机组装"
+      ]
+    },
+    {
+      "id": "rel-041",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-005",
+        "name": "小米"
+      },
+      "overseas": {
+        "name": "高通",
+        "country": "美国"
+      },
+      "products": [
+        "移动芯片"
+      ]
+    },
+    {
+      "id": "rel-042",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-001",
+        "name": "华为"
+      },
+      "overseas": {
+        "name": "欧洲运营商",
+        "country": "欧洲"
+      },
+      "products": [
+        "5G设备",
+        "通信设备"
+      ],
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-043",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-001",
+        "name": "华为"
+      },
+      "overseas": {
+        "name": "中东运营商",
+        "country": "中东"
+      },
+      "products": [
+        "通信设备"
+      ],
+      "region": [
+        "中国",
+        "中东"
+      ]
+    },
+    {
+      "id": "rel-044",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-home-001",
+        "name": "美的集团"
+      },
+      "overseas": {
+        "name": "东芝家电",
+        "country": "日本"
+      },
+      "products": [
+        "家电业务"
+      ],
+      "year": "2016"
+    },
+    {
+      "id": "rel-045",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-home-001",
+        "name": "美的集团"
+      },
+      "location": "越南",
+      "products": [
+        "家电"
+      ],
+      "status": "已投产",
+      "overseas": {
+        "country": "越南"
+      }
+    },
+    {
+      "id": "rel-046",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-home-001",
+        "name": "美的集团"
+      },
+      "location": "泰国",
+      "products": [
+        "家电"
+      ],
+      "status": "已投产",
+      "overseas": {
+        "country": "泰国"
+      }
+    },
+    {
+      "id": "rel-047",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-home-001",
+        "name": "美的集团"
+      },
+      "location": "德国",
+      "products": [
+        "机器人"
+      ],
+      "status": "已投产",
+      "overseas": {
+        "country": "德国"
+      }
+    },
+    {
+      "id": "rel-048",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-home-002",
+        "name": "海尔智家"
+      },
+      "overseas": {
+        "name": "GE Appliances",
+        "country": "美国"
+      },
+      "products": [
+        "家电业务"
+      ],
+      "year": "2016"
+    },
+    {
+      "id": "rel-049",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-home-002",
+        "name": "海尔智家"
+      },
+      "location": "美国",
+      "products": [
+        "家电"
+      ],
+      "status": "已投产",
+      "overseas": {
+        "country": "美国"
+      }
+    },
+    {
+      "id": "rel-050",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-home-002",
+        "name": "海尔智家"
+      },
+      "location": "意大利",
+      "products": [
+        "家电"
+      ],
+      "status": "已投产",
+      "overseas": {
+        "country": "意大利"
+      }
+    },
+    {
+      "id": "rel-051",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-machine-001",
+        "name": "三一重工"
+      },
+      "location": "德国",
+      "products": [
+        "工程机械"
+      ],
+      "status": "已投产",
+      "overseas": {
+        "country": "德国"
+      }
+    },
+    {
+      "id": "rel-052",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-machine-001",
+        "name": "三一重工"
+      },
+      "location": "美国",
+      "products": [
+        "工程机械"
+      ],
+      "status": "已投产",
+      "overseas": {
+        "country": "美国"
+      }
+    },
+    {
+      "id": "rel-053",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-machine-001",
+        "name": "三一重工"
+      },
+      "location": "巴西",
+      "products": [
+        "工程机械"
+      ],
+      "status": "已投产",
+      "overseas": {
+        "country": "巴西"
+      }
+    },
+    {
+      "id": "rel-054",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-machine-001",
+        "name": "三一重工"
+      },
+      "location": "印度",
+      "products": [
+        "工程机械"
+      ],
+      "status": "已投产",
+      "overseas": {
+        "country": "印度"
+      }
+    },
+    {
+      "id": "rel-055",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-machine-002",
+        "name": "徐工集团"
+      },
+      "location": "巴西",
+      "products": [
+        "工程机械"
+      ],
+      "status": "已投产",
+      "overseas": {
+        "country": "巴西"
+      }
+    },
+    {
+      "id": "rel-056",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-machine-002",
+        "name": "徐工集团"
+      },
+      "location": "德国",
+      "products": [
+        "工程机械"
+      ],
+      "status": "已投产",
+      "overseas": {
+        "country": "德国"
+      }
+    },
+    {
+      "id": "rel-057",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-machine-002",
+        "name": "徐工集团"
+      },
+      "location": "印度",
+      "products": [
+        "工程机械"
+      ],
+      "status": "已投产",
+      "overseas": {
+        "country": "印度"
+      }
+    },
+    {
+      "id": "rel-058",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-pharma-001",
+        "name": "药明康德"
+      },
+      "overseas": {
+        "name": "全球药企",
+        "country": "全球"
+      },
+      "products": [
+        "CRO/CDMO服务"
+      ]
+    },
+    {
+      "id": "rel-059",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-pharma-001",
+        "name": "药明康德"
+      },
+      "location": "美国",
+      "function": "研发/销售",
+      "overseas": {
+        "country": "美国"
+      }
+    },
+    {
+      "id": "rel-060",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-pharma-001",
+        "name": "药明康德"
+      },
+      "location": "欧洲",
+      "function": "研发/销售",
+      "overseas": {
+        "country": "欧洲"
+      }
+    },
+    {
+      "id": "rel-061",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-consumer-001",
+        "name": "安踏体育"
+      },
+      "overseas": {
+        "name": "FILA",
+        "country": "意大利"
+      },
+      "products": [
+        "运动品牌"
+      ],
+      "year": "2009"
+    },
+    {
+      "id": "rel-062",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-other-001",
+        "name": "潍柴动力"
+      },
+      "overseas": {
+        "name": "林德液压",
+        "country": "德国"
+      },
+      "products": [
+        "液压技术"
+      ],
+      "year": "2012"
+    },
+    {
+      "id": "rel-063",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-other-001",
+        "name": "潍柴动力"
+      },
+      "location": "德国",
+      "products": [
+        "发动机"
+      ],
+      "status": "已投产",
+      "overseas": {
+        "country": "德国"
+      }
+    },
+    {
+      "id": "rel-064",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-other-001",
+        "name": "潍柴动力"
+      },
+      "location": "美国",
+      "products": [
+        "发动机"
+      ],
+      "status": "已投产",
+      "overseas": {
+        "country": "美国"
+      }
+    },
+    {
+      "id": "rel-065",
+      "type": "licensing",
+      "domestic": {
+        "id": "cn-pharma-002",
+        "name": "百济神州"
+      },
+      "overseas": {
+        "name": "诺华",
+        "country": "瑞士"
+      },
+      "products": [
+        "替雷利珠单抗海外权益"
+      ]
+    },
+    {
+      "id": "rel-066",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-011",
+        "name": "长城汽车"
+      },
+      "overseas": {
+        "country": "俄罗斯"
+      },
+      "products": [
+        "SUV"
+      ],
+      "since": "2019",
+      "location": "俄罗斯图拉州",
+      "status": "已投产",
+      "source": "http://auto.cnr.cn/gdzx/20190605/t20190605_524640629.shtml",
+      "capacity": "15万辆/年"
+    },
+    {
+      "id": "rel-067",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-011",
+        "name": "长城汽车"
+      },
+      "overseas": {
+        "country": "巴西"
+      },
+      "products": [
+        "汽车"
+      ],
+      "since": "2025",
+      "location": "巴西圣保罗州伊拉塞马波利斯",
+      "status": "已投产",
+      "source": "https://finance.eastmoney.com/a/202508173486190593.html"
+    },
+    {
+      "id": "rel-068",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-012",
+        "name": "亿纬锂能"
+      },
+      "overseas": {
+        "country": "马来西亚"
+      },
+      "products": [
+        "圆柱电池"
+      ],
+      "location": "马来西亚",
+      "source": "https://www.evebattery.com/news-932",
+      "status": "已投产"
+    },
+    {
+      "id": "rel-069",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-energy-005",
+        "name": "晶科能源"
+      },
+      "overseas": {
+        "country": "马来西亚"
+      },
+      "products": [
+        "光伏电池片",
+        "光伏组件"
+      ],
+      "location": "马来西亚槟城",
+      "source": "https://www.energytrend.cn/news/20150616-11773.html"
+    },
+    {
+      "id": "rel-070",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-energy-006",
+        "name": "天合光能"
+      },
+      "overseas": {
+        "country": "印尼"
+      },
+      "products": [
+        "光伏电池",
+        "光伏组件"
+      ],
+      "location": "印尼",
+      "source": "https://stock.stockstar.com/RB2025041700022456.shtml"
+    },
+    {
+      "id": "rel-071",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-energy-006",
+        "name": "天合光能"
+      },
+      "overseas": {
+        "country": "越南"
+      },
+      "products": [
+        "光伏电池",
+        "光伏组件"
+      ],
+      "location": "越南太原省",
+      "source": "https://www.trinasolar.com/cn/20210518-0212/",
+      "since": "2021"
+    },
+    {
+      "id": "rel-072",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-energy-006",
+        "name": "天合光能"
+      },
+      "overseas": {
+        "country": "泰国"
+      },
+      "products": [
+        "光伏电池",
+        "光伏组件"
+      ],
+      "location": "泰国",
+      "source": "https://stock.stockstar.com/RB2025041700022456.shtml"
+    },
+    {
+      "id": "rel-073",
+      "type": "outsourcing",
+      "domestic": {
+        "id": "cn-energy-006",
+        "name": "天合光能"
+      },
+      "overseas": {
+        "name": "美国合作组件厂商",
+        "country": "美国"
+      },
+      "products": [
+        "光伏组件"
+      ],
+      "source": "https://stock.stockstar.com/RB2025041700022456.shtml"
+    },
+    {
+      "id": "rel-074",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-011",
+        "name": "立讯精密"
+      },
+      "overseas": {
+        "name": "苹果",
+        "country": "美国"
+      },
+      "products": [
+        "声学整机",
+        "连接器"
+      ],
+      "source": "https://finance.eastmoney.com/a/202507233465666152.html"
+    },
+    {
+      "id": "rel-075",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-tech-011",
+        "name": "立讯精密"
+      },
+      "overseas": {
+        "name": "莱尼(Leoni AG)",
+        "country": "德国"
+      },
+      "products": [
+        "汽车线束"
+      ],
+      "since": "2024",
+      "source": "https://paper.cnstock.com/html/2024-09/14/content_1968889.htm"
+    },
+    {
+      "id": "rel-076",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-other-006",
+        "name": "万华化学"
+      },
+      "overseas": {
+        "name": "宝思德化学(BorsodChem)",
+        "country": "匈牙利"
+      },
+      "products": [
+        "MDI",
+        "TDI"
+      ],
+      "since": "2011",
+      "source": "https://en.whchem.com/cmscontent/827.html"
+    },
+    {
+      "id": "rel-077",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-home-003",
+        "name": "格力电器"
+      },
+      "overseas": {
+        "country": "巴西",
+        "name": "格力电器巴西有限公司(马瑙斯工厂)"
+      },
+      "products": [
+        "家用空调",
+        "轻型商用空调"
+      ],
+      "since": "2001",
+      "location": "巴西马瑙斯",
+      "status": "已投产",
+      "source": "http://www.chinanews.com.cn/2001-06-08/26/96754.html"
+    },
+    {
+      "id": "rel-078",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-tech-008",
+        "name": "传音"
+      },
+      "overseas": {
+        "country": "印度"
+      },
+      "products": [
+        "手机"
+      ],
+      "location": "印度",
+      "source": "https://www.moneycontrol.com/news/business/transsion-taps-india-as-export-hub-for-africa-eyes-rural-5g-market-with-tecno-brand-push-13045574.html"
+    },
+    {
+      "id": "rel-079",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "med-011",
+        "name": "联影医疗"
+      },
+      "overseas": {
+        "name": "加州大学戴维斯分校医学中心(UC Davis Health)",
+        "country": "美国"
+      },
+      "products": [
+        "uEXPLORER 全身PET/CT"
+      ],
+      "source": "https://usa.united-imaging.com/news/press/first-patient-scans-uexplorer"
+    },
+    {
+      "id": "rel-080",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "med-011",
+        "name": "联影医疗"
+      },
+      "overseas": {
+        "name": "美国医疗机构市场(FDA 510(k)认证后销售)",
+        "country": "美国"
+      },
+      "products": [
+        "uEXPLORER 全身PET/CT"
+      ],
+      "since": "2019",
+      "source": "https://usa.united-imaging.com/news/press/uexplorer-available-in-us"
+    },
+    {
+      "id": "rel-081",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-semi-006",
+        "name": "长电科技"
+      },
+      "overseas": {
+        "name": "STATS ChipPAC(星科金朋)",
+        "country": "新加坡"
+      },
+      "products": [
+        "半导体封装测试业务"
+      ],
+      "since": "2015",
+      "source": "http://www.p5w.net/kuaixun/201501/t20150113_912523.htm"
+    },
+    {
+      "id": "rel-082",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-semi-006",
+        "name": "长电科技"
+      },
+      "overseas": {
+        "name": "星科金朋新加坡封测基地",
+        "country": "新加坡"
+      },
+      "products": [
+        "半导体封装测试"
+      ],
+      "location": "新加坡",
+      "status": "已投产",
+      "source": "https://www.iflr1000.com/Deal/Profile/13272"
+    },
+    {
+      "id": "rel-083",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-semi-007",
+        "name": "通富微电"
+      },
+      "overseas": {
+        "name": "AMD(苏州及槟城封测厂各85%股权)",
+        "country": "美国"
+      },
+      "products": [
+        "集成电路封装测试"
+      ],
+      "since": "2016",
+      "source": "https://www.tfme.com/news/378.html?_detailId=p"
+    },
+    {
+      "id": "rel-084",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-semi-007",
+        "name": "通富微电"
+      },
+      "overseas": {
+        "name": "AMD",
+        "country": "美国"
+      },
+      "products": [
+        "高端处理器封装测试"
+      ],
+      "since": "2016",
+      "jointVenture": "TF-AMD(通富超威苏州/通富超威槟城)",
+      "purpose": "承接AMD高端处理器FCBGA先进封装与测试",
+      "source": "https://www.tfme.com/news/378.html?_detailId=p"
+    },
+    {
+      "id": "rel-085",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-semi-007",
+        "name": "通富微电"
+      },
+      "overseas": {
+        "name": "通富超威槟城(TF-AMD Penang)",
+        "country": "马来西亚"
+      },
+      "products": [
+        "集成电路先进封装与测试"
+      ],
+      "since": "2016",
+      "location": "马来西亚槟城",
+      "status": "已投产",
+      "source": "https://www.tfme.com/news/378.html?_detailId=p"
+    },
+    {
+      "id": "rel-086",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-semi-007",
+        "name": "通富微电"
+      },
+      "overseas": {
+        "name": "AMD",
+        "country": "美国"
+      },
+      "products": [
+        "CPU/GPU 封测服务"
+      ],
+      "since": "2016",
+      "source": "https://yuanchuang.10jqka.com.cn/20230216/c644911229.shtml"
+    },
+    {
+      "id": "rel-087",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-semi-008",
+        "name": "华虹公司"
+      },
+      "overseas": {
+        "name": "意法半导体(STMicroelectronics)",
+        "country": "瑞士"
+      },
+      "products": [
+        "STM32 微控制器晶圆代工(40nm)"
+      ],
+      "source": "https://newsroom.st.com/zh/media-center/press-item.html/t4767.html"
+    },
+    {
+      "id": "rel-088",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-other-006",
+        "name": "万华化学"
+      },
+      "overseas": {
+        "name": "宝思德化学(BC Company)",
+        "country": "匈牙利"
+      },
+      "products": [
+        "MDI",
+        "TDI"
+      ],
+      "since": "2011",
+      "location": "匈牙利卡辛茨巴茨卡(Kazincbarcika)",
+      "capacity": "MDI/TDI 合计65万吨/年",
+      "status": "已投产",
+      "source": "http://app.cnstock.com/zzb/zgzqb/html/2026-08/26/nw.D110000zgzqb_20260826_7-B004.htm"
+    },
+    {
+      "id": "rel-089",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-other-006",
+        "name": "万华化学"
+      },
+      "overseas": {
+        "name": "瑞典国际化工(Chematur Technologies AB)",
+        "country": "瑞典"
+      },
+      "products": [
+        "化工工艺技术与装备"
+      ],
+      "since": "2019",
+      "source": "https://www.whchem.com/column/79/ceDQNkBF/"
+    },
+    {
+      "id": "rel-090",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-other-006",
+        "name": "万华化学"
+      },
+      "overseas": {
+        "country": "匈牙利"
+      },
+      "products": [
+        "化工新材料研发"
+      ],
+      "location": "匈牙利格德勒(Gödöllő)",
+      "source": "https://www.whchem.com/column/79/ceDQNkBF/"
+    },
+    {
+      "id": "rel-091",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-007",
+        "name": "中集集团"
+      },
+      "overseas": {
+        "name": "英国高端养老公寓项目业主",
+        "country": "英国"
+      },
+      "products": [
+        "模块化建筑"
+      ],
+      "source": "https://stock.stockstar.com/IG2026012200016929.shtml"
+    },
+    {
+      "id": "rel-092",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-007",
+        "name": "中集集团"
+      },
+      "overseas": {
+        "name": "英国伦敦模块化酒店项目客户",
+        "country": "英国"
+      },
+      "products": [
+        "模块化建筑"
+      ],
+      "since": "2015",
+      "source": "http://paper.wenweipo.com/2018/03/02/ME1803020019.htm"
+    },
+    {
+      "id": "rel-093",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-other-008",
+        "name": "中国中车"
+      },
+      "overseas": {
+        "name": "CRRC 马萨诸塞州春田工厂",
+        "country": "美国"
+      },
+      "products": [
+        "波士顿橙线/红线地铁车辆"
+      ],
+      "since": "2014",
+      "location": "美国马萨诸塞州斯普林菲尔德",
+      "status": "已投产",
+      "source": "http://global.chinadaily.com.cn/a/201812/20/WS5c1afb3aa3107d4c3a001d67.html"
+    },
+    {
+      "id": "rel-094",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-008",
+        "name": "中国中车"
+      },
+      "overseas": {
+        "name": "芝加哥交通局(CTA)",
+        "country": "美国"
+      },
+      "products": [
+        "7000系列地铁车辆"
+      ],
+      "since": "2016",
+      "source": "https://m.thepaper.cn/newsDetail_forward_1442173"
+    },
+    {
+      "id": "rel-095",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-other-008",
+        "name": "中国中车"
+      },
+      "overseas": {
+        "name": "马来西亚中车轨道交通装备有限公司",
+        "country": "马来西亚"
+      },
+      "products": [
+        "城轨车辆",
+        "动车组"
+      ],
+      "since": "2015",
+      "location": "马来西亚霹雳州",
+      "capacity": "年产200辆城轨车辆",
+      "status": "已投产",
+      "source": "http://jingji.cctv.com/2017/05/05/ARTIxK7Y94NoObH8NIx33Dki170505.shtml"
+    },
+    {
+      "id": "rel-096",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-008",
+        "name": "中国中车"
+      },
+      "overseas": {
+        "name": "Malaysia National Infrastructure Corporation",
+        "country": "马来西亚"
+      },
+      "products": [
+        "全自动无人驾驶地铁列车"
+      ],
+      "since": "2017",
+      "source": "https://news.cgtn.com/news/7a41544d78557a6333566d54/index.html"
+    },
+    {
+      "id": "rel-097",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-other-008",
+        "name": "中国中车"
+      },
+      "overseas": {
+        "name": "Downer Group/Plenary Group",
+        "country": "澳大利亚"
+      },
+      "products": [
+        "墨尔本高运量地铁列车(HCMT)"
+      ],
+      "since": "2016",
+      "jointVenture": "Evolution Rail",
+      "purpose": "墨尔本HCMT项目设计、制造与维护",
+      "source": "https://www.crrcgc.cc/en/2016-11/28/article_8B7EBB91375B49C99EBF9B6EFD2DE40B.html"
+    },
+    {
+      "id": "rel-098",
+      "type": "licensing",
+      "domestic": {
+        "id": "cn-tech-012",
+        "name": "荣耀"
+      },
+      "overseas": {
+        "name": "HTech(Honor Tech India)",
+        "country": "印度"
+      },
+      "products": [
+        "智能手机"
+      ],
+      "since": "2023",
+      "source": "https://techcrunch.com/2023/09/14/honor-90-india-launch/"
+    },
+    {
+      "id": "rel-099",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-tech-012",
+        "name": "荣耀"
+      },
+      "overseas": {
+        "country": "孟加拉国"
+      },
+      "products": [
+        "智能手机"
+      ],
+      "since": "2025",
+      "location": "孟加拉国",
+      "capacity": "约100万台/年(预计)",
+      "status": "已投产",
+      "source": "http://sz.people.com.cn/n2/2025/1205/c202846-41433896.html"
+    },
+    {
+      "id": "rel-100",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-tech-013",
+        "name": "大疆创新"
+      },
+      "overseas": {
+        "country": "美国"
+      },
+      "products": [
+        "无人机",
+        "影像设备"
+      ],
+      "location": "美国",
+      "source": "https://www.dji.com/contact"
+    },
+    {
+      "id": "rel-101",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-014",
+        "name": "石头科技"
+      },
+      "overseas": {
+        "name": "Target",
+        "country": "美国"
+      },
+      "products": [
+        "扫地机器人"
+      ],
+      "source": "https://www.cls.cn/detail/xk/66a8578feb96f634befd1737"
+    },
+    {
+      "id": "rel-102",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-014",
+        "name": "石头科技"
+      },
+      "overseas": {
+        "name": "Best Buy",
+        "country": "美国"
+      },
+      "products": [
+        "扫地机器人"
+      ],
+      "source": "https://www.cls.cn/detail/xk/66a8578feb96f634befd1737"
+    },
+    {
+      "id": "rel-103",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-015",
+        "name": "安克创新"
+      },
+      "overseas": {
+        "name": "Amazon",
+        "country": "美国"
+      },
+      "products": [
+        "充电类产品",
+        "智能创新类产品"
+      ],
+      "source": "https://reportdocs.static.szse.cn/UpFiles/rasinfodisc1/202304/RAS_202304_D28137B121714942B1DDB0E7AD3F18DA.pdf"
+    },
+    {
+      "id": "rel-104",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-015",
+        "name": "安克创新"
+      },
+      "overseas": {
+        "name": "Walmart",
+        "country": "美国"
+      },
+      "products": [
+        "充电类产品",
+        "智能创新类产品"
+      ],
+      "source": "https://reportdocs.static.szse.cn/UpFiles/rasinfodisc1/202304/RAS_202304_D28137B121714942B1DDB0E7AD3F18DA.pdf"
+    },
+    {
+      "id": "rel-105",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-015",
+        "name": "安克创新"
+      },
+      "overseas": {
+        "name": "Best Buy",
+        "country": "美国"
+      },
+      "products": [
+        "充电类产品",
+        "智能创新类产品"
+      ],
+      "source": "https://reportdocs.static.szse.cn/UpFiles/rasinfodisc1/202304/RAS_202304_D28137B121714942B1DDB0E7AD3F18DA.pdf"
+    },
+    {
+      "id": "rel-106",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-015",
+        "name": "安克创新"
+      },
+      "overseas": {
+        "name": "Target",
+        "country": "美国"
+      },
+      "products": [
+        "充电类产品",
+        "智能创新类产品"
+      ],
+      "source": "https://reportdocs.static.szse.cn/UpFiles/rasinfodisc1/202304/RAS_202304_D28137B121714942B1DDB0E7AD3F18DA.pdf"
+    },
+    {
+      "id": "rel-107",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-015",
+        "name": "安克创新"
+      },
+      "overseas": {
+        "name": "7-Eleven",
+        "country": "日本"
+      },
+      "products": [
+        "充电类产品"
+      ],
+      "source": "https://reportdocs.static.szse.cn/UpFiles/rasinfodisc1/202304/RAS_202304_D28137B121714942B1DDB0E7AD3F18DA.pdf"
+    },
+    {
+      "id": "rel-108",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-tech-011",
+        "name": "立讯精密"
+      },
+      "overseas": {
+        "country": "越南"
+      },
+      "products": [
+        "连接器/线缆",
+        "消费电子零组件"
+      ],
+      "location": "越南北宁省",
+      "status": "已投产",
+      "source": "https://laoyaoba.com/n/884105"
+    },
+    {
+      "id": "rel-109",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-016",
+        "name": "中际旭创"
+      },
+      "overseas": {
+        "name": "北美超大规模云厂商(Google/Microsoft/Amazon/Meta 等)",
+        "country": "美国"
+      },
+      "products": [
+        "高速光模块"
+      ],
+      "source": "https://caifuhao.eastmoney.com/news/20251125195803610891660"
+    },
+    {
+      "id": "rel-110",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-tech-016",
+        "name": "中际旭创"
+      },
+      "overseas": {
+        "country": "泰国"
+      },
+      "products": [
+        "高速光模块"
+      ],
+      "location": "泰国",
+      "status": "已投产",
+      "source": "https://www.jiemian.com/article/14875921.html"
+    },
+    {
+      "id": "rel-111",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-tech-017",
+        "name": "TCL电子"
+      },
+      "overseas": {
+        "country": "越南"
+      },
+      "products": [
+        "电视整机",
+        "显示模组"
+      ],
+      "location": "越南",
+      "status": "已投产",
+      "source": "http://bgimg.ce.cn/xwzx/gnsz/gdxw/201902/26/t20190226_31565432.shtml"
+    },
+    {
+      "id": "rel-112",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-tech-017",
+        "name": "TCL电子"
+      },
+      "overseas": {
+        "country": "墨西哥"
+      },
+      "products": [
+        "电视整机"
+      ],
+      "location": "墨西哥",
+      "capacity": "约300万台/年",
+      "status": "已投产",
+      "source": "https://www.szhzxw.cn/120210.html"
+    },
+    {
+      "id": "rel-113",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-tech-017",
+        "name": "TCL电子"
+      },
+      "overseas": {
+        "country": "波兰"
+      },
+      "products": [
+        "电视整机"
+      ],
+      "location": "波兰",
+      "status": "已投产",
+      "source": "https://cacs.mofcom.gov.cn/article/flfwpt/jyjdy/cgal/202305/176551.html"
+    },
+    {
+      "id": "rel-114",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-tech-017",
+        "name": "TCL电子"
+      },
+      "overseas": {
+        "country": "巴基斯坦"
+      },
+      "products": [
+        "电视整机"
+      ],
+      "location": "巴基斯坦",
+      "status": "已投产",
+      "source": "https://wt.cfi.cn/p20250926000265.html"
+    },
+    {
+      "id": "rel-115",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-tech-017",
+        "name": "TCL电子"
+      },
+      "overseas": {
+        "name": "SEMP",
+        "country": "巴西"
+      },
+      "products": [
+        "电视整机",
+        "家电"
+      ],
+      "since": "2016",
+      "jointVenture": "SEMP TCL",
+      "purpose": "巴西及海外市场研发、制造与销售电视机等中高端家电",
+      "source": "https://companies.caixin.com/2016-07-25/100970478.html"
+    },
+    {
+      "id": "rel-116",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-semi-001",
+        "name": "中芯国际"
+      },
+      "overseas": {
+        "name": "Qualcomm(高通)",
+        "country": "美国"
+      },
+      "products": [
+        "28nm 晶圆代工",
+        "骁龙410 处理器"
+      ],
+      "since": "2014",
+      "source": "https://www.qualcomm.com/news/releases/2014/07/smic-and-qualcomm-collaborate-28nm-wafer-production-china"
+    },
+    {
+      "id": "rel-117",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-home-003",
+        "name": "格力电器"
+      },
+      "overseas": {
+        "name": "格力巴基斯坦生产基地",
+        "country": "巴基斯坦"
+      },
+      "products": [
+        "空调"
+      ],
+      "since": "2006",
+      "location": "巴基斯坦",
+      "status": "已投产",
+      "source": "http://finance.sina.com.cn/stock/s/20060328/10492453602.shtml"
+    },
+    {
+      "id": "rel-118",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-tech-008",
+        "name": "传音"
+      },
+      "overseas": {
+        "name": "埃塞俄比亚手机组装厂",
+        "country": "埃塞俄比亚"
+      },
+      "products": [
+        "手机本地组装"
+      ],
+      "location": "埃塞俄比亚亚的斯亚贝巴",
+      "status": "已投产",
+      "source": "https://www.thereporterethiopia.com/1057/"
+    },
+    {
+      "id": "rel-119",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-energy-003",
+        "name": "阳光电源"
+      },
+      "overseas": {
+        "name": "印度 10GW 逆变器制造基地",
+        "country": "印度"
+      },
+      "products": [
+        "光伏逆变器"
+      ],
+      "location": "印度",
+      "status": "已投产",
+      "source": "https://www.pvexpo.org/article/sungrow-inaugurates-10-gw-solar-inverter-manufacturing-facility-in-india"
+    },
+    {
+      "id": "rel-120",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-energy-003",
+        "name": "阳光电源"
+      },
+      "overseas": {
+        "name": "TSE(Thai Solar Energy)",
+        "country": "泰国"
+      },
+      "products": [
+        "光伏逆变器"
+      ],
+      "source": "https://www.ryt9.com/s/prg/12834685"
+    },
+    {
+      "id": "rel-121",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-energy-004",
+        "name": "金风科技"
+      },
+      "overseas": {
+        "name": "Sachal Energy Development",
+        "country": "巴基斯坦"
+      },
+      "products": [
+        "风电场建设及风电机组"
+      ],
+      "location": "巴基斯坦吉姆皮尔(Jhimpir)",
+      "source": "https://wind.in-en.com/html/wind-2301694.shtml"
+    },
+    {
+      "id": "rel-122",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-fin-001",
+        "name": "工商银行"
+      },
+      "overseas": {
+        "country": "加拿大"
+      },
+      "products": [
+        "商业银行服务"
+      ],
+      "location": "加拿大多伦多",
+      "source": "https://canada.icbc.com.cn/cn/page/872701794130685952.html"
+    },
+    {
+      "id": "rel-123",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-fin-002",
+        "name": "中国银行"
+      },
+      "overseas": {
+        "country": "中国澳门"
+      },
+      "products": [
+        "商业银行服务"
+      ],
+      "location": "中国澳门",
+      "source": "https://www.boc.cn/aboutboc/bi1/202608/t20260829_25688702.html"
+    },
+    {
+      "id": "rel-124",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-fin-003",
+        "name": "招商银行"
+      },
+      "overseas": {
+        "name": "永隆银行(现招商永隆银行)",
+        "country": "中国香港"
+      },
+      "products": [
+        "银行并购"
+      ],
+      "since": "2008",
+      "source": "https://paper.cnstock.com/html/2008-06/03/content_61903716.htm"
+    },
+    {
+      "id": "rel-125",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-fin-003",
+        "name": "招商银行"
+      },
+      "overseas": {
+        "country": "卢森堡"
+      },
+      "products": [
+        "商业银行服务"
+      ],
+      "location": "卢森堡卢森堡市",
+      "source": "https://www.cmbchina.com/cmbir/DetailInfo.aspx?chnl=announcement&id=1375"
+    },
+    {
+      "id": "rel-126",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-energy-007",
+        "name": "晶澳科技"
+      },
+      "overseas": {
+        "country": "越南"
+      },
+      "products": [
+        "光伏组件"
+      ],
+      "location": "越南北江省",
+      "status": "已投产",
+      "source": "https://ipcbacgiang.com/dai-su-trung-quoc-hung-ba-tham-cong-ty-tnhh-ja-solar-tai-bac-giang.html"
+    },
+    {
+      "id": "rel-127",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-energy-008",
+        "name": "特变电工"
+      },
+      "overseas": {
+        "name": "塔吉克斯坦政府(500kV南北输变电项目)",
+        "country": "塔吉克斯坦"
+      },
+      "products": [
+        "输变电成套工程",
+        "变压器"
+      ],
+      "since": "2018",
+      "source": "https://powerline.net.in/2018/05/08/teba-initiates-construction-new-500-kv-transmission-project-tajikistan/"
+    },
+    {
+      "id": "rel-128",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-energy-009",
+        "name": "正泰电器"
+      },
+      "overseas": {
+        "name": "Kançal Enerji",
+        "country": "土耳其"
+      },
+      "products": [
+        "光伏设备",
+        "储能系统"
+      ],
+      "source": "https://www.escn.com.cn/news/show-2242922.html"
+    },
+    {
+      "id": "rel-129",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-energy-010",
+        "name": "明阳智能"
+      },
+      "overseas": {
+        "name": "Renexia(Beleolico 海上风电场)",
+        "country": "意大利"
+      },
+      "products": [
+        "MySE 3.0-135 海上风机",
+        "运维服务"
+      ],
+      "source": "http://newenergy.giec.cas.cn/fn/fndt/202210/t20221008_747578.html"
+    },
+    {
+      "id": "rel-130",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-energy-010",
+        "name": "明阳智能"
+      },
+      "overseas": {
+        "name": "Renexia(Med Wind 2.8GW 漂浮式海上风电项目)",
+        "country": "意大利"
+      },
+      "products": [
+        "漂浮式海上风机"
+      ],
+      "source": "https://www.world-energy.org/article/45137.html"
+    },
+    {
+      "id": "rel-131",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-energy-010",
+        "name": "明阳智能"
+      },
+      "overseas": {
+        "country": "意大利"
+      },
+      "products": [
+        "海上风机"
+      ],
+      "location": "意大利(塔兰托为候选厂址)",
+      "status": "规划中",
+      "source": "https://www.worldports.org/mingyang-smart-energy-agrees-plan-to-build-offshore-wind-turbines-in-italy/"
+    },
+    {
+      "id": "rel-132",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-009",
+        "name": "东方电气"
+      },
+      "overseas": {
+        "name": "坦桑尼亚朱利诺水电站(Julius Nyerere)",
+        "country": "坦桑尼亚"
+      },
+      "products": [
+        "水轮机",
+        "发电机",
+        "主进水阀"
+      ],
+      "source": "https://www.dongfang.com/info/1469/19188.htm"
+    },
+    {
+      "id": "rel-133",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-009",
+        "name": "东方电气"
+      },
+      "overseas": {
+        "name": "阿塞拜疆明盖恰尔电站",
+        "country": "阿塞拜疆"
+      },
+      "products": [
+        "电站设备"
+      ],
+      "source": "https://www.dongfang.com/info/1035/19628.htm"
+    },
+    {
+      "id": "rel-134",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-011",
+        "name": "长城汽车"
+      },
+      "overseas": {
+        "country": "泰国"
+      },
+      "products": [
+        "哈弗H6 HEV",
+        "欧拉好猫"
+      ],
+      "since": "2021",
+      "location": "泰国罗勇府",
+      "status": "已投产",
+      "source": "https://wap.stockstar.com/detail/IG2025092400029474"
+    },
+    {
+      "id": "rel-135",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-013",
+        "name": "吉利汽车"
+      },
+      "overseas": {
+        "name": "BelGee(白俄吉利)工厂",
+        "country": "白俄罗斯"
+      },
+      "products": [
+        "吉利乘用车"
+      ],
+      "location": "白俄罗斯鲍里索夫",
+      "status": "已投产",
+      "source": "https://world.people.com.cn/n1/2018/0901/c1002-30265085.html"
+    },
+    {
+      "id": "rel-136",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-auto-013",
+        "name": "吉利汽车"
+      },
+      "overseas": {
+        "name": "雷诺集团(Renault Group)",
+        "country": "法国"
+      },
+      "products": [
+        "内燃机及混合动力总成"
+      ],
+      "since": "2024",
+      "jointVenture": "HORSE Powertrain Limited",
+      "purpose": "研发、生产内燃机与混合动力总成",
+      "source": "https://media.renaultgroup.com/renault-group-and-geely-announce-the-creation-of-leading-powertrain-technology-company-horse-powertrain-limited/?lang=fra"
+    },
+    {
+      "id": "rel-137",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-auto-014",
+        "name": "上汽集团"
+      },
+      "overseas": {
+        "name": "正大集团(Charoen Pokphand)",
+        "country": "泰国"
+      },
+      "products": [
+        "MG品牌整车",
+        "动力电池"
+      ],
+      "jointVenture": "上汽正大汽车(SAIC Motor-CP)",
+      "purpose": "MG整车及动力电池泰国本地化生产与销售",
+      "source": "https://www.sohu.com/a/732904394_267106"
+    },
+    {
+      "id": "rel-138",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-auto-014",
+        "name": "上汽集团"
+      },
+      "overseas": {
+        "name": "JSW集团(JSW Group)",
+        "country": "印度"
+      },
+      "products": [
+        "MG品牌整车"
+      ],
+      "since": "2023",
+      "jointVenture": "JSW MG Motor India",
+      "purpose": "MG品牌印度本地化生产与销售(哈洛尔工厂)",
+      "source": "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/jsw-mg-motor-to-invest-6000-crore-to-expand-halol-capacity-scale-nev-push/133543564"
+    },
+    {
+      "id": "rel-139",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-auto-015",
+        "name": "蔚来"
+      },
+      "overseas": {
+        "name": "挪威首店(NIO House 奥斯陆)",
+        "country": "挪威"
+      },
+      "products": [
+        "ES8"
+      ],
+      "since": "2021",
+      "location": "奥斯陆",
+      "source": "https://company.cnstock.com/company/scp_gsxw/202109/4763336.htm"
+    },
+    {
+      "id": "rel-140",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-auto-015",
+        "name": "蔚来"
+      },
+      "overseas": {
+        "name": "柏林销售与服务网络(覆盖德/荷/丹/瑞典)",
+        "country": "德国"
+      },
+      "products": [
+        "ET7",
+        "EL7",
+        "ET5"
+      ],
+      "since": "2022",
+      "location": "柏林",
+      "source": "https://www.chinanews.com.cn/cj/2022/10-09/9869056.shtml"
+    },
+    {
+      "id": "rel-141",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-auto-015",
+        "name": "蔚来"
+      },
+      "overseas": {
+        "name": "全球设计中心(Design Headquarters)",
+        "country": "德国"
+      },
+      "location": "慕尼黑",
+      "source": "https://www.nio.com/blog/story-nios-design-headquarters"
+    },
+    {
+      "id": "rel-142",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-auto-016",
+        "name": "理想汽车"
+      },
+      "overseas": {
+        "name": "埃及官方销售与服务网络",
+        "country": "埃及"
+      },
+      "since": "2025",
+      "location": "埃及",
+      "source": "http://finance.people.com.cn/n1/2025/1225/c1004-40631675.html"
+    },
+    {
+      "id": "rel-143",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-auto-016",
+        "name": "理想汽车"
+      },
+      "overseas": {
+        "name": "哈萨克斯坦官方销售与服务网络",
+        "country": "哈萨克斯坦"
+      },
+      "since": "2025",
+      "location": "哈萨克斯坦",
+      "source": "http://finance.people.com.cn/n1/2025/1225/c1004-40631675.html"
+    },
+    {
+      "id": "rel-144",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-auto-016",
+        "name": "理想汽车"
+      },
+      "overseas": {
+        "name": "阿塞拜疆官方销售与服务网络",
+        "country": "阿塞拜疆"
+      },
+      "since": "2025",
+      "location": "阿塞拜疆",
+      "source": "http://finance.people.com.cn/n1/2025/1225/c1004-40631675.html"
+    },
+    {
+      "id": "rel-145",
+      "type": "licensing",
+      "domestic": {
+        "id": "cn-auto-017",
+        "name": "小鹏汽车"
+      },
+      "overseas": {
+        "name": "大众汽车集团(Volkswagen Group)",
+        "country": "德国"
+      },
+      "products": [
+        "B级纯电动车型联合开发"
+      ],
+      "since": "2023",
+      "source": "https://fintel.io/doc/sec-xpeng-inc-1810997-ex991-2023-july-26-19564-6814"
+    },
+    {
+      "id": "rel-146",
+      "type": "outsourcing",
+      "domestic": {
+        "id": "cn-auto-017",
+        "name": "小鹏汽车"
+      },
+      "overseas": {
+        "name": "Handal Indonesia Motor",
+        "country": "印度尼西亚"
+      },
+      "products": [
+        "整车本地组装"
+      ],
+      "since": "2025",
+      "source": "https://chejiahao.autohome.com.cn/info/21191930"
+    },
+    {
+      "id": "rel-147",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-012",
+        "name": "亿纬锂能"
+      },
+      "overseas": {
+        "country": "匈牙利"
+      },
+      "products": [
+        "大圆柱电池"
+      ],
+      "location": "匈牙利德布勒森",
+      "status": "建设中",
+      "source": "https://libattery.ofweek.com/2025-09/ART-36008-8130-30671358.html"
+    },
+    {
+      "id": "rel-148",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-auto-012",
+        "name": "亿纬锂能"
+      },
+      "overseas": {
+        "name": "Accelera by Cummins / Daimler Trucks & Buses / PACCAR",
+        "country": "美国"
+      },
+      "products": [
+        "商用车磷酸铁锂电池"
+      ],
+      "location": "美国密西西比州马歇尔县",
+      "jointVenture": "Amplify Cell Technologies",
+      "purpose": "商用车磷酸铁锂电池本地化生产",
+      "source": "https://www.ddtonline.com/most-recent/amplify-cell-technologies-set-begin-construction-marshall-county-6661e6a1c6de2"
+    },
+    {
+      "id": "rel-149",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-018",
+        "name": "国轩高科"
+      },
+      "overseas": {
+        "name": "大众汽车集团(Volkswagen)",
+        "country": "德国"
+      },
+      "products": [
+        "动力电池"
+      ],
+      "since": "2020",
+      "source": "https://finance.sina.com.cn/stock/relnews/cn/2020-06-15/doc-iircuyvi8518160.shtml"
+    },
+    {
+      "id": "rel-150",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-018",
+        "name": "国轩高科"
+      },
+      "overseas": {
+        "name": "与 VinES 合作磷酸铁锂电池工厂",
+        "country": "越南"
+      },
+      "products": [
+        "磷酸铁锂电池"
+      ],
+      "location": "越南",
+      "status": "建设中",
+      "source": "https://m.thepaper.cn/newsDetail_forward_20810032"
+    },
+    {
+      "id": "rel-151",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-018",
+        "name": "国轩高科"
+      },
+      "overseas": {
+        "name": "哥廷根生产基地(Gotion Germany)",
+        "country": "德国"
+      },
+      "products": [
+        "5MWh 液冷储能系统"
+      ],
+      "location": "德国哥廷根",
+      "status": "已投产",
+      "source": "https://www.world-energy.org/article/53011.html"
+    },
+    {
+      "id": "rel-152",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-home-001",
+        "name": "美的集团"
+      },
+      "overseas": {
+        "name": "库卡(KUKA)",
+        "country": "德国"
+      },
+      "products": [
+        "工业机器人",
+        "物流自动化"
+      ],
+      "since": "2016",
+      "source": "http://m.21jingji.com/article/20170106/herald/16527ecb2fc260a38e930179485e3ebb.html"
+    },
+    {
+      "id": "rel-153",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-home-002",
+        "name": "海尔智家"
+      },
+      "overseas": {
+        "name": "Candy",
+        "country": "意大利"
+      },
+      "products": [
+        "家电"
+      ],
+      "since": "2019",
+      "source": "https://epaper.cs.com.cn/zgzqb/html/2019-01/08/nw.D110000zgzqb_20190108_7-B005.htm"
+    },
+    {
+      "id": "rel-154",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-home-004",
+        "name": "海信"
+      },
+      "overseas": {
+        "name": "东芝映像(Toshiba Visual Solutions)",
+        "country": "日本"
+      },
+      "products": [
+        "电视"
+      ],
+      "since": "2017",
+      "source": "http://finance.sina.com.cn/roll/2017-11-16/doc-ifynwhww5323962.shtml"
+    },
+    {
+      "id": "rel-155",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-home-004",
+        "name": "海信"
+      },
+      "overseas": {
+        "name": "Gorenje(古洛尼)",
+        "country": "斯洛文尼亚"
+      },
+      "products": [
+        "家电"
+      ],
+      "since": "2018",
+      "source": "https://www.cnfin.com/stock-xh08/a/20180627/1766573.shtml"
+    },
+    {
+      "id": "rel-156",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-other-001",
+        "name": "潍柴动力"
+      },
+      "overseas": {
+        "name": "凯傲集团(KION Group)",
+        "country": "德国"
+      },
+      "products": [
+        "叉车与供应链装备"
+      ],
+      "since": "2012",
+      "source": "http://v.china.com.cn/finance/2012-09/03/content_26415992.htm"
+    },
+    {
+      "id": "rel-157",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-other-001",
+        "name": "潍柴动力"
+      },
+      "overseas": {
+        "name": "法拉帝(Ferretti)",
+        "country": "意大利"
+      },
+      "products": [
+        "豪华游艇"
+      ],
+      "since": "2012",
+      "source": "https://epaper.gmw.cn/gmrb/html/2012-01/31/nw.D110000gmrb_20120131_5-16.htm?div=-1"
+    },
+    {
+      "id": "rel-158",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-010",
+        "name": "振华重工"
+      },
+      "overseas": {
+        "name": "全球港口运营商(美国岸桥约八成为中国制造)",
+        "country": "全球"
+      },
+      "products": [
+        "岸边集装箱起重机(岸桥)",
+        "场桥"
+      ],
+      "source": "https://news.qq.com/rain/a/20250710A01WLA00"
+    },
+    {
+      "id": "rel-159",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-auto-019",
+        "name": "奇瑞汽车"
+      },
+      "overseas": {
+        "name": "EV Motors(Ebro 母公司)",
+        "country": "西班牙"
+      },
+      "products": [
+        "奇瑞 Omoda",
+        "Ebro 车型"
+      ],
+      "since": "2024",
+      "location": "西班牙巴塞罗那",
+      "capacity": "规划产能 2027 年 5 万辆、2029 年 15 万辆",
+      "purpose": "重启巴塞罗那原日产工厂,生产奇瑞与 Ebro 品牌车型",
+      "source": "https://datanews.caixin.com/mobile/article/ceicTopic/public/ceicIframe/ceicIframe_2.html?styleUseId=1&articleText=%E5%A5%87%E7%91%9E%E6%B1%BD%E8%BD%A6%E6%88%90%E4%B8%BA%E7%AC%AC%E4%B8%80%E5%AE%B6%E5%9C%A8%E6%AC%A7%E6%B4%B2%E7%94%9F%E4%BA%A7%E6%B1%BD%E8%BD%A6%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%EF%BC%8C%E5%B7%A5%E5%8E%82%E9%80%89%E5%9D%80%E6%AD%A3%E6%98%AF%E5%9C%A8%E5%B7%B4%E5%A1%9E%E7%BD%97%E9%82%A3%E3%80%822024%E5%B9%B44%E6%9C%88%EF%BC%8C%E5%A5%87%E7%91%9E%E6%B1%BD%E8%BD%A6%E4%B8%8E%E8%A5%BF%E7%8F%AD%E7%89%99%E6%B1%BD%E8%BD%A6%E5%93%81%E7%89%8CEbro%E6%AF%8D%E5%85%AC%E5%8F%B8EV%20Motors%E7%AD%BE%E7%BD%B2%E5%90%88%E8%B5%84%E5%8D%8F%E8%AE%AE%EF%BC%8C%E4%BB%A5%E9%87%8D%E5%90%AF%E5%BD%93%E5%9C%B0%E4%B8%80%E5%BA%A7%E6%97%A5%E4%BA%A7%E6%B1%BD%E8%BD%A62021%E5%B9%B4%E5%81%9C%E4%BA%A7%E5%B7%A5%E5%8E%82%E7%9A%84%E6%96%B9%E5%BC%8F%E8%90%BD%E5%9C%B0%E6%8A%95%E8%B5%84%E3%80%82"
+    },
+    {
+      "id": "rel-160",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-020",
+        "name": "长安汽车"
+      },
+      "overseas": {
+        "country": "泰国"
+      },
+      "products": [
+        "新能源汽车"
+      ],
+      "since": "2025",
+      "location": "泰国罗勇府",
+      "status": "已投产",
+      "source": "https://chejiahao.autohome.com.cn/info/20301815"
+    },
+    {
+      "id": "rel-161",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-tech-018",
+        "name": "腾讯控股"
+      },
+      "overseas": {
+        "name": "Supercell",
+        "country": "芬兰"
+      },
+      "products": [
+        "移动游戏"
+      ],
+      "since": "2016",
+      "source": "http://www.hxnews.com/news/itkj/kjqy/201606/22/889105.shtml",
+      "jointVenture": "Halti S.A.(腾讯主导收购财团持股平台,收购约 84.3% 股权,对价约 86 亿美元)"
+    },
+    {
+      "id": "rel-162",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-tech-018",
+        "name": "腾讯控股"
+      },
+      "overseas": {
+        "name": "Riot Games(《英雄联盟》开发商)",
+        "country": "美国"
+      },
+      "products": [
+        "游戏"
+      ],
+      "since": "2011",
+      "source": "http://www.nadianshi.com/2015/12/94115"
+    },
+    {
+      "id": "rel-163",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-tech-019",
+        "name": "阿里巴巴"
+      },
+      "overseas": {
+        "name": "Lazada(东南亚电商平台)",
+        "country": "新加坡"
+      },
+      "products": [
+        "电商"
+      ],
+      "since": "2016",
+      "source": "https://m.jiemian.com/article/607903.html"
+    },
+    {
+      "id": "rel-164",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-tech-019",
+        "name": "阿里巴巴"
+      },
+      "overseas": {
+        "name": "Daraz(南亚电商平台)",
+        "country": "南亚"
+      },
+      "products": [
+        "电商"
+      ],
+      "since": "2018",
+      "source": "https://www.bjnews.com.cn/detail/155152850214988.html"
+    },
+    {
+      "id": "rel-165",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-other-011",
+        "name": "顺丰控股"
+      },
+      "overseas": {
+        "name": "嘉里物流(Kerry Logistics)",
+        "country": "中国香港"
+      },
+      "products": [
+        "综合物流"
+      ],
+      "since": "2021",
+      "source": "https://www.guandian.cn/article/20210928/272530.html"
+    },
+    {
+      "id": "rel-166",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-other-012",
+        "name": "中远海控"
+      },
+      "overseas": {
+        "name": "东方海外(OOIL)",
+        "country": "中国香港"
+      },
+      "products": [
+        "集装箱航运"
+      ],
+      "since": "2018",
+      "source": "https://www.financialnews.com.cn/yh/sd/201807/t20180728_143012.html"
+    },
+    {
+      "id": "rel-167",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-consumer-004",
+        "name": "名创优品"
+      },
+      "overseas": {
+        "name": "全球零售门店网络(覆盖112个国家和地区)",
+        "country": "全球"
+      },
+      "products": [
+        "生活家居用品"
+      ],
+      "source": "https://www.stcn.com/article/detail/3517035.html",
+      "location": "全球"
+    },
+    {
+      "id": "rel-168",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-auto-019",
+        "name": "奇瑞汽车"
+      },
+      "overseas": {
+        "name": "CAOA",
+        "country": "巴西"
+      },
+      "products": [
+        "瑞虎(TIGGO)系列SUV"
+      ],
+      "since": "2017",
+      "location": "巴西圣保罗州",
+      "status": "已投产",
+      "jointVenture": "CAOA Chery",
+      "purpose": "CAOA 收购奇瑞巴西业务 50% 权益成立合资公司,共同运营奇瑞巴西工厂",
+      "source": "https://finance.sina.cn/usstock/mggd/2017-11-12/detail-ifynshev5580803.d.html"
+    },
+    {
+      "id": "rel-169",
+      "type": "outsourcing",
+      "domestic": {
+        "id": "cn-auto-019",
+        "name": "奇瑞汽车"
+      },
+      "overseas": {
+        "name": "Inokom",
+        "country": "马来西亚"
+      },
+      "products": [
+        "OMODA E5",
+        "TIGGO 7 PRO"
+      ],
+      "location": "马来西亚居林 Inokom 工厂",
+      "status": "已投产",
+      "purpose": "委托 Inokom 以 CKD 方式本地组装,首台本地组装电动车 OMODA E5 于 2024 年 11 月下线",
+      "source": "https://www.chery.my/2024/11/08/chery-auto-malaysia-celebrates-first-locally-assembled-electric-vehicle-the-omoda-e5/"
+    },
+    {
+      "id": "rel-170",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-021",
+        "name": "广汽集团"
+      },
+      "overseas": {
+        "name": "广汽埃安泰国工厂",
+        "country": "泰国"
+      },
+      "products": [
+        "AION V",
+        "AION Y Plus"
+      ],
+      "since": "2024",
+      "location": "泰国罗勇府",
+      "status": "已投产",
+      "capacity": "一期 5 万辆/年(规划可提升至 10 万辆/年)",
+      "source": "https://www.yicaiglobal.com/news/gac-aions-first-overseas-plant-goes-live-in-thailand"
+    },
+    {
+      "id": "rel-171",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-010",
+        "name": "振华重工"
+      },
+      "overseas": {
+        "name": "休斯敦港 Barbours Cut 集装箱码头",
+        "country": "美国"
+      },
+      "products": [
+        "岸桥(STS 起重机)"
+      ],
+      "location": "美国得克萨斯州休斯敦港",
+      "source": "https://www.worldports.org/usa-zpmc-delivers-four-sts-cranes-to-barbours-cut-terminal/"
+    },
+    {
+      "id": "rel-172",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-010",
+        "name": "振华重工"
+      },
+      "overseas": {
+        "name": "美国多个港口码头(2024 年美国国会相关审查涉及该公司设备)",
+        "country": "美国"
+      },
+      "products": [
+        "岸桥(STS 起重机)"
+      ],
+      "source": "https://oversight.house.gov/wp-content/uploads/2024/06/06.21.24-DOT-China.pdf"
+    },
+    {
+      "id": "rel-173",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-machine-003",
+        "name": "中联重科"
+      },
+      "overseas": {
+        "name": "CIFA",
+        "country": "意大利"
+      },
+      "products": [
+        "混凝土机械"
+      ],
+      "since": "2008",
+      "source": "https://companies.caixin.com/m/2008-06-25/100050986.html"
+    },
+    {
+      "id": "rel-174",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-machine-003",
+        "name": "中联重科"
+      },
+      "overseas": {
+        "name": "中白工业园工程机械生产基地",
+        "country": "白俄罗斯"
+      },
+      "products": [
+        "汽车起重机"
+      ],
+      "since": "2015",
+      "location": "白俄罗斯中白工业园(巨石工业园)",
+      "status": "已投产",
+      "capacity": "年产 672 台汽车吊",
+      "source": "https://www.sinomach.com.cn/xwzx/zgsdt/2021_qydt/202111/t20211130_322506.html"
+    },
+    {
+      "id": "rel-175",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-machine-005",
+        "name": "郑煤机"
+      },
+      "overseas": {
+        "name": "SEG Automotive(原博世起动机和发电机业务)",
+        "country": "德国"
+      },
+      "products": [
+        "起动机",
+        "发电机",
+        "启停系统"
+      ],
+      "since": "2018",
+      "location": "德国斯图加特",
+      "source": "https://www.seg-automotive.com/press-releases/bosch-starter-motors-and-generators-is-now-seg-automotive/"
+    },
+    {
+      "id": "rel-176",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-022",
+        "name": "中国重汽"
+      },
+      "overseas": {
+        "name": "尼日利亚重卡组装厂(与尼方企业及中非发展基金合作)",
+        "country": "尼日利亚"
+      },
+      "products": [
+        "重型卡车"
+      ],
+      "since": "2014",
+      "location": "尼日利亚",
+      "status": "已投产",
+      "source": "http://www.chinadaily.com.cn/cndy/2019-04/26/content_37462607.htm"
+    },
+    {
+      "id": "rel-177",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-022",
+        "name": "中国重汽"
+      },
+      "overseas": {
+        "name": "巴基斯坦 KD 组装厂",
+        "country": "巴基斯坦"
+      },
+      "products": [
+        "重型卡车"
+      ],
+      "since": "2016",
+      "location": "巴基斯坦",
+      "status": "已投产",
+      "source": "http://www.chinadaily.com.cn/cndy/2019-04/26/content_37462607.htm"
+    },
+    {
+      "id": "rel-178",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-022",
+        "name": "中国重汽"
+      },
+      "overseas": {
+        "name": "埃塞俄比亚整车组装厂",
+        "country": "埃塞俄比亚"
+      },
+      "products": [
+        "重型卡车"
+      ],
+      "since": "2017",
+      "location": "埃塞俄比亚",
+      "status": "已投产",
+      "source": "http://www.chinadaily.com.cn/cndy/2019-04/26/content_37462607.htm"
+    },
+    {
+      "id": "rel-179",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-022",
+        "name": "中国重汽"
+      },
+      "overseas": {
+        "name": "马来西亚 CKD 组装厂",
+        "country": "马来西亚"
+      },
+      "products": [
+        "重型卡车(CKD 整车)"
+      ],
+      "location": "马来西亚",
+      "status": "已投产",
+      "source": "https://en.sinotrukinternational.com/eportal/ui?pageId=8703ac0f1b114458af3a5eec1703ea74&articleKey=17006b1223b34ec880928c4fb6a13997&columnId=ab57f8deb4654b74b8cbec295ffe0a62"
+    },
+    {
+      "id": "rel-180",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-tech-019",
+        "name": "阿里巴巴"
+      },
+      "overseas": {
+        "name": "Trendyol",
+        "country": "土耳其"
+      },
+      "products": [
+        "土耳其电商平台"
+      ],
+      "since": "2018",
+      "source": "https://news.pedaily.cn/201808/434694.shtml"
+    },
+    {
+      "id": "rel-181",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "med-012",
+        "name": "九安医疗"
+      },
+      "overseas": {
+        "name": "美国州政府采购(纽约州、马萨诸塞州等)",
+        "country": "美国"
+      },
+      "products": [
+        "iHealth 新冠抗原家用自测试剂盒"
+      ],
+      "since": "2021",
+      "source": "http://static.cninfo.com.cn/finalpage/2022-04-25/1213087326.PDF"
+    },
+    {
+      "id": "rel-182",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-consumer-005",
+        "name": "蜜雪冰城"
+      },
+      "overseas": {
+        "name": "海外门店网络(超 4800 家,以东南亚为主)",
+        "country": "东南亚"
+      },
+      "products": [
+        "现制茶饮",
+        "冰淇淋"
+      ],
+      "location": "东南亚",
+      "source": "https://www.sgpjbg.com/labelsyh/chayinpinpaiguojihualujing/1/6607006.html"
+    },
+    {
+      "id": "rel-183",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-consumer-006",
+        "name": "泡泡玛特"
+      },
+      "overseas": {
+        "name": "东南亚门店与线下渠道(相关收入约 24 亿元,同比 +619%)",
+        "country": "东南亚"
+      },
+      "products": [
+        "潮玩"
+      ],
+      "location": "东南亚",
+      "source": "https://www.sgpjbg.com/labelsyh/zhongguoxiaofeipinpaichuhaidongnaya/1/6557202.html"
+    },
+    {
+      "id": "rel-184",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-consumer-004",
+        "name": "名创优品"
+      },
+      "overseas": {
+        "name": "纽约时代广场旗舰店(北美门店网络)",
+        "country": "美国"
+      },
+      "products": [
+        "生活家居用品",
+        "IP 联名商品"
+      ],
+      "location": "美国纽约市时代广场",
+      "source": "https://www.chinadaily.com.cn/a/202606/20/WS6a35cd82a310986e2b460e95.html"
+    },
+    {
+      "id": "rel-185",
+      "type": "licensing",
+      "domestic": {
+        "id": "cn-consumer-005",
+        "name": "蜜雪冰城"
+      },
+      "overseas": {
+        "name": "日本加盟业务",
+        "country": "日本"
+      },
+      "products": [
+        "现制茶饮",
+        "冰淇淋"
+      ],
+      "since": "2025",
+      "source": "https://www.toutiao.com/article/7491517699068150312/"
+    },
+    {
+      "id": "rel-186",
+      "type": "outsourcing",
+      "domestic": {
+        "id": "cn-consumer-006",
+        "name": "泡泡玛特"
+      },
+      "overseas": {
+        "name": "越南代工厂(面向美国市场供货)",
+        "country": "越南"
+      },
+      "products": [
+        "潮玩盲盒",
+        "毛绒玩具"
+      ],
+      "location": "越南",
+      "status": "已投产",
+      "source": "https://hk.finance.yahoo.com/news/%E6%B3%A1%E6%B3%A1%E7%91%AA%E7%89%B9-09992-%E6%93%AC%E4%BB%8A%E5%B9%B4%E5%BA%95%E5%9C%A8%E7%BE%8E%E5%87%BA%E5%94%AE%E8%B2%A8%E5%85%A8%E7%94%B1%E8%B6%8A%E5%8D%97%E5%BB%A0%E7%94%9F%E7%94%A2-070250046.html"
+    },
+    {
+      "id": "rel-187",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-consumer-006",
+        "name": "泡泡玛特"
+      },
+      "overseas": {
+        "name": "纽约时代广场门店",
+        "country": "美国"
+      },
+      "products": [
+        "潮玩盲盒",
+        "毛绒玩具"
+      ],
+      "location": "美国纽约市时代广场",
+      "source": "https://nypost.com/2026/05/31/business/asian-toy-companies-like-labubu-maker-invading-nycs-times-square-after-recent-departures/"
+    },
+    {
+      "id": "rel-188",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "med-012",
+        "name": "九安医疗"
+      },
+      "overseas": {
+        "name": "美国政府部门",
+        "country": "美国"
+      },
+      "products": [
+        "新冠抗原检测试剂盒"
+      ],
+      "since": "2022",
+      "source": "https://finance.eastmoney.com/a/202211232568512259.html"
+    },
+    {
+      "id": "rel-189",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "med-012",
+        "name": "九安医疗"
+      },
+      "overseas": {
+        "name": "iHealth Labs Inc.",
+        "country": "美国"
+      },
+      "products": [
+        "智能健康设备",
+        "体外诊断产品"
+      ],
+      "location": "美国加利福尼亚州",
+      "source": "https://chinamedglobal.com/blog/andon-health-ihealth-global-device-registration-data-archive"
+    },
+    {
+      "id": "rel-190",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-consumer-007",
+        "name": "伊利集团"
+      },
+      "overseas": {
+        "name": "Westland Co-Operative Dairy",
+        "country": "新西兰"
+      },
+      "products": [
+        "乳制品"
+      ],
+      "since": "2019",
+      "source": "https://epaper.cs.com.cn/zgzqb/html/2019-08/02/nw.D110000zgzqb_20190802_8-B014.htm"
+    },
+    {
+      "id": "rel-191",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-consumer-007",
+        "name": "伊利集团"
+      },
+      "overseas": {
+        "name": "伊利大洋洲生产基地",
+        "country": "新西兰"
+      },
+      "products": [
+        "奶粉",
+        "乳制品"
+      ],
+      "since": "2014",
+      "location": "新西兰",
+      "status": "已投产",
+      "source": "https://www.chinanews.com.cn/cj/2014/11-25/6812184.shtml"
+    },
+    {
+      "id": "rel-192",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-tech-020",
+        "name": "中国移动"
+      },
+      "overseas": {
+        "name": "CMPak（现Zong 4G）",
+        "country": "巴基斯坦"
+      },
+      "since": "2007",
+      "purpose": "2007年收购巴基斯坦运营商Paktel，后更名CMPak并启用Zong品牌，在当地开展全业务运营",
+      "source": "https://www.ccidcom.com/yunying/20100310/uM1nUTj77FObAbzN.html"
+    },
+    {
+      "id": "rel-193",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-tech-020",
+        "name": "中国移动"
+      },
+      "overseas": {
+        "country": "中国香港",
+        "name": "中国移动国际有限公司（CMI）"
+      },
+      "location": "香港",
+      "purpose": "国际业务总部设于香港，自建环球网络中心，火炭数据中心2025年投运",
+      "source": "https://www.cmi.chinamobile.com/tc/corporate-information/about-us"
+    },
+    {
+      "id": "rel-194",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-tech-021",
+        "name": "中国电信"
+      },
+      "overseas": {
+        "country": "中国香港",
+        "name": "中国电信国际有限公司"
+      },
+      "location": "香港",
+      "since": "2012",
+      "purpose": "2012年8月在港挂牌成立，总部设于香港，加快海外拓展并累计覆盖26个国家和地区",
+      "source": "http://www.c114.com.cn/news/117/a711945.html"
+    },
+    {
+      "id": "rel-195",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-tech-022",
+        "name": "中国联通"
+      },
+      "overseas": {
+        "country": "中国香港",
+        "name": "中国联通国际有限公司"
+      },
+      "location": "香港",
+      "since": "2015",
+      "purpose": "2015年宣布成立国际公司，总部设在香港，统筹国际业务",
+      "source": "https://tech.cnr.cn/techtx/20150715/t20150715_519213033.shtml"
+    },
+    {
+      "id": "rel-196",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-tech-022",
+        "name": "中国联通"
+      },
+      "overseas": {
+        "name": "西班牙电信（Telefonica）",
+        "country": "西班牙"
+      },
+      "since": "2009",
+      "purpose": "双方互购对方10亿美元股权，西班牙电信增持联通至约8%股份，结成战略联盟",
+      "source": "http://www.chinadaily.com.cn/hqcj/2009-09/07/content_8662076.htm"
+    },
+    {
+      "id": "rel-197",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-tech-023",
+        "name": "京东集团"
+      },
+      "overseas": {
+        "name": "CECONOMY（MediaMarkt/Saturn）",
+        "country": "德国"
+      },
+      "since": "2025",
+      "purpose": "2025年7月发起每股4.6欧元收购要约，估值约22亿欧元；12月已购入约59.8%股本及表决权，合计将达85.2%",
+      "source": "https://stcn.com/article/detail/3522914.html"
+    },
+    {
+      "id": "rel-198",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-tech-023",
+        "name": "京东集团"
+      },
+      "overseas": {
+        "name": "JD Central",
+        "country": "泰国"
+      },
+      "since": "2017",
+      "purpose": "与泰国尚泰集团（Central Group）合资成立，投资总额5亿美元，平台2018年正式上线运营",
+      "source": "https://item.btime.com/41imtmgvs5k88q817rff03q1s3o"
+    },
+    {
+      "id": "rel-199",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-tech-024",
+        "name": "美团"
+      },
+      "overseas": {
+        "country": "中国香港",
+        "name": "Keeta（香港）"
+      },
+      "location": "香港",
+      "since": "2023",
+      "purpose": "2023年5月海外品牌Keeta在香港上线外卖业务，为出海首站",
+      "source": "https://stcn.com/article/detail/872380.html"
+    },
+    {
+      "id": "rel-200",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-tech-024",
+        "name": "美团"
+      },
+      "overseas": {
+        "country": "沙特阿拉伯",
+        "name": "Keeta（沙特）"
+      },
+      "location": "利雅得等城市",
+      "since": "2024",
+      "purpose": "2024年9月起在利雅得等地上线外卖业务，随后拓展至沙特更多城市",
+      "source": "https://m.thepaper.cn/newsDetail_forward_28974359"
+    },
+    {
+      "id": "rel-201",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-tech-024",
+        "name": "美团"
+      },
+      "overseas": {
+        "country": "巴西",
+        "name": "Keeta（巴西）"
+      },
+      "location": "巴西",
+      "since": "2025",
+      "purpose": "2025年5月巴西总统见证美团签署10亿美元投资协议，Keeta宣布5年内投入10亿美元进入巴西市场",
+      "source": "https://www.meituan.com/zh-HK/news/NN250513086003785"
+    },
+    {
+      "id": "rel-202",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-tech-025",
+        "name": "拼多多"
+      },
+      "overseas": {
+        "country": "美国",
+        "name": "Temu跨境电商平台"
+      },
+      "location": "美国及全球70多个市场",
+      "since": "2022",
+      "purpose": "2022年9月Temu在美国上线，两年内拓展至70多个市场",
+      "source": "https://www.cnfin.com/hg-lb/detail/20241018/4122494_1.html"
+    },
+    {
+      "id": "rel-203",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-tech-025",
+        "name": "拼多多"
+      },
+      "overseas": {
+        "country": "爱尔兰",
+        "name": "PDD Holdings都柏林办公室"
+      },
+      "location": "都柏林",
+      "since": "2023",
+      "purpose": "2023年开设都柏林办公室并将部分业务迁至爱尔兰；公司否认迁都，称总部始终在上海",
+      "source": "http://www.chinadaily.com.cn/a/202305/05/WS6454a20aa310b6054fad13f3.html"
+    },
+    {
+      "id": "rel-204",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-metal-001",
+        "name": "中国宝武"
+      },
+      "overseas": {
+        "country": "沙特阿拉伯"
+      },
+      "location": "沙特厚板工厂项目",
+      "purpose": "宝钢股份首个海外绿地项目，在沙特建设全流程厚板工厂",
+      "source": "https://finance.eastmoney.com/a/202602273656909834.html"
+    },
+    {
+      "id": "rel-205",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-metal-001",
+        "name": "中国宝武"
+      },
+      "overseas": {
+        "name": "西芒杜铁矿项目财团",
+        "country": "几内亚"
+      },
+      "purpose": "宝武资源取得几内亚西芒杜铁矿项目财团控股权，深度参与这一世界级铁矿开发",
+      "source": "https://news.steelhome.com/2026/02/06/n4639540.html?type=old"
+    },
+    {
+      "id": "rel-206",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-fin-004",
+        "name": "中国平安"
+      },
+      "overseas": {
+        "name": "汇丰控股（HSBC Holdings）",
+        "country": "英国"
+      },
+      "purpose": "2020年9月增持汇丰控股1080万股，持股比例突破8%，重新成为其第一大股东",
+      "source": "https://finance.sina.com.cn/roll/2020-09-27/doc-iivhvpwy9060932.shtml"
+    },
+    {
+      "id": "rel-207",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-fin-004",
+        "name": "中国平安"
+      },
+      "overseas": {
+        "name": "伦敦劳埃德大厦（Lloyd's of London大楼）",
+        "country": "英国"
+      },
+      "since": "2013",
+      "purpose": "2013年以2.6亿英镑买下伦敦金融城地标性建筑劳埃德大厦，为中国保险公司海外不动产投资的标志性交易",
+      "source": "http://finance.people.com.cn/n/2013/0708/c1004-22123259.html"
+    },
+    {
+      "id": "rel-208",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-fin-005",
+        "name": "中国人寿"
+      },
+      "overseas": {
+        "country": "中国香港",
+        "name": "中国人寿保险（海外）股份有限公司"
+      },
+      "location": "香港九龙红磡红鸾道18号One Harbour Gate中国人寿中心A座",
+      "purpose": "集团直属海外业务子公司（含港澳特区机构），官网集团业务板块设有海外业务",
+      "source": "https://www.chinalife.com.cn/chinalife/2019-01/09/article_2025112411174320081.html"
+    },
+    {
+      "id": "rel-209",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-fin-005",
+        "name": "中国人寿"
+      },
+      "overseas": {
+        "name": "曼哈顿1285 Avenue of the Americas地标写字楼",
+        "country": "美国"
+      },
+      "since": "2016",
+      "purpose": "2016年以16.5亿美元收购曼哈顿标志性写字楼项目，为当时中国保险资金海外不动产投资的重要案例",
+      "source": "https://www.financialnews.com.cn/bx/xw_99/201605/t20160531_97896.html"
+    },
+    {
+      "id": "rel-210",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-fin-006",
+        "name": "中国人保"
+      },
+      "overseas": {
+        "country": "中国香港",
+        "name": "中国人民保险（香港）有限公司"
+      },
+      "location": "香港",
+      "purpose": "人保集团官网披露的集团成员机构之一，承担集团在港保险业务平台",
+      "source": "https://m.picc.com.cn/wapgkxx/webjbxx/201909/t20190925_29825.html"
+    },
+    {
+      "id": "rel-211",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-fin-007",
+        "name": "中国太保"
+      },
+      "overseas": {
+        "country": "中国香港",
+        "name": "中国太保产险香港、中国太保寿险香港"
+      },
+      "location": "香港",
+      "purpose": "以香港为国际化战略桥头堡：产险香港2024年设海外业务部并承保北区医院、香港T4号主干路等重大工程保险项目；寿险香港2021年12月开业，跻身本港15大人寿保险公司",
+      "source": "https://stock.10jqka.com.cn/hks/20250402/c667174712.shtml"
+    },
+    {
+      "id": "rel-212",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-fin-007",
+        "name": "中国太保"
+      },
+      "overseas": {
+        "country": "中国香港",
+        "name": "中国太保投资管理（香港）有限公司"
+      },
+      "location": "香港",
+      "purpose": "中国太保唯一境外资产管理投资平台，截至2024年底在管资产规模达645亿港元，其中外部第三方委托规模108亿港元",
+      "source": "https://stock.10jqka.com.cn/hks/20250402/c667174712.shtml"
+    },
+    {
+      "id": "rel-213",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-fin-008",
+        "name": "建设银行"
+      },
+      "overseas": {
+        "country": "多国",
+        "name": "境外分支机构网络"
+      },
+      "location": "香港、新加坡、纽约、伦敦、法兰克福、东京、首尔、悉尼、多伦多、迪拜等",
+      "purpose": "官网列示20家境外分行及建行亚洲、建银国际等境外子公司",
+      "source": "http://company.ccb.cn/chn/home/group/fzjgjzgs/jwfzjg/index.shtml"
+    },
+    {
+      "id": "rel-214",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-fin-008",
+        "name": "建设银行"
+      },
+      "overseas": {
+        "name": "巴西BIC银行(BICBANCO)",
+        "country": "巴西"
+      },
+      "since": "2014",
+      "purpose": "2014年9月完成收购BICBANCO（巴西工商银行）72%股权",
+      "source": "https://www.ccb.com/cn/ccbtoday/media/20140902_1409648874.html"
+    },
+    {
+      "id": "rel-215",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-fin-010",
+        "name": "交通银行"
+      },
+      "overseas": {
+        "country": "多国",
+        "name": "境外银行机构网络"
+      },
+      "location": "全球",
+      "purpose": "2025年上半年境外银行机构实现净利润61.52亿元，占集团净利润比例13.37%",
+      "source": "https://stock.stockstar.com/RB2025083000022687.shtml"
+    },
+    {
+      "id": "rel-216",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-fin-011",
+        "name": "兴业银行"
+      },
+      "overseas": {
+        "country": "中国香港",
+        "name": "香港分行"
+      },
+      "location": "香港",
+      "since": "2014",
+      "purpose": "兴业银行首家境外分支机构，2014年3月正式开业",
+      "source": "http://finance.people.com.cn/n/2014/0317/c70846-24658594.html"
+    },
+    {
+      "id": "rel-217",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-fin-012",
+        "name": "浦发银行"
+      },
+      "overseas": {
+        "country": "多国",
+        "name": "境外机构网络"
+      },
+      "location": "全球",
+      "purpose": "2025年年度报告提出三线联动、发挥区域辐射作用，打造三大境外重点区域服务圈",
+      "source": "https://www.9fzt.com/detail/sh_600000_9_b674330c663a88707fea687627466c5f.html"
+    },
+    {
+      "id": "rel-218",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-fin-013",
+        "name": "民生银行"
+      },
+      "overseas": {
+        "country": "中国香港",
+        "name": "香港分行"
+      },
+      "location": "香港",
+      "since": "2012",
+      "purpose": "民生银行在境外设立的第一家分行，2012年3月30日正式开业",
+      "source": "https://www.financialnews.com.cn/yh/xw/201203/t20120331_5045.html"
+    },
+    {
+      "id": "rel-219",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-023",
+        "name": "中国一汽"
+      },
+      "overseas": {
+        "country": "南非",
+        "name": "一汽南非公司库哈工厂"
+      },
+      "location": "南非库哈(Coega)",
+      "purpose": "一汽在南非库哈设整车组装厂;官网称2024年解放牌南非销量突破5000辆、居南非卡车市场第一",
+      "source": "https://www.faw.com.cn/fawcn/373694/373706/5816774/index.html"
+    },
+    {
+      "id": "rel-220",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-auto-023",
+        "name": "中国一汽"
+      },
+      "overseas": {
+        "name": "Al-Haj FAW Motors",
+        "country": "巴基斯坦"
+      },
+      "purpose": "与巴基斯坦Al-Haj集团合资在卡拉奇运营整车组装厂,组装一汽卡车",
+      "source": "https://www.just-auto.com/news/pakistan-al-haj-faw-motors-opens-assembly-plant-in-karachi/"
+    },
+    {
+      "id": "rel-221",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-025",
+        "name": "北汽集团"
+      },
+      "overseas": {
+        "country": "南非",
+        "name": "北汽南非公司(BAIC South Africa)"
+      },
+      "location": "南非",
+      "since": "2018",
+      "purpose": "北京汽车合营企业,南非约40年来首家新建整车厂,2018年7月首款整车下线",
+      "source": "https://news.sina.cn/2018-07-27/detail-ihfvkitx4216837.d.html"
+    },
+    {
+      "id": "rel-222",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-auto-025",
+        "name": "北汽集团"
+      },
+      "overseas": {
+        "name": "埃及国际汽车(EIM)旗下公司",
+        "country": "埃及"
+      },
+      "purpose": "北京汽车与埃及国际汽车(EIM)旗下公司签署合作备忘录,尚处意向阶段",
+      "source": "https://www.baicgroup.com.cn/news/22.2389.html"
+    },
+    {
+      "id": "rel-223",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-logi-005",
+        "name": "中国邮政"
+      },
+      "overseas": {
+        "country": "多国",
+        "name": "中国邮政海外仓网络(15国19仓)"
+      },
+      "location": "15个国家共19个海外仓",
+      "purpose": "2025年服贸会披露：中国邮政投入42架自有飞机、开通33条自主航空线路、25条海运专线、16条铁路专线，已在15个国家布局建设19个海外仓，为中国制造和跨境电商搭建出海通道",
+      "source": "https://www.sohu.com/a/934705426_122014422"
+    },
+    {
+      "id": "rel-224",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-metal-007",
+        "name": "中国五矿"
+      },
+      "overseas": {
+        "name": "拉斯邦巴斯铜矿(Las Bambas)",
+        "country": "秘鲁"
+      },
+      "since": "2014",
+      "purpose": "五矿资源牵头中资财团自嘉能可收购秘鲁拉斯邦巴斯铜矿,2014年完成交割,为当时中国金属矿业最大海外并购之一。",
+      "source": "https://www.bbc.com/zhongwen/trad/business/2014/04/140414_china_peru_mine"
+    },
+    {
+      "id": "rel-225",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-metal-008",
+        "name": "中国铝业集团"
+      },
+      "overseas": {
+        "name": "特罗莫科铜矿(Toromocho)",
+        "country": "秘鲁"
+      },
+      "since": "2007",
+      "purpose": "2007年中铝以约8.6亿美元全面收购在多伦多、纽约、利马三地上市的秘鲁铜业公司,开发特罗莫科铜矿。",
+      "source": "http://paper.cnstock.com/html/2007-08/16/content_58946660.htm"
+    },
+    {
+      "id": "rel-226",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-metal-008",
+        "name": "中国铝业集团"
+      },
+      "overseas": {
+        "country": "几内亚",
+        "name": "中铝几内亚博法(Boffa)铝土矿项目"
+      },
+      "location": "几内亚博法",
+      "purpose": "中铝在几内亚开发运营的博法铝土矿项目,已建成投产并批量发运铝土矿。",
+      "source": "https://www.chinalco.com.cn/xwzx/xwzx_qydt/202404/t20240417_126166.html"
+    },
+    {
+      "id": "rel-227",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-metal-009",
+        "name": "江西铜业"
+      },
+      "overseas": {
+        "name": "索尔黄金(SolGold)",
+        "country": "英国"
+      },
+      "since": "2026",
+      "purpose": "以约8.67亿英镑要约收购伦敦上市的索尔黄金,方案已获批准并正式生效,铜资源储量显著提升。",
+      "source": "https://m.10jqka.com.cn/20260324/c675501965.shtml"
+    },
+    {
+      "id": "rel-228",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-metal-009",
+        "name": "江西铜业"
+      },
+      "overseas": {
+        "name": "第一量子矿业(First Quantum Minerals)",
+        "country": "哈萨克斯坦"
+      },
+      "since": "2026",
+      "purpose": "全资子公司与第一量子子公司签署合作协议,以650万美元布局哈萨克斯坦14个铜矿权勘探。",
+      "source": "https://paper.cnstock.com/html/2026-01/16/content_2170490.htm"
+    },
+    {
+      "id": "rel-229",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-metal-010",
+        "name": "铜陵有色"
+      },
+      "overseas": {
+        "name": "米拉多铜矿(Mirador)",
+        "country": "厄瓜多尔"
+      },
+      "purpose": "与中国铁建组建联合体投资6.57亿加元完成境外矿产收购,开发厄瓜多尔米拉多铜矿;现铜陵有色拟收购项目公司中铁建铜冠70%股权。",
+      "source": "https://www.cnmn.com.cn/ShowNews1.aspx?id=176970"
+    },
+    {
+      "id": "rel-230",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-energy-017",
+        "name": "恒力集团"
+      },
+      "overseas": {
+        "name": "沙特阿美(Aramco)",
+        "country": "沙特阿拉伯"
+      },
+      "since": "2024",
+      "purpose": "2024年4月与沙特阿美签署谅解备忘录,拟引入其作为战略投资者入股恒力石化,并探讨原油供应与炼化下游合作。",
+      "source": "https://ggjd.cnstock.com/company/scp_ggjd/tjd_bbdj/202404/5222093.htm"
+    },
+    {
+      "id": "rel-231",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-energy-018",
+        "name": "盛虹控股"
+      },
+      "overseas": {
+        "name": "Ambercycle",
+        "country": "美国"
+      },
+      "since": "2025",
+      "purpose": "与美国材料科技公司Ambercycle建立战略合作伙伴关系,扩大循环再生纱线(cycora)规模化生产,服务全球服装品牌。",
+      "source": "https://www.chemnews.com.cn/c/2025-01-16/751556.shtml"
+    },
+    {
+      "id": "rel-232",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-energy-019",
+        "name": "浙江荣盛控股"
+      },
+      "overseas": {
+        "name": "沙特阿美(Aramco)",
+        "country": "沙特阿拉伯"
+      },
+      "since": "2023",
+      "purpose": "沙特阿美以246亿元收购荣盛石化10%股份并建立战略合作,按惯例签订长期原油供应协议。",
+      "source": "https://china.aramco.com/zh-cn/news-media/china-news/2023/aramco-to-expand-presence-in-china-by-acquiring-stake-in--rongsheng-petrochemical"
+    },
+    {
+      "id": "rel-233",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-energy-020",
+        "name": "国家电网"
+      },
+      "overseas": {
+        "name": "巴西12家输电特许权公司",
+        "country": "巴西"
+      },
+      "since": "2010",
+      "purpose": "2010年12月与2012年12月分两次收购12家输电特许权公司100%股权,正式进入南美电力市场",
+      "source": "https://fdi.mofcom.gov.cn/resource/pdf/2020/06/02/f8713ab0b4cc4db8ae1c5cc15bf02a8a.pdf"
+    },
+    {
+      "id": "rel-234",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-energy-020",
+        "name": "国家电网"
+      },
+      "overseas": {
+        "name": "巴西CPFL公司",
+        "country": "巴西"
+      },
+      "purpose": "收购巴西最大私营电力企业CPFL 54.64%股权并成功交割",
+      "source": "http://www.chinasmartgrid.com.cn/special/?id=621793"
+    },
+    {
+      "id": "rel-235",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-energy-020",
+        "name": "国家电网"
+      },
+      "overseas": {
+        "name": "葡萄牙国家能源网公司(REN)",
+        "country": "葡萄牙"
+      },
+      "since": "2012",
+      "purpose": "收购葡萄牙国家能源网公司25%股权并完成交割",
+      "source": "https://www.china5e.com/news/news-225209-1.html"
+    },
+    {
+      "id": "rel-236",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-energy-020",
+        "name": "国家电网"
+      },
+      "overseas": {
+        "name": "意大利存贷款能源网公司(CDP Reti)",
+        "country": "意大利"
+      },
+      "since": "2014",
+      "purpose": "以约21亿欧元收购股权,2014年12月完成交割",
+      "source": "http://www.sc.sgcc.com.cn/html/main/col9/2014-12/01/20141201100451655771415_1.html"
+    },
+    {
+      "id": "rel-237",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-energy-020",
+        "name": "国家电网"
+      },
+      "overseas": {
+        "name": "希腊独立输电网运营公司(ADMIE)",
+        "country": "希腊"
+      },
+      "since": "2017",
+      "purpose": "以3.2亿欧元收购ADMIE 24%股权并完成交割",
+      "source": "https://m.thepaper.cn/wifiKey_detail.jsp?contid=1714304"
+    },
+    {
+      "id": "rel-238",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-energy-021",
+        "name": "南方电网"
+      },
+      "overseas": {
+        "name": "老挝国家输电网公司(EDL-T)",
+        "country": "老挝"
+      },
+      "since": "2023",
+      "purpose": "与老挝国家电力公司共同出资组建,投建运营老挝输变电项目,推进中老500千伏联网工程",
+      "source": "https://www.xinhuanet.com/20251231/c494c0ea27d74caf965539ca325e5a07/c.html"
+    },
+    {
+      "id": "rel-239",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-energy-022",
+        "name": "中国华能"
+      },
+      "overseas": {
+        "country": "巴基斯坦",
+        "name": "巴基斯坦萨希瓦尔燃煤电站"
+      },
+      "location": "旁遮普省萨希瓦尔",
+      "since": "2017",
+      "purpose": "2台66万千瓦超临界机组,总投资17.71亿美元,中巴经济走廊首个投产的大型煤电项目",
+      "source": "https://www.chng.com.cn/detail_gwcydt/-/article/Aa9MIt1RRpEM/v/759476.html"
+    },
+    {
+      "id": "rel-240",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-energy-022",
+        "name": "中国华能"
+      },
+      "overseas": {
+        "name": "新加坡大士能源(Tuas Power)",
+        "country": "新加坡"
+      },
+      "purpose": "华能旗下新加坡综合能源企业",
+      "source": "http://wap.sasac.gov.cn/n4470048/n32559362/n34503500/n34503511/c34622126/content.html"
+    },
+    {
+      "id": "rel-241",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-energy-023",
+        "name": "中国大唐"
+      },
+      "overseas": {
+        "country": "柬埔寨",
+        "name": "柬埔寨太阳能和风力发电项目"
+      },
+      "location": "柬埔寨",
+      "since": "2023",
+      "purpose": "宣布投资6亿美元在柬埔寨建设太阳能和风力发电厂",
+      "source": "https://www.jianhuadaily.com/20231016/208703"
+    },
+    {
+      "id": "rel-242",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-energy-024",
+        "name": "中国华电"
+      },
+      "overseas": {
+        "country": "俄罗斯",
+        "name": "俄罗斯捷宁斯卡娅热电站"
+      },
+      "location": "雅罗斯拉夫尔",
+      "purpose": "中国华电在伏尔加河畔投建的热电项目,中俄能源合作典范工程",
+      "source": "https://cneo.com.cn/detail84548.html"
+    },
+    {
+      "id": "rel-243",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-energy-025",
+        "name": "国家能源集团"
+      },
+      "overseas": {
+        "country": "印度尼西亚",
+        "name": "印尼爪哇公司燃煤电站"
+      },
+      "location": "印尼爪哇",
+      "purpose": "国家能源集团印尼爪哇公司运营当地燃煤电站,累计发电量达600亿千瓦时",
+      "source": "http://www.ccoalnews.cn/news/202509/24/c195818.html"
+    },
+    {
+      "id": "rel-244",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-energy-025",
+        "name": "国家能源集团"
+      },
+      "overseas": {
+        "country": "南非",
+        "name": "南非德阿风电项目"
+      },
+      "location": "南非北开普省德阿镇",
+      "purpose": "旗下龙源电力在南非投资建设的德阿风电项目",
+      "source": "http://www.clypg.com.cn/lydlww/newzyyw0102/202605/5c32ea3e2d9342bdb9f7bcc2ce5eab74.shtml"
+    },
+    {
+      "id": "rel-245",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-energy-026",
+        "name": "国家电投"
+      },
+      "overseas": {
+        "name": "澳大利亚太平洋水电公司(Pacific Hydro)",
+        "country": "澳大利亚"
+      },
+      "since": "2016",
+      "purpose": "并购太平洋水电公司完成交割,资产分布于澳大利亚、智利和巴西,总装机约91.5万千瓦",
+      "source": "http://www.spic.com.cn/ttxw/201601/t20160128_259303.html"
+    },
+    {
+      "id": "rel-246",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-energy-026",
+        "name": "国家电投"
+      },
+      "overseas": {
+        "name": "马耳他国家电力公司(Enemalta)",
+        "country": "马耳他"
+      },
+      "since": "2013",
+      "purpose": "前身中电投收购马耳他国家电力公司股份,进入欧盟光伏市场",
+      "source": "https://guangfu.bjx.com.cn/news/20130913/459680.shtml"
+    },
+    {
+      "id": "rel-247",
+      "type": "licensing",
+      "domestic": {
+        "id": "cn-other-016",
+        "name": "华润集团"
+      },
+      "overseas": {
+        "name": "喜力集团(Heineken)",
+        "country": "荷兰"
+      },
+      "since": "2018",
+      "purpose": "2018年华润啤酒向喜力出售40%股权并收购喜力在华业务,喜力品牌授权华润啤酒在中国使用",
+      "source": "https://www.thecover.cn/news/1005060"
+    },
+    {
+      "id": "rel-248",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-consumer-008",
+        "name": "中粮集团"
+      },
+      "overseas": {
+        "name": "尼德拉(Nidera)",
+        "country": "荷兰"
+      },
+      "since": "2014",
+      "purpose": "中粮完成对荷兰粮食贸易商尼德拉的收购交割,作为国际粮油业务平台",
+      "source": "https://finance.sina.com.cn/roll/20141029/131820674675.shtml"
+    },
+    {
+      "id": "rel-249",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-consumer-008",
+        "name": "中粮集团"
+      },
+      "overseas": {
+        "country": "瑞士",
+        "name": "中粮国际(COFCO International)"
+      },
+      "location": "日内瓦",
+      "purpose": "中粮国际总部位于瑞士日内瓦,在全球36个国家和地区设立子公司及办事机构",
+      "source": "https://www.cofco.com/cn/BrandProduct/COFCOInternational/"
+    },
+    {
+      "id": "rel-250",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-017",
+        "name": "中国保利"
+      },
+      "overseas": {
+        "name": "埃及斋月十日城铁路项目",
+        "country": "埃及"
+      },
+      "since": "2022",
+      "purpose": "保利华信为该项目提供通信、控制系统集成端到端服务,2022年7月开通试运行",
+      "source": "https://www.poly.com.cn/poly/xwdt/qyxw/2024/8/I1276604188100395008.html"
+    },
+    {
+      "id": "rel-251",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-017",
+        "name": "中国保利"
+      },
+      "overseas": {
+        "name": "刚果(金)布吉马伊市饮水系统项目",
+        "country": "刚果(金)"
+      },
+      "since": "2021",
+      "purpose": "保利国际下属保利长大承建饮用水系统修复工程,惠及当地近140万人",
+      "source": "https://www.poly.com.cn/poly/xwdt/qyxw/2024/8/I1276604188100395008.html"
+    },
+    {
+      "id": "rel-252",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-other-017",
+        "name": "中国保利"
+      },
+      "overseas": {
+        "name": "中埃皮革技术联合实验室",
+        "country": "埃塞俄比亚"
+      },
+      "purpose": "保利中轻下属中国皮革院推动建设中国-埃塞俄比亚皮革技术联合实验室,服务非洲皮革工业",
+      "source": "https://www.poly.com.cn/poly/xwdt/qyxw/2024/8/I1276604188100395008.html"
+    },
+    {
+      "id": "rel-253",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-other-018",
+        "name": "招商局集团"
+      },
+      "overseas": {
+        "name": "巴西TCP码头",
+        "country": "巴西"
+      },
+      "since": "2018",
+      "purpose": "2018年2月完成收购巴西TCP码头90%股权",
+      "source": "https://www.cnfin.com/news-xh08/a/20190401/1809929.shtml"
+    },
+    {
+      "id": "rel-254",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-other-018",
+        "name": "招商局集团"
+      },
+      "overseas": {
+        "name": "纽卡斯尔港(Port of Newcastle)",
+        "country": "澳大利亚"
+      },
+      "since": "2018",
+      "purpose": "2018年6月完成收购澳大利亚纽卡斯尔港项目50%股权",
+      "source": "https://www.cnfin.com/news-xh08/a/20190401/1809929.shtml"
+    },
+    {
+      "id": "rel-255",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-other-018",
+        "name": "招商局集团"
+      },
+      "overseas": {
+        "name": "吉布提国际自贸区",
+        "country": "吉布提"
+      },
+      "since": "2018",
+      "purpose": "招商局港口以吉布提项目为突破点实践前港-中区-后城模式,完成吉布提国际自由贸易区启用",
+      "source": "https://www.cnfin.com/news-xh08/a/20190401/1809929.shtml"
+    },
+    {
+      "id": "rel-256",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-other-019",
+        "name": "中信集团"
+      },
+      "overseas": {
+        "name": "陶氏益农巴西玉米种子业务",
+        "country": "巴西"
+      },
+      "since": "2017",
+      "purpose": "中信农业基金联合隆平高科完成收购陶氏益农巴西特定玉米种子业务,整合成立LP Sementes",
+      "source": "https://hnny.rednet.cn/c/2017/12/04/708099.htm"
+    },
+    {
+      "id": "rel-257",
+      "type": "outsourcing",
+      "domestic": {
+        "id": "cn-tech-005",
+        "name": "小米"
+      },
+      "overseas": {
+        "name": "DBG / 比亚迪(BYD)等印度EMS代工厂",
+        "country": "印度"
+      },
+      "purpose": "印度本地组装:此前在印机型由富士康与Flex代工,2021年前后新增DBG(哈里亚纳邦工厂)与比亚迪电子(泰米尔纳德邦新厂);小米称在印销售手机99%本地制造(2021-02报道)",
+      "source": "https://laoyaoba.com/n/773719"
+    },
+    {
+      "id": "rel-258",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-tech-005",
+        "name": "小米"
+      },
+      "overseas": {
+        "country": "印度尼西亚",
+        "name": "Erajaya / PT Sat Nusapersada / TSM Technologies"
+      },
+      "location": "巴淡岛(Batam)自贸区",
+      "since": "2017",
+      "purpose": "2017年2月与分销商PT Erajaya Swasembada及代工伙伴PT Sat Nusapersada、TSM Technologies合作,在巴淡岛本地生产智能手机(Made in Indonesia)",
+      "source": "https://www.erajaya.com/news/xiaomi-dengan-erajaya-sat-nusapersada-dan-tsm-technologies-mulai-produksi-perangkat-lokal-di-indonesia"
+    },
+    {
+      "id": "rel-259",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-tech-005",
+        "name": "小米"
+      },
+      "overseas": {
+        "country": "土耳其",
+        "name": "Salcomp(联合运营方)"
+      },
+      "location": "伊斯坦布尔(Avcılar)",
+      "since": "2021",
+      "purpose": "2021年2月宣布投资3000万美元,3月与Salcomp联合启用伊斯坦布尔工厂,年产能约500万台,土耳其成为小米全球第4个手机生产国",
+      "source": "https://en.azvision.az/news/141772/chinese-tech-giant-xiaomi-opens-factory-in-turkey.html"
+    },
+    {
+      "id": "rel-260",
+      "type": "outsourcing",
+      "domestic": {
+        "id": "cn-tech-005",
+        "name": "小米"
+      },
+      "overseas": {
+        "name": "富士康(Foxconn)",
+        "country": "巴西"
+      },
+      "since": "2015",
+      "purpose": "2015年7月小米进军巴西(拉美首站),当地销售的红米2由圣保罗郊外的富士康工厂组装,以规避高关税获得价格优势(援引路透社)",
+      "source": "https://m.pedaily.cn/news/384828"
+    },
+    {
+      "id": "rel-261",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-005",
+        "name": "小米"
+      },
+      "overseas": {
+        "name": "索尼(Sony)",
+        "country": "日本"
+      },
+      "since": "2022",
+      "purpose": "2022年6月官宣小米12S Ultra搭载与索尼合作定制、共同出资研发的IMX989一英寸主摄传感器",
+      "source": "https://www.techweb.com.cn/it/2022-06-29/2896268.shtml"
+    },
+    {
+      "id": "rel-262",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-005",
+        "name": "小米"
+      },
+      "overseas": {
+        "name": "联发科(MediaTek)",
+        "country": "中国台湾"
+      },
+      "purpose": "联发科为小米/Redmi手机芯片供应商:2024年12月发布天玑8400由小米/Redmi首发站台,2025年1月Redmi推出首搭载机型",
+      "source": "https://www.chinatimes.com/newspapers/20241224000126-260202"
+    },
+    {
+      "id": "rel-263",
+      "type": "licensing",
+      "domestic": {
+        "id": "cn-tech-005",
+        "name": "小米"
+      },
+      "overseas": {
+        "name": "徕卡相机公司(Leica Camera AG)",
+        "country": "德国"
+      },
+      "since": "2022",
+      "purpose": "2022年5月宣布达成长期影像战略合作:徕卡授权影像技术与品牌并进行联合调校与深度联合研发(首发于12S系列)",
+      "source": "https://xinwen.bjd.com.cn/content/s628da23de4b09bdc480442dc.html"
+    },
+    {
+      "id": "rel-264",
+      "type": "outsourcing",
+      "domestic": {
+        "id": "cn-tech-005",
+        "name": "小米"
+      },
+      "overseas": {
+        "name": "台积电(TSMC)",
+        "country": "中国台湾"
+      },
+      "since": "2025",
+      "purpose": "小米自研SoC玄戒O1(XRING O1)于2025年5月发布,由台积电3nm工艺代工制造",
+      "source": "https://www.geeknetic.es/Noticia/34701/Xiaomi-anuncia-su-propio-SoC-XRING-O1-con-nucleos-y-GPU-ARM-Se-fabrica-en-TSMC-a-3-nanometros.html"
+    },
+    {
+      "id": "rel-265",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-tech-005",
+        "name": "小米"
+      },
+      "overseas": {
+        "country": "德国",
+        "name": "小米欧洲总部"
+      },
+      "location": "杜塞尔多夫(Düsseldorf)",
+      "since": "2021",
+      "purpose": "2021年2月报道:小米在杜塞尔多夫设立欧洲总部,集团在欧洲的物流、财务、服务与营销由此统一管理",
+      "source": "https://www.wirtualnemedia.pl/xiaomi-europejska-centrala-duesseldorf,7170379026516097a"
+    },
+    {
+      "id": "rel-266",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-001",
+        "name": "华为"
+      },
+      "overseas": {
+        "name": "Ethio Telecom",
+        "country": "埃塞俄比亚"
+      },
+      "since": "2022",
+      "purpose": "2022年5月埃塞电信与华为合作启动该国5G试点服务,华为提供5G设备与技术支持",
+      "source": "https://english.news.cn/africa/20220510/f064692a68034776be1910fbe19582a5/c.html"
+    },
+    {
+      "id": "rel-267",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-001",
+        "name": "华为"
+      },
+      "overseas": {
+        "name": "Ooredoo",
+        "country": "卡塔尔"
+      },
+      "since": "2023",
+      "purpose": "卡塔尔运营商集团Ooredoo在MWC23与华为签署并深化网络现代化合作协议,覆盖其中东/北非多国市场",
+      "source": "https://www.ooredoo.com/en/media/news_view/ooredoo-upgrades-customers-worlds-with-modernised-networks-and-enhanced-connectivity-cements-new-cooperation-agreement-with-huawei-at-mwc23/"
+    },
+    {
+      "id": "rel-268",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-tech-001",
+        "name": "华为"
+      },
+      "overseas": {
+        "country": "全球",
+        "name": "Huawei Enterprise 全球分支办公室网络"
+      },
+      "location": "全球",
+      "purpose": "华为企业业务官网列示其在欧洲、中东、非洲、亚太等多国/地区设立的分支办公室,支撑海外运营商与企业客户供货服务",
+      "source": "https://e.huawei.com/en/about/global-branch-office"
+    },
+    {
+      "id": "rel-269",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-tech-006",
+        "name": "OPPO"
+      },
+      "overseas": {
+        "country": "印度",
+        "name": "OPPO印度大诺伊达工业园"
+      },
+      "location": "北方邦大诺伊达(Greater Noida)",
+      "since": "2016",
+      "purpose": "2016年OPPO在印度北方邦大诺伊达启动本地手机制造,同年12月宣布投资约2.16亿美元建设工业园,月产能规划达百万台级",
+      "source": "http://www.chinadaily.com.cn/bizchina/tech/2016-12/28/content_27798623.htm"
+    },
+    {
+      "id": "rel-270",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-tech-006",
+        "name": "OPPO"
+      },
+      "overseas": {
+        "country": "印度尼西亚",
+        "name": "OPPO坦格朗工厂"
+      },
+      "location": "万丹省坦格朗(Tangerang)",
+      "since": "2016",
+      "purpose": "OPPO于2016年在印尼坦格朗建成投产手机组装厂,本地化率(TKDN)硬件达100%,初期月产能约80万部",
+      "source": "https://inet.detik.com/consumer/d-3238030/pabrik-di-tangerang-bikin-oppo-i-pede-i-tkdn-100-hardware"
+    },
+    {
+      "id": "rel-271",
+      "type": "outsourcing",
+      "domestic": {
+        "id": "cn-tech-006",
+        "name": "OPPO"
+      },
+      "overseas": {
+        "name": "Bhagwati-Huaqin(华勤)合资代工厂",
+        "country": "印度"
+      },
+      "since": "2024",
+      "purpose": "OPPO在印度业务重组压力下将部分生产外包给Bhagwati Products与华勤技术的印度合资工厂,并洽谈与印度代工方设立制造合资公司",
+      "source": "https://www.cnbctv18.com/technology/china-oppo-pressure-to-sign-up-indian-partner-outsources-production-bhagwati-huaqin-jv-19552349.htm"
+    },
+    {
+      "id": "rel-272",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-tech-007",
+        "name": "vivo"
+      },
+      "overseas": {
+        "name": "vivo-迪克森(Dixon Technologies)合资公司",
+        "country": "印度"
+      },
+      "since": "2024",
+      "purpose": "vivo将其印度大诺伊达工厂转入与印度代工企业Dixon Technologies的合资公司,以扩大印度本土制造并瞄准出口",
+      "source": "https://www.electronicsforyou.biz/industry-buzz/vivo-transfers-greater-noida-plant-to-dixon-joint-venture/"
+    },
+    {
+      "id": "rel-273",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-tech-007",
+        "name": "vivo"
+      },
+      "overseas": {
+        "country": "土耳其",
+        "name": "vivo土耳其智能制造中心"
+      },
+      "location": "土耳其",
+      "since": "2021",
+      "purpose": "2021年8月vivo官方宣布启用巴基斯坦与土耳其两个智能制造中心,两地合计年产能超1000万部",
+      "source": "https://www.vivo.com/brand/news/detail?id=972"
+    },
+    {
+      "id": "rel-274",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-tech-007",
+        "name": "vivo"
+      },
+      "overseas": {
+        "country": "巴基斯坦",
+        "name": "vivo巴基斯坦智能制造中心"
+      },
+      "location": "巴基斯坦",
+      "since": "2021",
+      "purpose": "2021年8月与土耳其智能制造中心同步启用,加速vivo全球智造布局",
+      "source": "https://finance.sina.com.cn/tech/2021-08-09/doc-ikqciyzm0493268.shtml"
+    },
+    {
+      "id": "rel-275",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-tech-007",
+        "name": "vivo"
+      },
+      "overseas": {
+        "country": "西班牙",
+        "name": "vivo马德里办公室"
+      },
+      "location": "马德里",
+      "purpose": "vivo官网(西班牙站)宣布在马德里开设新办公室/总部,加深对欧洲市场的投入与本地化运营",
+      "source": "https://www.vivo.com/es/about-vivo/news/vivo-compromiso"
+    },
+    {
+      "id": "rel-276",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-tech-012",
+        "name": "荣耀"
+      },
+      "overseas": {
+        "country": "埃及",
+        "name": "Honor埃及工厂"
+      },
+      "location": "斋月十日城(10th of Ramadan City)",
+      "since": "2025",
+      "purpose": "荣耀在埃及启动其首个中国境外手机工厂并扩产,将埃及定位为区域制造/出口枢纽",
+      "source": "https://www.ecofinagency.com/news-digital/2104-54870-chinese-smartphone-maker-honor-expands-production-in-egypt-positions-country-as-regional-hub"
+    },
+    {
+      "id": "rel-277",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-tech-012",
+        "name": "荣耀"
+      },
+      "overseas": {
+        "country": "孟加拉国",
+        "name": "Honor孟加拉首家工厂"
+      },
+      "location": "孟加拉国",
+      "since": "2025",
+      "purpose": "2025年12月荣耀在孟加拉国首家工厂投产,年产能预计100万台,同期第120家海外体验店落成",
+      "source": "http://sz.people.com.cn/n2/2025/1205/c202846-41433896.html"
+    },
+    {
+      "id": "rel-278",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-tech-008",
+        "name": "传音"
+      },
+      "overseas": {
+        "country": "埃塞俄比亚",
+        "name": "传音埃塞俄比亚工厂"
+      },
+      "location": "埃塞俄比亚",
+      "purpose": "传音在埃塞俄比亚设厂开展手机本地化生产,2025年5月携本地制造产品亮相埃塞制造国家博览会",
+      "source": "https://stcn.com/article/detail/1839623.html"
+    },
+    {
+      "id": "rel-279",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-tech-008",
+        "name": "传音"
+      },
+      "overseas": {
+        "country": "孟加拉国",
+        "name": "传音孟加拉工厂"
+      },
+      "location": "孟加拉国",
+      "purpose": "中国日报2023年6月报道传音在孟加拉国本地化生产手机并培养当地产业工人",
+      "source": "http://epaper.chinadaily.com.cn/a/202306/05/WS647d034da3106e73106c42a3.html"
+    },
+    {
+      "id": "rel-280",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-tech-008",
+        "name": "传音"
+      },
+      "overseas": {
+        "country": "印度",
+        "name": "传音印度生产业务"
+      },
+      "location": "印度",
+      "purpose": "传音控股回应称其印度手机业务保持本地生产与销售;2024年4月另有报道印度代工大厂Dixon有意洽购传音印度业务",
+      "source": "https://m.cls.cn/detail/743859"
+    },
+    {
+      "id": "rel-281",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-tech-009",
+        "name": "联想"
+      },
+      "overseas": {
+        "country": "匈牙利",
+        "name": "联想匈牙利乌伊豪尔陶恩工厂"
+      },
+      "location": "Újhartyán(布达佩斯附近)",
+      "since": "2023",
+      "purpose": "联想首个欧洲自有制造工厂在匈牙利Újhartyán正式落成投产(官网新闻稿),主产服务器等高端产品",
+      "source": "https://news.lenovo.com/pressroom/press-releases/first-european-in-house-manufacturing-facility-ullo-hungary/"
+    },
+    {
+      "id": "rel-282",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-tech-009",
+        "name": "联想"
+      },
+      "overseas": {
+        "country": "美国",
+        "name": "联想美国北卡NCSC制造基地"
+      },
+      "location": "北卡罗来纳州Whitsett",
+      "purpose": "联想宣布扩建其美国北卡罗来纳州NCSC(服务器)制造基地,占地面积翻倍至89万平方英尺,并新增约420个岗位",
+      "source": "https://news.lenovo.com/pressroom/press-releases/lenovo-doubles-the-size-of-its-u-s-manufacturing-facility-in-north-carolina/"
+    },
+    {
+      "id": "rel-283",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-tech-009",
+        "name": "联想"
+      },
+      "overseas": {
+        "country": "墨西哥",
+        "name": "联想墨西哥制造基地"
+      },
+      "location": "墨西哥",
+      "purpose": "2025年9月联想墨西哥制造基地入选世界经济论坛最新一批灯塔工厂,为中企在美洲的首个灯塔工厂",
+      "source": "https://www.stdaily.com/web/gdxw/2025-09/17/content_402178.html"
+    },
+    {
+      "id": "rel-284",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-002",
+        "name": "中兴通讯"
+      },
+      "overseas": {
+        "name": "EOLO",
+        "country": "意大利"
+      },
+      "since": "2025",
+      "purpose": "中兴与意大利固定无线接入运营商EOLO合作启动5G毫米波网络,可提供最高1Gbps速率(2025年2月)",
+      "source": "https://www.zte.com.cn/global/about/news/zte-partners-with-italys-eolo-to-launch-a-5g-mmwave-network-delivering-1-gbps-speeds.html"
+    },
+    {
+      "id": "rel-285",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-002",
+        "name": "中兴通讯"
+      },
+      "overseas": {
+        "name": "XLSMART",
+        "country": "印度尼西亚"
+      },
+      "since": "2025",
+      "purpose": "2025年5月中兴通讯与印尼运营商XLSMART签署战略合作协议,共建面向未来的数字基础设施",
+      "source": "https://www.zte.com.cn/china/about/news/20250527c1.html"
+    },
+    {
+      "id": "rel-286",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-002",
+        "name": "中兴通讯"
+      },
+      "overseas": {
+        "name": "U Mobile",
+        "country": "马来西亚"
+      },
+      "since": "2025",
+      "purpose": "2025年9月马来西亚5G运营商U Mobile与中兴签署MoU,共同开发面向东马的AI增强5G-A网络方案及5G智慧园区",
+      "source": "https://technode.global/2025/09/25/u-mobile-zte-team-up-for-ai-enhanced-5g-a-network-solutions-intelligence-5g-enabled-industrial-campuses-in-east-malaysia/"
+    },
+    {
+      "id": "rel-287",
+      "type": "acquisition",
+      "domestic": {
+        "id": "med-002",
+        "name": "迈瑞医疗"
+      },
+      "overseas": {
+        "name": "DiaSys Diagnostic Systems GmbH",
+        "country": "德国"
+      },
+      "since": "2023",
+      "purpose": "迈瑞公告收购德国体外诊断公司DiaSys 75%股权(约9亿元人民币),并已完成控股收购交割",
+      "source": "https://www.mindray.com/en/media-center/news/mindray-completes-acquisition-controlling-stake-diasys-gmbh"
+    },
+    {
+      "id": "rel-288",
+      "type": "acquisition",
+      "domestic": {
+        "id": "med-002",
+        "name": "迈瑞医疗"
+      },
+      "overseas": {
+        "name": "HyTest Ltd.",
+        "country": "芬兰"
+      },
+      "since": "2021",
+      "purpose": "迈瑞医疗完成对免疫原材料供应商HyTest的并购交易",
+      "source": "https://www.mindray.com/cn/media-center/press/mindray-acquired-hytest"
+    },
+    {
+      "id": "rel-289",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "med-002",
+        "name": "迈瑞医疗"
+      },
+      "overseas": {
+        "country": "多国",
+        "name": "迈瑞境外子公司网络(64家)"
+      },
+      "location": "40余国",
+      "purpose": "据新京报报道:迈瑞在超40个国家设立64家境外子公司,海外员工超3000人(本地化占比逾九成);产品覆盖190多个国家和地区,进入全球百强医院中的87家",
+      "source": "https://www.bjnews.com.cn/detail/1786966020129059.html"
+    },
+    {
+      "id": "rel-290",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "med-002",
+        "name": "迈瑞医疗"
+      },
+      "overseas": {
+        "name": "美国三大GPO及大型医院网络(IDN)",
+        "country": "美国"
+      },
+      "purpose": "迈瑞实现美国本地化运营,与美国三大集团采购组织(GPO)、约八成大型医院网络(IDN)建立深度合作,产品进入美国排名前30的医疗机构",
+      "source": "https://www.bjnews.com.cn/detail/1786966020129059.html"
+    },
+    {
+      "id": "rel-291",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-energy-001",
+        "name": "隆基绿能"
+      },
+      "overseas": {
+        "country": "马来西亚",
+        "name": "LONGi (Kuching) Sdn Bhd 电池生产基地"
+      },
+      "location": "古晋(Kuching)Samajaya自由工业区,砂拉越州",
+      "purpose": "据The Star(2022-01-03):新Cell 4电池厂(投资6亿林吉特)投产后,其年电池产能将提升至8GW以上",
+      "source": "https://www.thestar.com.my/business/business-news/2022/01/03/longi-set-to-raise-solar-cell-production-capacity-soon"
+    },
+    {
+      "id": "rel-292",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-other-003",
+        "name": "京东方"
+      },
+      "overseas": {
+        "country": "越南",
+        "name": "京东方越南智慧终端工厂(二期项目)"
+      },
+      "location": "巴地头顿省富美市(Phu My, Ba Ria–Vung Tau)",
+      "since": "2026",
+      "purpose": "BOE首个海外自主建设的智慧工厂;项目总投资20.2亿元人民币,主要生产电视、显示器、电子纸,2026年6月10日举行量产暨客户交付仪式",
+      "source": "https://boe-us.com/news/mass-production-boe-vietnam-smart-terminal-phase-ii/"
+    },
+    {
+      "id": "rel-293",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-other-003",
+        "name": "京东方"
+      },
+      "overseas": {
+        "country": "越南",
+        "name": "京东方精电越南车载显示基地"
+      },
+      "location": "越南",
+      "since": "2024",
+      "purpose": "2024年4月投建,2025年9月首个覆盖全流程工艺的车载显示产品成功点亮,具备全流程产品交付能力",
+      "source": "https://www.fpdisplay.com/mobile/news/show-210350.html"
+    },
+    {
+      "id": "rel-294",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-other-003",
+        "name": "京东方"
+      },
+      "overseas": {
+        "country": "美国",
+        "name": "BOE America(京东方美国)"
+      },
+      "location": "马萨诸塞州剑桥市(Cambridge, MA)",
+      "purpose": "京东方美国子公司,服务北美市场",
+      "source": "https://boe-us.com/news/mass-production-boe-vietnam-smart-terminal-phase-ii/"
+    },
+    {
+      "id": "rel-295",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-tech-003",
+        "name": "海康威视"
+      },
+      "overseas": {
+        "country": "多国",
+        "name": "海康威视海外分支机构(66个)"
+      },
+      "location": "150多个国家和地区",
+      "purpose": "据2021年年报摘要:截至2021年在国际及港澳台地区设立66个分支机构,为150多个国家和地区提供本地化服务;在加拿大、英国等地建立研发中心,设有多个海外制造基地和区域物流中心,在70多个国家设有售后服务点",
+      "source": "http://news.sohu.com/a/538352252_115433"
+    },
+    {
+      "id": "rel-296",
+      "type": "outsourcing",
+      "domestic": {
+        "id": "cn-tech-003",
+        "name": "海康威视"
+      },
+      "overseas": {
+        "name": "Multilaser Industrial SA",
+        "country": "巴西"
+      },
+      "since": "2022",
+      "purpose": "巴西电子公司Multilaser宣布与海康威视建立战略伙伴关系,在巴西生产海康威视设计的安全防护设备,交易于2022年第三季度全面生效",
+      "source": "https://www.forumchinaplp.org.mo/economic_trade/view/3032"
+    },
+    {
+      "id": "rel-297",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-home-003",
+        "name": "格力电器"
+      },
+      "overseas": {
+        "country": "巴西",
+        "name": "格力(巴西)有限公司生产基地"
+      },
+      "location": "玛瑙斯(Manaus)",
+      "since": "2001",
+      "purpose": "2001年6月11日竣工投产,为中国空调企业在海外设立的首个生产基地",
+      "source": "https://www.sohu.com/a/126307590_401369"
+    },
+    {
+      "id": "rel-298",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-home-003",
+        "name": "格力电器"
+      },
+      "overseas": {
+        "name": "2016里约奥运会场馆",
+        "country": "巴西"
+      },
+      "since": "2016",
+      "purpose": "2016年格力空调进驻巴西里约奥运会场馆(格力官方列示的海外样板工程)",
+      "source": "https://www.sohu.com/a/126307590_401369"
+    },
+    {
+      "id": "rel-299",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-tech-018",
+        "name": "腾讯控股"
+      },
+      "overseas": {
+        "name": "Techland",
+        "country": "波兰"
+      },
+      "since": "2023",
+      "purpose": "腾讯收购《消逝的光芒》开发商Techland多数股权",
+      "source": "https://www.ign.com/articles/tencent-buys-dying-light-developer-techland"
+    },
+    {
+      "id": "rel-300",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-tech-018",
+        "name": "腾讯控股"
+      },
+      "overseas": {
+        "name": "Sumo Group",
+        "country": "英国"
+      },
+      "since": "2022",
+      "purpose": "腾讯通过旗下Sixjoy以约12.5亿美元收购英国游戏公司Sumo Group,2022年1月获英国高等法院批准并完成交割",
+      "source": "https://variety.com/2022/global/asia/tencent-sumo-games-group-acquisition-1235163687/"
+    },
+    {
+      "id": "rel-301",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-tech-018",
+        "name": "腾讯控股"
+      },
+      "overseas": {
+        "country": "德国",
+        "name": "腾讯云法兰克福可用区(第三个)"
+      },
+      "location": "法兰克福",
+      "since": "2026",
+      "purpose": "2026年3月3日MWC期间腾讯云宣布在德国法兰克福新增一个云可用区,为其在当地新增的第三个可用区,服务欧洲市场",
+      "source": "https://www.sohu.com/a/992388433_100116740"
+    },
+    {
+      "id": "rel-302",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-011",
+        "name": "长城汽车"
+      },
+      "overseas": {
+        "country": "俄罗斯",
+        "name": "哈弗俄罗斯图拉工厂"
+      },
+      "location": "图拉州",
+      "since": "2019",
+      "purpose": "长城汽车俄罗斯图拉工厂2019年正式投产",
+      "source": "https://cinic.org.cn/zgzz/pp/745410.html"
+    },
+    {
+      "id": "rel-303",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-011",
+        "name": "长城汽车"
+      },
+      "overseas": {
+        "country": "泰国",
+        "name": "通用汽车泰国罗勇府工厂(现为长城罗勇工厂)"
+      },
+      "location": "罗勇府(Rayong)",
+      "since": "2020",
+      "purpose": "2020年2月17日长城汽车宣布收购通用汽车位于泰国罗勇府的制造工厂,作为进军东盟市场的布局",
+      "source": "https://m.jiemian.com/article/3994693.html"
+    },
+    {
+      "id": "rel-304",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-011",
+        "name": "长城汽车"
+      },
+      "overseas": {
+        "country": "巴西",
+        "name": "戴姆勒巴西伊拉塞马波利斯工厂(现为长城巴西工厂)"
+      },
+      "location": "伊拉塞马波利斯(Iracemápolis)",
+      "since": "2021",
+      "purpose": "2021年8月长城汽车与戴姆勒签署协议收购其巴西工厂,年内完成交接,改造后规划年产能10万辆、创造近2000个就业岗位",
+      "source": "http://www.ecns.cn/m/business/2021-08-23/detail-ihaqkfpn8668171.shtml"
+    },
+    {
+      "id": "rel-305",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "med-003",
+        "name": "万东医疗"
+      },
+      "overseas": {
+        "name": "巴西VMI集团(战略合作备忘录)",
+        "country": "巴西"
+      },
+      "since": "2025",
+      "purpose": "2025年5月与巴西医疗装备集团VMI签署战略合作备忘录,共同开拓巴西高端医疗装备(MRI、CT等)市场",
+      "source": "https://www.stcn.com/article/detail/1828553.html"
+    },
+    {
+      "id": "rel-306",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "med-004",
+        "name": "开立医疗"
+      },
+      "overseas": {
+        "country": "日本",
+        "name": "株式会社ソノスケイプジャパン(Sonoscape日本子公司)"
+      },
+      "location": "东京, 日本",
+      "purpose": "公司2025年年度报告披露的日本全资销售子公司,负责日本市场超声、内镜等业务",
+      "source": "http://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300633&id=12101109"
+    },
+    {
+      "id": "rel-307",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "med-005",
+        "name": "理邦仪器"
+      },
+      "overseas": {
+        "country": "墨西哥",
+        "name": "理邦墨西哥子公司"
+      },
+      "location": "墨西哥",
+      "purpose": "公司官网宣布成立墨西哥子公司,深化美洲本土化战略布局",
+      "source": "https://www.edan.com.cn/news/company/1658.html"
+    },
+    {
+      "id": "rel-308",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "med-005",
+        "name": "理邦仪器"
+      },
+      "overseas": {
+        "country": "秘鲁",
+        "name": "理邦仪器秘鲁办事处"
+      },
+      "location": "利马圣伊西德罗, 秘鲁",
+      "since": "2023",
+      "purpose": "2023年在秘鲁利马圣伊西德罗正式设立办事处,拓展拉美市场",
+      "source": "https://www.caclp.com/article/?detail_10618.html"
+    },
+    {
+      "id": "rel-309",
+      "type": "acquisition",
+      "domestic": {
+        "id": "med-006",
+        "name": "新华医疗"
+      },
+      "overseas": {
+        "name": "新华医疗(印度尼西亚)有限公司(收购当地公司51%股权)",
+        "country": "印度尼西亚"
+      },
+      "purpose": "新华医疗在互动平台确认,收购印尼公司51%股权并设立新华医疗(印度尼西亚)有限公司的股权变更已完成",
+      "source": "https://www.jiemian.com/article/8610467.html"
+    },
+    {
+      "id": "rel-310",
+      "type": "acquisition",
+      "domestic": {
+        "id": "med-007",
+        "name": "鱼跃医疗"
+      },
+      "overseas": {
+        "name": "普美康Primedic(德国急救设备企业)",
+        "country": "德国"
+      },
+      "purpose": "鱼跃医疗收购德国急救设备企业普美康(Primedic),以此布局AED除颤等急救产品的全球业务",
+      "source": "https://finance.sina.cn/2025-07-23/detail-infhmtfu3154207.d.html"
+    },
+    {
+      "id": "rel-311",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "med-009",
+        "name": "新产业生物"
+      },
+      "overseas": {
+        "country": "越南",
+        "name": "Snibe Holdings(HongKong)驻越南河内代表处"
+      },
+      "location": "河内, 越南",
+      "since": "2025",
+      "purpose": "在越南卫生部医疗器械管理局注册的河内代表处(2025年注册文件)",
+      "source": "https://imda.moh.gov.vn/documents/10182/65878390/upload_00001282_1742522382374.pdf?version=1.0&fileId=65882425"
+    },
+    {
+      "id": "rel-312",
+      "type": "acquisition",
+      "domestic": {
+        "id": "med-010",
+        "name": "科华生物"
+      },
+      "overseas": {
+        "name": "TGS公司100%股权及Altergon Italia诊断业务资产",
+        "country": "意大利"
+      },
+      "since": "2015",
+      "purpose": "2015年公司公告收购意大利TGS公司100%股权及Altergon Italia相关诊断业务资产;2026年公司确认意大利子公司TGS为其国际化战略组成部分",
+      "source": "http://www.skhb.com/upload/file/2015/11/16/2015-068%e5%85%b3%e4%ba%8e%e6%94%b6%e8%b4%adTGS%e5%85%ac%e5%8f%b8100_%e8%82%a1%e6%9d%83%e4%bb%a5%e5%8f%8aALTERGON%20ITALIA%e5%85%ac%e5%8f%b8%e7%9b%b8%e5%85%b3%e8%af%8a%e6%96%ad%e4%b8%9a%e5%8a%a1%e8%b5%84%e4%ba%a7%e7%9a%84%e5%85%ac%e5%91%8a-830111156.PDF"
+    },
+    {
+      "id": "rel-313",
+      "type": "licensing",
+      "domestic": {
+        "id": "cn-pharma-003",
+        "name": "恒瑞医药"
+      },
+      "overseas": {
+        "name": "美国Hercules公司(GLP-1产品组合授权)",
+        "country": "美国"
+      },
+      "since": "2024",
+      "purpose": "2024年5月将GLP-1产品组合有偿许可给美国Hercules公司并获其19.9%股权",
+      "source": "https://finance.sina.cn/2024-05-16/detail-inavmrpf1876909.d.html"
+    },
+    {
+      "id": "rel-314",
+      "type": "licensing",
+      "domestic": {
+        "id": "cn-pharma-003",
+        "name": "恒瑞医药"
+      },
+      "overseas": {
+        "name": "Merck KGaA(德国默克,SHR7280项目授权)",
+        "country": "德国"
+      },
+      "since": "2025",
+      "purpose": "2025年4月将口服GnRH受体拮抗剂SHR7280有偿许可给德国默克(Merck KGaA),首付款1500万欧元",
+      "source": "https://www.cls.cn/detail/1995133"
+    },
+    {
+      "id": "rel-315",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-pharma-004",
+        "name": "复星医药"
+      },
+      "overseas": {
+        "name": "Gland Pharma(印度注射剂药企)",
+        "country": "印度"
+      },
+      "since": "2017",
+      "purpose": "2017年宣布以不超过12.61亿美元收购印度注射剂企业Gland Pharma约86%股权,后完成控股;2024年Gland Pharma营收6.8亿美元",
+      "source": "https://m.zhitongcaijing.com/contentnew/appcontentdetail.html?content_id=13030"
+    },
+    {
+      "id": "rel-316",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-pharma-004",
+        "name": "复星医药"
+      },
+      "overseas": {
+        "country": "科特迪瓦",
+        "name": "复星医药科特迪瓦园区(药品制造项目)一期"
+      },
+      "location": "科特迪瓦",
+      "purpose": "复星医药在科特迪瓦建设药品制造园区,一期工程已获当地本地生产许可",
+      "source": "https://www.guilinpharma.com/news_view.aspx?TypeId=4&Id=887&Fid=t2:4:2"
+    },
+    {
+      "id": "rel-317",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-pharma-005",
+        "name": "国药集团"
+      },
+      "overseas": {
+        "name": "Hayat Biotech(与阿联酋G42合资,阿布扎比新冠疫苗生产线)",
+        "country": "阿联酋"
+      },
+      "since": "2021",
+      "purpose": "与阿联酋G42集团合资设立Hayat Biotech并在阿布扎比建立疫苗生产线,2021年3月生产线启动,Hayat-Vax成为阿拉伯世界首款本土生产的新冠疫苗",
+      "source": "https://www.sinopharm.com/2021-03/29/c_13693.htm"
+    },
+    {
+      "id": "rel-318",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-pharma-006",
+        "name": "广药集团"
+      },
+      "overseas": {
+        "country": "中国澳门",
+        "name": "广药澳门制药生产基地(白云山出海平台)"
+      },
+      "location": "澳门, 中国澳门",
+      "purpose": "广药集团在澳门设立制药生产基地,以港澳平台推动板蓝根等优势品种境外市场销售(注:澳门为境外而非严格意义海外)",
+      "source": "https://www.zqbao.com.cn/news/19479.html"
+    },
+    {
+      "id": "rel-319",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-build-001",
+        "name": "中国建筑集团"
+      },
+      "overseas": {
+        "name": "埃及新首都中央商务区(CBD)项目",
+        "country": "埃及"
+      },
+      "since": "2018",
+      "purpose": "中国建筑承建埃及新首都CBD项目(业主为埃及住房部下属ACUD),建成385米非洲第一高楼标志塔,2024年起陆续竣工",
+      "source": "https://www.workercn.cn/c/2026-08-26/8878722.shtml"
+    },
+    {
+      "id": "rel-320",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-build-002",
+        "name": "中国中铁"
+      },
+      "overseas": {
+        "name": "匈塞铁路贝尔格莱德—诺维萨德段(贝诺段)",
+        "country": "塞尔维亚"
+      },
+      "since": "2022",
+      "purpose": "中国中铁牵头承建塞尔维亚贝尔格莱德至诺维萨德高速铁路(匈塞铁路贝诺段),2022年3月开通运营",
+      "source": "https://m.thepaper.cn/kuaibao_detail.jsp?contid=17190566"
+    },
+    {
+      "id": "rel-321",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-build-004",
+        "name": "中国交建"
+      },
+      "overseas": {
+        "country": "斯里兰卡",
+        "name": "科伦坡港口城项目"
+      },
+      "location": "科伦坡, 斯里兰卡",
+      "since": "2014",
+      "purpose": "中国交建旗下中国港湾投资开发斯里兰卡科伦坡港口城(园区类实体项目),2026年1月承诺再投3亿美元推进二期建设",
+      "source": "https://www.investgo.cn/article/yw/alfx/202601/829289.html"
+    },
+    {
+      "id": "rel-322",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-metal-002",
+        "name": "鞍钢集团"
+      },
+      "overseas": {
+        "name": "卡拉拉铁矿(Karara)",
+        "country": "澳大利亚"
+      },
+      "since": "2013",
+      "purpose": "鞍钢通过鞍钢集团投资(澳大利亚)公司与澳企Gindalbie合资运营卡拉拉铁矿,鞍钢持股52.16%,年产量约800万吨(2025年)",
+      "source": "https://m.steelx2.com/news-content.aspx?id=619450"
+    },
+    {
+      "id": "rel-323",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-metal-003",
+        "name": "河钢集团"
+      },
+      "overseas": {
+        "name": "河钢塞尔维亚斯梅代雷沃钢厂(河钢塞钢)",
+        "country": "塞尔维亚"
+      },
+      "since": "2016",
+      "purpose": "河钢2016年收购塞尔维亚百年钢厂斯梅代雷沃钢厂,十年运营实现绿色蝶变,成为中塞钢铁合作标杆项目",
+      "source": "https://hebei.hebnews.cn/2026-05/26/content_9517640.htm"
+    },
+    {
+      "id": "rel-324",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-metal-004",
+        "name": "沙钢集团"
+      },
+      "overseas": {
+        "name": "Global Switch(欧洲数据中心运营商)",
+        "country": "英国"
+      },
+      "since": "2016",
+      "purpose": "2016年沙钢集团领衔中资财团以约24亿英镑入股欧洲最大数据中心运营商Global Switch",
+      "source": "https://www.jiemian.com/article/1031998.html"
+    },
+    {
+      "id": "rel-325",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-metal-005",
+        "name": "青山控股"
+      },
+      "overseas": {
+        "name": "印尼莫罗瓦利工业园(IMIP)",
+        "country": "印度尼西亚"
+      },
+      "since": "2013",
+      "purpose": "青山控股与印尼Bintang Delapan集团等合资建设全球规模最大的镍产业集群莫罗瓦利工业园,被官方媒体称为中印尼合作典范",
+      "source": "https://epa.comnews.cn/pc/content/202504/10/content_21879.html"
+    },
+    {
+      "id": "rel-326",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-metal-006",
+        "name": "魏桥创业"
+      },
+      "overseas": {
+        "name": "印尼宏发韦立氧化铝厂",
+        "country": "印度尼西亚"
+      },
+      "since": "2016",
+      "purpose": "魏桥创业(中国宏桥)与韦立国际、印尼哈里塔等合资建设的印尼氧化铝厂2016年竣工投产,系中国首条海外氧化铝生产线",
+      "source": "https://binzhou.dzwww.com/bzhxw/201605/t20160524_14334254.htm"
+    },
+    {
+      "id": "rel-327",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-energy-011",
+        "name": "中国石油"
+      },
+      "overseas": {
+        "name": "伊拉克西古尔纳-1油田(West Qurna-1)",
+        "country": "伊拉克"
+      },
+      "since": "2024",
+      "purpose": "中国石油2024年接任伊拉克西古尔纳-1巨型油田牵头作业者,2025年初开始建设油田运营中心",
+      "source": "http://world.people.com.cn/n1/2025/0102/c1002-40394123.html"
+    },
+    {
+      "id": "rel-328",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-energy-012",
+        "name": "中国石化"
+      },
+      "overseas": {
+        "name": "延布炼厂公司(YASREF)",
+        "country": "沙特阿拉伯"
+      },
+      "since": "2016",
+      "purpose": "中国石化持股37.5%与沙特阿美合资运营延布炼厂(40万桶/日),2025年双方与YASREF签署炼化扩建框架协议",
+      "source": "http://www.sinopec.com/listco/en/000/000/066/66787.shtml"
+    },
+    {
+      "id": "rel-329",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-energy-013",
+        "name": "中国海油"
+      },
+      "overseas": {
+        "name": "圭亚那Stabroek区块(Yellowtail等油田)",
+        "country": "圭亚那"
+      },
+      "since": "2013",
+      "purpose": "中国海油持有圭亚那Stabroek区块25.5%权益,与埃克森美孚、赫斯联合开发;2025年8月第四个项目Yellowtail投产",
+      "source": "https://www.stcn.com/article/detail/3019570.html"
+    },
+    {
+      "id": "rel-330",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-energy-014",
+        "name": "山东能源"
+      },
+      "overseas": {
+        "name": "澳大利亚高地资源公司 Highfield Resources(西班牙Muga钾盐矿)",
+        "country": "西班牙"
+      },
+      "since": "2024",
+      "purpose": "2024年9月旗下兖矿能源与澳洲上市钾肥公司高地资源签署实施协议及股份认购协议,推进并购并开发其西班牙Muga钾盐矿项目",
+      "source": "https://finance.sina.com.cn/roll/2024-09-26/doc-incqnrnu8655113.shtml"
+    },
+    {
+      "id": "rel-331",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-energy-015",
+        "name": "晋能控股"
+      },
+      "overseas": {
+        "name": "日本光伏组件客户(大阪世博会签约)",
+        "country": "日本"
+      },
+      "since": "2025",
+      "purpose": "旗下晋能科技在日本大阪世博会期间与日本企业签署太阳能组件销售合作协议,向日方供应光伏组件",
+      "source": "http://epaper.sxrb.com/shtml/sxscdb/20251021/1121304.shtml"
+    },
+    {
+      "id": "rel-332",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-energy-016",
+        "name": "陕煤集团"
+      },
+      "overseas": {
+        "country": "吉尔吉斯斯坦",
+        "name": "中大石油炼油项目(中亚能源公司)"
+      },
+      "location": "卡拉巴德, 吉尔吉斯斯坦",
+      "since": "2014",
+      "purpose": "陕煤集团控股的中亚能源在吉尔吉斯斯坦楚河州卡拉巴德市运营中大石油炼油项目,系中企在吉投资规模最大的工业项目,已复产并连续盈利",
+      "source": "https://shccig.com/detail/1421471"
+    },
+    {
+      "id": "rel-333",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-logi-002",
+        "name": "建发集团"
+      },
+      "overseas": {
+        "country": "阿联酋",
+        "name": "建发中东有限公司"
+      },
+      "location": "迪拜, 阿联酋",
+      "since": "2024",
+      "purpose": "2024年12月建发集团旗下建发中东有限公司正式开业,作为集团在中东的区域平台推进供应链业务出海",
+      "source": "https://chinacdc.com/2024/1063.html"
+    },
+    {
+      "id": "rel-334",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-logi-003",
+        "name": "厦门国贸控股"
+      },
+      "overseas": {
+        "country": "阿联酋",
+        "name": "CSP阿布扎比场站海外仓合作项目"
+      },
+      "location": "阿布扎比, 阿联酋",
+      "since": "2025",
+      "purpose": "厦门国贸与中远海运港口阿布扎比场站签署战略合作协议,共建厦门市级海外仓,完善中东物流节点布局",
+      "source": "https://www.xindemarinenews.com/m/view.php?aid=54169"
+    },
+    {
+      "id": "rel-335",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-logi-004",
+        "name": "象屿集团"
+      },
+      "overseas": {
+        "country": "印度尼西亚",
+        "name": "印尼OSS不锈钢项目(Obsidian Stainless Steel,250万吨)"
+      },
+      "location": "莫罗瓦利, 印度尼西亚",
+      "since": "2022",
+      "purpose": "象屿集团参与投资建设的印尼OSS不锈钢项目(250万吨)已成为一带一路产能合作标杆,项目持续推进并投产",
+      "source": "https://bxg.m.mysteel.com/a/25052616/8A2DD707DFC8015E_abc.html"
+    },
+    {
+      "id": "rel-336",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-024",
+        "name": "东风汽车"
+      },
+      "overseas": {
+        "country": "埃及",
+        "name": "东风S01埃及本地组装项目(当地合作工厂)"
+      },
+      "location": "埃及",
+      "since": "2025",
+      "purpose": "2025年8月埃及产首台东风S01验证车在当地合作工厂完成总装下线,标志东风在北非从产品输出向技术与标准输出升级",
+      "source": "https://www.dfmc.com.cn/news/company/news_20250828_0934.html"
+    },
+    {
+      "id": "rel-337",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-014",
+        "name": "国机集团"
+      },
+      "overseas": {
+        "name": "马尔代夫古里法如岛市政基础设施建设项目(EPC总承包)",
+        "country": "马尔代夫"
+      },
+      "since": "2025",
+      "purpose": "国机集团旗下中国机械设备工程(CMEC)签署马尔代夫古里法如岛市政基础设施建设项目总承包合同",
+      "source": "http://www.cmec.com.cn/xwzx/gsxw/202501/t20250116_510657.html"
+    },
+    {
+      "id": "rel-338",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-014",
+        "name": "国机集团"
+      },
+      "overseas": {
+        "name": "尼日利亚夸拉州甘蔗种植和糖厂项目",
+        "country": "尼日利亚"
+      },
+      "since": "2025",
+      "purpose": "国机集团旗下中国电工签署尼日利亚夸拉州甘蔗种植和糖厂项目合作备忘录,拓展海外农业与糖业工程市场",
+      "source": "https://www.cneec.com.cn/xwzx/gsyw/202504/t20250415_543205.html"
+    },
+    {
+      "id": "rel-339",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-015",
+        "name": "通用技术集团"
+      },
+      "overseas": {
+        "name": "印尼卡苏里区块天然气处理厂项目(设计+采购合同)",
+        "country": "印度尼西亚"
+      },
+      "since": "2024",
+      "purpose": "通用技术集团旗下中机公司正式签约印尼卡苏里区块天然气处理厂项目设计和采购合同",
+      "source": "https://www.chinca.org/CICA/info/24111210034811"
+    },
+    {
+      "id": "rel-340",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-015",
+        "name": "通用技术集团"
+      },
+      "overseas": {
+        "name": "乌兹别克斯坦220kV变电站改造项目(3个)",
+        "country": "乌兹别克斯坦"
+      },
+      "since": "2024",
+      "purpose": "通用技术集团中亚片区中标乌兹别克斯坦三个220千伏变电站改造项目,持续深耕中亚电力工程市场",
+      "source": "https://www.chinca.org/sjtcoc/info/24122410101911"
+    },
+    {
+      "id": "rel-341",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-defense-001",
+        "name": "中国兵器工业"
+      },
+      "overseas": {
+        "name": "秘鲁陆军无人机采购协议(2套3D测绘/夜视监控无人机)",
+        "country": "秘鲁"
+      },
+      "since": "2023",
+      "purpose": "中国北方工业公司(NORINCO)与秘鲁国防部签署合作协议,向秘鲁陆军提供两套具备三维测绘处理与夜间监控能力的无人机",
+      "source": "https://www.gob.pe/institucion/mindef/noticias/985778-ejercito-adquirira-dos-drones-con-sistema-de-procesamiento-cartografico-3d-y-vigilancia-mediante-convenio-entre-el-mindef-y-empresa-china"
+    },
+    {
+      "id": "rel-342",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-defense-002",
+        "name": "中国兵器装备"
+      },
+      "overseas": {
+        "country": "泰国",
+        "name": "长安汽车泰国罗勇府新能源汽车整车工厂"
+      },
+      "location": "罗勇府, 泰国",
+      "since": "2025",
+      "purpose": "中国兵器装备集团旗下长安汽车在泰国罗勇府建设新能源汽车整车工厂,已投产并推进本地化生产",
+      "source": "http://cq.people.com.cn/n2/2026/0719/c367653-41643373.html"
+    },
+    {
+      "id": "rel-343",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-fin-009",
+        "name": "农业银行"
+      },
+      "overseas": {
+        "name": "中刚非洲银行(Sino-Congolaise des Banques)奥约机构",
+        "country": "刚果(布)"
+      },
+      "since": "2025",
+      "purpose": "农业银行参与合资设立的中刚非洲银行2025年5月在刚果(布)奥约市开设新机构,刚果(布)总统与农业银行董事长出席开业仪式",
+      "source": "https://finance.sina.cn/2025-05-13/detail-inewmhrw6960807.d.html"
+    },
+    {
+      "id": "rel-344",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-008",
+        "name": "拓普集团"
+      },
+      "overseas": {
+        "country": "墨西哥",
+        "name": "拓普集团墨西哥全资子公司及工厂"
+      },
+      "location": "墨西哥",
+      "since": "2023",
+      "purpose": "公告在墨西哥新设全资子公司投资建设工厂,配套特斯拉等北美客户",
+      "source": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=8567463"
+    },
+    {
+      "id": "rel-345",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-008",
+        "name": "拓普集团"
+      },
+      "overseas": {
+        "country": "波兰",
+        "name": "拓普波兰工厂"
+      },
+      "location": "波兰",
+      "since": "2020",
+      "purpose": "2020年投资约2亿元在波兰建厂生产热管理/NVH部件,公司2026年披露波兰产线正常运营",
+      "source": "https://d.wanfangdata.com.cn/periodical/zgxj202012006"
+    },
+    {
+      "id": "rel-346",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-008",
+        "name": "拓普集团"
+      },
+      "overseas": {
+        "country": "泰国",
+        "name": "拓普泰国工厂"
+      },
+      "location": "泰国",
+      "purpose": "公司披露全球化产能布局稳步推进,泰国工厂建设进展顺利",
+      "source": "https://www.9fzt.com/detail/sh_601689_8_bbff1b83cb02c63d1c5c2c2e82f657b6.html"
+    },
+    {
+      "id": "rel-347",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-010",
+        "name": "华域汽车"
+      },
+      "overseas": {
+        "country": "墨西哥",
+        "name": "延锋座椅(Yanfeng Seating)墨西哥新莱昂州第二工厂"
+      },
+      "location": "新莱昂州, 墨西哥",
+      "since": "2023",
+      "purpose": "旗下延锋汽车座椅系统在墨西哥新莱昂州建成投产第二座工厂,服务北美整车客户",
+      "source": "https://www.infobae.com/america/agencias/2023/01/24/yanfeng-seating-inaugura-segunda-planta-en-nuevo-leon-al-norte-de-mexico-2/"
+    },
+    {
+      "id": "rel-348",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-tech-004",
+        "name": "大华股份"
+      },
+      "overseas": {
+        "country": "塞尔维亚",
+        "name": "大华塞尔维亚公司"
+      },
+      "location": "塞尔维亚",
+      "since": "2023",
+      "purpose": "2023年半年度报告披露新设100%全资子公司大华塞尔维亚",
+      "source": "http://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002236&id=9457292"
+    },
+    {
+      "id": "rel-349",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-tech-004",
+        "name": "大华股份"
+      },
+      "overseas": {
+        "country": "捷克",
+        "name": "大华捷克公司"
+      },
+      "location": "捷克",
+      "since": "2026",
+      "purpose": "2026年半年度报告披露新设100%全资子公司大华捷克公司",
+      "source": "https://4g.stockstar.com/detail/SN2026081500000975"
+    },
+    {
+      "id": "rel-350",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-tech-010",
+        "name": "浪潮信息"
+      },
+      "overseas": {
+        "name": "浪潮(香港)电子有限公司",
+        "country": "中国香港"
+      },
+      "since": "2013",
+      "purpose": "公告购买浪潮(香港)电子有限公司股权,作为海外业务平台",
+      "source": "http://static.cninfo.com.cn/finalpage/2013-04-17/62371979.PDF"
+    },
+    {
+      "id": "rel-351",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-semi-003",
+        "name": "韦尔股份"
+      },
+      "overseas": {
+        "name": "豪威科技(OmniVision Technologies)",
+        "country": "美国"
+      },
+      "since": "2019",
+      "purpose": "韦尔股份收购豪威科技获证监会通过并完成,取得其全球图像传感器业务",
+      "source": "https://cs.com.cn/ssgs/gsxw/201905/t20190506_5946574.html"
+    },
+    {
+      "id": "rel-352",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-semi-004",
+        "name": "北方华创"
+      },
+      "overseas": {
+        "name": "Akrion Systems LLC",
+        "country": "美国"
+      },
+      "since": "2016",
+      "purpose": "通过子公司以约1亿元收购美国半导体清洗设备商Akrion Systems,获得其技术与美国客户渠道",
+      "source": "https://stock.stockstar.com/JC2018020200000870.shtml"
+    },
+    {
+      "id": "rel-353",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-semi-005",
+        "name": "中微公司"
+      },
+      "overseas": {
+        "country": "美国",
+        "name": "中微北美(AMEC North America)"
+      },
+      "location": "美国",
+      "purpose": "公司在北美设立子公司中微北美,负责刻蚀设备的海外销售与客户支持(官网全球网络可查)",
+      "source": "https://www.amec-inc.com/ft/index/Lists/show/catid/4/id/494.html"
+    },
+    {
+      "id": "rel-354",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-energy-002",
+        "name": "通威股份"
+      },
+      "overseas": {
+        "country": "越南",
+        "name": "越南通威(Tongwei Vietnam)饲料生产基地"
+      },
+      "location": "前江省, 越南",
+      "since": "2009",
+      "purpose": "通威股份在越南前江省投资设立饲料生产基地越南通威,2009年开业并持续运营",
+      "source": "https://finance.sina.cn/sa/2009-05-26/detail-ikknscsi7305993.d.html"
+    },
+    {
+      "id": "rel-355",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-consumer-002",
+        "name": "李宁"
+      },
+      "overseas": {
+        "country": "新加坡",
+        "name": "李宁新加坡门店(Plaza Singapura及Bugis+)"
+      },
+      "location": "新加坡, 新加坡",
+      "since": "2024",
+      "purpose": "2024年10月李宁在新加坡新开两家门店,拓展东南亚零售网络",
+      "source": "https://alvinology.com/2024/10/26/15-off-opening-promotion-li-ning-opens-two-new-stores-in-singapore-at-plaza-singapura-and-bugis/"
+    },
+    {
+      "id": "rel-356",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-002",
+        "name": "中国商飞"
+      },
+      "overseas": {
+        "name": "印尼翎亚航空(TransNusa) ARJ21/C909机队",
+        "country": "印度尼西亚"
+      },
+      "since": "2022",
+      "purpose": "2022年12月国产支线客机ARJ21首次交付海外客户印尼翎亚航空,后续持续交付",
+      "source": "https://hk.crntt.com/crn-webapp/spec/195/docDetail.jsp?coluid=356&docid=106550528"
+    },
+    {
+      "id": "rel-357",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-other-002",
+        "name": "中国商飞"
+      },
+      "overseas": {
+        "country": "新加坡",
+        "name": "中国商飞亚太办事处"
+      },
+      "location": "新加坡, 新加坡",
+      "since": "2024",
+      "purpose": "2024年10月中国商飞亚太办事处在新加坡挂牌成立",
+      "source": "http://www.comac.cc/xwzx/gsxw/202410/28/t20241028_7394994.shtml"
+    },
+    {
+      "id": "rel-358",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-other-004",
+        "name": "歌尔股份"
+      },
+      "overseas": {
+        "country": "越南",
+        "name": "歌尔越南生产基地"
+      },
+      "location": "越南",
+      "since": "2024",
+      "purpose": "公司公告持续加码越南投资建设声学/整机制造基地,承接海外品牌代工订单",
+      "source": "https://www.chinatimes.com/cn/realtimenews/20240117000189-261504"
+    },
+    {
+      "id": "rel-359",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-other-005",
+        "name": "舜宇光学"
+      },
+      "overseas": {
+        "country": "越南",
+        "name": "Sunny Opotech Viet Nam(舜宇越南)"
+      },
+      "location": "越南",
+      "since": "2023",
+      "purpose": "舜宇光学在越南设立Sunny Opotech Viet Nam建设光学产品生产基地,规划投资总额约25亿美元",
+      "source": "https://e.vnexpress.net/news/companies/chinas-sunny-optical-technology-group-plans-2-5b-investment-in-vietnam-4579874.html"
+    },
+    {
+      "id": "rel-360",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-026",
+        "name": "深度求索"
+      },
+      "overseas": {
+        "name": "Microsoft Azure AI Foundry / GitHub",
+        "country": "美国"
+      },
+      "since": "2025",
+      "purpose": "DeepSeek-R1于2025年1月上线微软Azure AI Foundry和GitHub,面向海外开发者提供",
+      "source": "https://azure.microsoft.com/en-us/blog/deepseek-r1-now-available-on-azure-ai-foundry-and-github/"
+    },
+    {
+      "id": "rel-361",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-026",
+        "name": "深度求索"
+      },
+      "overseas": {
+        "name": "Amazon Bedrock (AWS)",
+        "country": "美国"
+      },
+      "since": "2025",
+      "purpose": "2025年3月AWS在Amazon Bedrock推出DeepSeek-R1全托管服务",
+      "source": "https://aws.amazon.com/about-aws/whats-new/2025/03/deepseek-r1-fully-managed-amazon-bedrock/"
+    },
+    {
+      "id": "rel-362",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-020",
+        "name": "宇树科技"
+      },
+      "overseas": {
+        "name": "HPDRONES (葡萄牙官方经销商)",
+        "country": "葡萄牙"
+      },
+      "since": "2025",
+      "purpose": "HPDRONES宣布宇树机器人正式进入葡萄牙,成为其当地官方经销商",
+      "source": "https://hpdrones.pro/en/unitree-robotics-officially-arrives-in-portugal-with-hpdrones/"
+    },
+    {
+      "id": "rel-363",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-020",
+        "name": "宇树科技"
+      },
+      "overseas": {
+        "name": "日韩欧经销商与英国教育客户网络",
+        "country": "多国"
+      },
+      "since": "2025",
+      "purpose": "招股书及媒体梳理显示宇树海外销售覆盖欧洲、日本、韩国和北美,以经销商模式进入英国教育科研市场",
+      "source": "https://finance.sina.cn/2026-06-09/detail-iniavfsr5002094.d.html?vt=4"
+    },
+    {
+      "id": "rel-364",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-tech-027",
+        "name": "智谱AI"
+      },
+      "overseas": {
+        "country": "新加坡",
+        "name": "新加坡海外业务枢纽 (Z.ai)"
+      },
+      "location": "新加坡, 新加坡",
+      "since": "2024",
+      "purpose": "在新加坡设立海外业务实体,借一带一路新兴市场加速全球扩张,IPO前海外战略提速",
+      "source": "https://www.scmp.com/tech/tech-war/article/3310298/chinas-zhipu-eyes-expansion-belt-and-road-initiative-global-ai-market-heats"
+    },
+    {
+      "id": "rel-365",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-027",
+        "name": "智谱AI"
+      },
+      "overseas": {
+        "name": "阿里云(海外伙伴合作)",
+        "country": "新加坡"
+      },
+      "since": "2025",
+      "purpose": "通过与阿里云的伙伴合作,依托其海外云基础设施加快向国际市场输出GLM大模型",
+      "source": "https://hk.finance.yahoo.com/news/智谱透过与阿里云的伙伴合作加快海外扩张-072059663.html"
+    },
+    {
+      "id": "rel-366",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-028",
+        "name": "MiniMax(稀宇科技)"
+      },
+      "overseas": {
+        "name": "fal (美国AI推理平台)",
+        "country": "美国"
+      },
+      "since": "2025",
+      "purpose": "海螺Hailuo视频模型通过fal向海外创作者提供,双方在伊斯坦布尔联合举办创作活动",
+      "source": "https://www.minimax.io/news/hailuo-ai-x-fal-in-istanbul-a-new-era-for-creativity"
+    },
+    {
+      "id": "rel-367",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-028",
+        "name": "MiniMax(稀宇科技)"
+      },
+      "overseas": {
+        "name": "OpenRouter",
+        "country": "美国"
+      },
+      "since": "2025",
+      "purpose": "MiniMax Hailuo系列模型(含H3 Max)上线OpenRouter供海外开发者调用",
+      "source": "https://openrouter.ai/minimax/hailuo-3-max"
+    },
+    {
+      "id": "rel-368",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-tech-029",
+        "name": "米哈游"
+      },
+      "overseas": {
+        "country": "加拿大",
+        "name": "HoYoverse蒙特利尔工作室"
+      },
+      "location": "蒙特利尔, 加拿大",
+      "since": "2021",
+      "purpose": "2021年11月官宣在加拿大蒙特利尔设立百人级海外研发工作室,开发3A级FPS开放世界新游",
+      "source": "http://www.gamelook.com.cn/2021/11/460449/"
+    },
+    {
+      "id": "rel-369",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-tech-030",
+        "name": "网易"
+      },
+      "overseas": {
+        "name": "SkyBox Labs",
+        "country": "加拿大"
+      },
+      "since": "2023",
+      "purpose": "网易游戏2023年1月宣布全资收购加拿大SkyBox Labs(曾参与光环、我的世界等项目开发),目前仍在运营",
+      "source": "http://www.neteasegames.com/m/news/20230106/37000_1061765.html"
+    },
+    {
+      "id": "rel-370",
+      "type": "licensing",
+      "domestic": {
+        "id": "cn-consumer-009",
+        "name": "希音"
+      },
+      "overseas": {
+        "name": "Forever 21 / Sparc Group (Authentic Brands)",
+        "country": "美国"
+      },
+      "since": "2023",
+      "purpose": "与Forever 21母公司Sparc Group达成品牌合作:SHEIN设计生产Forever 21线上专供系列,Sparc为SHEIN提供美国线下退换货",
+      "source": "https://www.reuters.com/business/retail-consumer/shein-inks-deal-with-forever-21-owner-fast-fashion-majors-look-boost-reach-2023-08-24/"
+    },
+    {
+      "id": "rel-371",
+      "type": "licensing",
+      "domestic": {
+        "id": "cn-consumer-009",
+        "name": "希音"
+      },
+      "overseas": {
+        "name": "Reliance Retail (信实零售)",
+        "country": "印度"
+      },
+      "since": "2024",
+      "purpose": "与信实零售达成品牌授权合作重返印度:SHEIN提供品牌与供应链,Reliance负责本地运营",
+      "source": "https://www.thehindubusinessline.com/companies/mukesh-ambanis-reliance-to-launch-ipo-bound-shein-in-india/article68365700.ece"
+    },
+    {
+      "id": "rel-372",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-consumer-009",
+        "name": "希音"
+      },
+      "overseas": {
+        "name": "Missguided (品牌知识产权)",
+        "country": "英国"
+      },
+      "since": "2022",
+      "purpose": "从英国Frasers集团收购快时尚品牌Missguided的知识产权",
+      "source": "https://finance.yahoo.com/news/shein-buys-missguided-ip-mike-080636312.html"
+    },
+    {
+      "id": "rel-373",
+      "type": "licensing",
+      "domestic": {
+        "id": "cn-tech-031",
+        "name": "影石创新"
+      },
+      "overseas": {
+        "name": "Leica Camera AG (徕卡)",
+        "country": "德国"
+      },
+      "since": "2022",
+      "purpose": "与徕卡联合设计镜头并联名(ONE RS一英寸版等,2025年再推联名新品Luna Ultra云台相机)",
+      "source": "https://leica-camera.com/ja-JP/press/insta360-and-leica-camera-ag-unveil-insta360-luna-ultra"
+    },
+    {
+      "id": "rel-374",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-metal-011",
+        "name": "紫金矿业"
+      },
+      "overseas": {
+        "name": "Kamoa-Kakula铜矿项目(与Ivanhoe Mines合资)",
+        "country": "刚果(金)"
+      },
+      "since": "2015",
+      "purpose": "2015年起与艾芬豪矿业合资开发卡莫阿-卡库拉铜矿,全球最大级铜矿项目之一",
+      "source": "https://www.ivanhoemines.com/what-we-do/operations-projects/kamoa-kakula-mining-complex/"
+    },
+    {
+      "id": "rel-375",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-metal-011",
+        "name": "紫金矿业"
+      },
+      "overseas": {
+        "name": "加纳Akyem金矿(自Newmont收购)",
+        "country": "加纳"
+      },
+      "since": "2025",
+      "purpose": "以约10亿美元自纽蒙特收购Akyem金矿,2025年4月完成交割并公告",
+      "source": "https://epaper.cs.com.cn/zgzqb/html/2025-04/17/nw.D110000zgzqb_20250417_1-B038.htm"
+    },
+    {
+      "id": "rel-376",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-metal-011",
+        "name": "紫金矿业"
+      },
+      "overseas": {
+        "name": "秘鲁La Arena金矿及二期项目(自First Majestic收购)",
+        "country": "秘鲁"
+      },
+      "since": "2025",
+      "purpose": "收购La Arena金矿一二期项目,对价约2.45亿美元现金另加5000万美元或有对价",
+      "source": "https://inews.hket.com/article/3853899/%E7%B4%AB%E9%87%912899%EF%BD%9C%E7%B4%AB%E9%87%91%E6%94%B6%E8%B3%BC%E7%A7%98%E9%AD%94La%20Arena%E9%87%91%E7%A4%A6%E5%92%8C%E4%BA%8C%E6%9C%9F%E9%A0%85%E7%9B%AE%E3%80%80%E4%BB%A3%E5%83%B9%E9%80%BE19%E5%84%84%E5%85%83"
+    },
+    {
+      "id": "rel-377",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-auto-026",
+        "name": "零跑汽车"
+      },
+      "overseas": {
+        "name": "Leapmotor International B.V.(与Stellantis合资)",
+        "country": "荷兰"
+      },
+      "since": "2024",
+      "purpose": "Stellantis持股51%、零跑持股49%的合资公司,2024年9月起在9个欧洲国家启动销售并扩展至其他市场",
+      "source": "https://www.media.stellantis.com/me-en/corporate/press/leapmotor-international-begins-operations-to-expand-global-electric-vehicle-sales-starting-september-2024-in-nine-european-countries-followed-by-other-key-growth-regions"
+    },
+    {
+      "id": "rel-378",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-auto-026",
+        "name": "零跑汽车"
+      },
+      "overseas": {
+        "country": "西班牙",
+        "name": "Stellantis萨拉戈萨工厂零跑整车组装"
+      },
+      "location": "萨拉戈萨, 西班牙",
+      "since": "2026",
+      "purpose": "零跑B10等车型在Stellantis萨拉戈萨(Figueruelas)工厂组装,马德里Villaverde工厂配套,2026年启动",
+      "source": "https://www.investinspain.org/en/noticias-main/2026/leapmotor"
+    },
+    {
+      "id": "rel-379",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-energy-027",
+        "name": "TCL中环"
+      },
+      "overseas": {
+        "name": "沙特20GW光伏晶体晶片合资工厂(与PIF子公司RELC、Vision Industries)",
+        "country": "沙特阿拉伯"
+      },
+      "since": "2024",
+      "purpose": "2024年7月签署股东协议,总投资约20.8亿美元,TCL中环经新加坡子公司持股40%,建海外最大规模晶体晶片工厂",
+      "source": "https://m.nbd.com.cn/rss/xingye_zhengquan/articles/3469661.html"
+    },
+    {
+      "id": "rel-380",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-energy-027",
+        "name": "TCL中环"
+      },
+      "overseas": {
+        "name": "Maxeon Solar Technologies(新加坡)控股权",
+        "country": "新加坡"
+      },
+      "since": "2024",
+      "purpose": "拟出资约1.975亿美元增持总部位于新加坡的Maxeon成为控股股东,布局全球光伏组件与渠道",
+      "source": "https://www.yicaiglobal.com/news/tcl-zhonghuan-to-pay-usd1975-million-for-controlling-stake-in-singapores-maxeon-solar"
+    },
+    {
+      "id": "rel-381",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-energy-028",
+        "name": "欣旺达"
+      },
+      "overseas": {
+        "country": "匈牙利",
+        "name": "匈牙利电池生产基地(首座欧洲工厂)"
+      },
+      "location": "匈牙利",
+      "since": "2024",
+      "purpose": "首座欧洲电池工厂2024年10月动工,计划2026年下半年投产,服务欧洲动力电池客户",
+      "source": "https://finance.eastmoney.com/a/202410183210870757.html"
+    },
+    {
+      "id": "rel-382",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-energy-029",
+        "name": "中创新航"
+      },
+      "overseas": {
+        "country": "葡萄牙",
+        "name": "葡萄牙锡尼什(Sines)电池工厂"
+      },
+      "location": "锡尼什, 葡萄牙",
+      "since": "2022",
+      "purpose": "2022年宣布投资约20亿欧元建厂,2025年初推进开工准备并签署建造合约",
+      "source": "https://www.electrive.com/2025/02/24/calb-prepares-to-build-its-battery-plant-in-portugal/"
+    },
+    {
+      "id": "rel-383",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-consumer-010",
+        "name": "华住集团"
+      },
+      "overseas": {
+        "name": "德意志酒店集团(Deutsche Hospitality)",
+        "country": "德国"
+      },
+      "since": "2020",
+      "purpose": "2020年1月完成100%股权交割,将施柏阁(Steigenberger)等国际酒店品牌收入华住体系",
+      "source": "https://ir.hworld.com/news-releases/news-release-details/huazhu-group-limited-announces-closing-deutsche-hospitality"
+    },
+    {
+      "id": "rel-384",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-consumer-011",
+        "name": "瑞幸咖啡"
+      },
+      "overseas": {
+        "country": "新加坡",
+        "name": "新加坡首批海外门店(Marina Square/Ngee Ann City)"
+      },
+      "location": "新加坡, 新加坡",
+      "since": "2023",
+      "purpose": "2023年3月在新加坡开出品牌海外首批门店,为其出海首站",
+      "source": "https://www.straitstimes.com/life/food/china-s-luckin-coffee-makes-singapore-debut-at-marina-square-ngee-ann-city"
+    },
+    {
+      "id": "rel-385",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-consumer-011",
+        "name": "瑞幸咖啡"
+      },
+      "overseas": {
+        "country": "美国",
+        "name": "纽约首批美国门店"
+      },
+      "location": "纽约, 美国",
+      "since": "2025",
+      "purpose": "2025年6月在纽约开出美国首批两家门店,进入北美市场",
+      "source": "https://www.straitstimes.com/business/chinas-luckin-coffee-opens-first-two-us-stores-in-new-york"
+    },
+    {
+      "id": "rel-386",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-consumer-012",
+        "name": "霸王茶姬"
+      },
+      "overseas": {
+        "country": "马来西亚",
+        "name": "马来西亚海外首店及东南亚门店网络"
+      },
+      "location": "吉隆坡, 马来西亚",
+      "since": "2019",
+      "purpose": "2019年在马来西亚开出海外首店,截至2024年底海外门店达156家",
+      "source": "https://www.chinadaily.com.cn/a/202505/10/WS681eb7c6a310a04af22be8b4.html"
+    },
+    {
+      "id": "rel-387",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-consumer-012",
+        "name": "霸王茶姬"
+      },
+      "overseas": {
+        "country": "美国",
+        "name": "美国首店(洛杉矶)"
+      },
+      "location": "洛杉矶, 美国",
+      "since": "2025",
+      "purpose": "2025年进入美国市场,首店落地洛杉矶",
+      "source": "https://www.foodbusinessmea.com/chinas-chagee-enters-u-s-market-with-first-store-in-los-angeles/"
+    }
+  ],
+  "summary": {
+    "byType": {
+      "supplier-customer": "供应关系 - 国内企业向海外客户供货",
+      "overseas-factory": "海外建厂 - 国内企业在海外设立工厂",
+      "overseas-office": "海外办事处 - 国内企业在海外设立办公/研发机构",
+      "joint-venture": "合资企业 - 与海外企业成立合资公司",
+      "acquisition": "海外并购 - 收购海外企业或业务",
+      "licensing": "技术授权 - 向海外企业授权技术/产品",
+      "outsourcing": "外包代工 - 委托海外企业代工生产"
+    },
+    "byDomesticCompany": {
+      "宁德时代": 7,
+      "星宇股份": 4,
+      "福耀玻璃": 7,
+      "比亚迪": 5,
+      "均胜电子": 4,
+      "敏实集团": 5,
+      "三花智控": 4,
+      "万向钱潮": 3,
+      "美的集团": 4,
+      "海尔智家": 3,
+      "三一重工": 4,
+      "其他": "见详细数据"
+    }
+  }
+}

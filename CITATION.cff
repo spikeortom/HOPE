@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "HOPE - Haphazard Overview of Partner Enterprises"
+abstract: "企业出海与海外合作关系开放数据集:收录企业的海外供货、建厂、合资、并购、技术授权等合作事实,每条数据附公开来源。"
+authors:
+  - name: "HOPE Contributors"
+keywords:
+  - 企业出海
+  - 海外合作
+  - 海外建厂
+  - 海外并购
+  - supply chain
+  - open data
+version: 0.2.4
+date-released: "2026-09-03"

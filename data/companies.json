@@ -1,0 +1,4211 @@
+{
+  "metadata": {
+    "version": "0.2.4",
+    "lastUpdated": "2026-09-03",
+    "description": "HOPE - 企业出海与海外合作关系汇总",
+    "disclaimer": "数据来源于公开渠道，仅供参考"
+  },
+  "companies": [
+    {
+      "id": "cn-auto-003",
+      "name": {
+        "zh": "星宇股份",
+        "en": "Xingyu"
+      },
+      "ticker": "601799.SS",
+      "industry": "汽车零部件",
+      "location": {
+        "hq": "常州, 江苏"
+      },
+      "partners": [
+        {
+          "name": "宝马",
+          "country": "德国",
+          "type": "客户"
+        },
+        {
+          "name": "奔驰",
+          "country": "德国",
+          "type": "客户"
+        },
+        {
+          "name": "大众",
+          "country": "德国",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "汽车车灯"
+      ]
+    },
+    {
+      "id": "med-001",
+      "name": {
+        "zh": "众驰伟业",
+        "en": "Zhongchi Weiye Technology"
+      },
+      "ticker": "非上市",
+      "industry": "医疗器械/IVD",
+      "location": {
+        "hq": "北京顺义",
+        "production": [
+          "燕郊",
+          "中关村顺义科技园"
+        ]
+      },
+      "founded": "2007",
+      "honors": [
+        "国家高新技术企业",
+        "瞪羚企业",
+        "国家级专精特新小巨人"
+      ],
+      "mainBusiness": "医疗检验仪器及配套试剂",
+      "products": [
+        "凝血测试仪",
+        "血流变测试仪",
+        "全自动血凝仪"
+      ],
+      "partners": [],
+      "tags": [
+        "IVD",
+        "专精特新",
+        "医疗检验"
+      ]
+    },
+    {
+      "id": "med-002",
+      "name": {
+        "zh": "迈瑞医疗",
+        "en": "Mindray"
+      },
+      "ticker": "300760.SZ",
+      "industry": "医疗器械",
+      "location": {
+        "hq": "深圳"
+      },
+      "partners": [
+        {
+          "name": "全球医院",
+          "country": "全球",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "医疗器械龙头"
+      ]
+    },
+    {
+      "id": "med-003",
+      "name": {
+        "zh": "万东医疗",
+        "en": "Wandong Medical"
+      },
+      "ticker": "600055.SH",
+      "industry": "医疗器械",
+      "location": {
+        "hq": "北京"
+      },
+      "partners": [],
+      "tags": [
+        "医疗影像"
+      ]
+    },
+    {
+      "id": "med-004",
+      "name": {
+        "zh": "开立医疗",
+        "en": "SonoScape"
+      },
+      "ticker": "300633.SZ",
+      "industry": "医疗器械",
+      "location": {
+        "hq": "深圳"
+      },
+      "partners": [
+        {
+          "name": "海外医院",
+          "country": "全球",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "超声设备"
+      ]
+    },
+    {
+      "id": "med-005",
+      "name": {
+        "zh": "理邦仪器",
+        "en": "Edan Instruments"
+      },
+      "ticker": "300206.SZ",
+      "industry": "医疗器械",
+      "location": {
+        "hq": "深圳"
+      },
+      "partners": [
+        {
+          "name": "海外医院",
+          "country": "全球",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "医疗电子"
+      ]
+    },
+    {
+      "id": "med-006",
+      "name": {
+        "zh": "新华医疗",
+        "en": "Xinhua Medical"
+      },
+      "ticker": "600587.SH",
+      "industry": "医疗器械",
+      "location": {
+        "hq": "淄博, 山东"
+      },
+      "partners": [],
+      "tags": [
+        "消毒灭菌"
+      ]
+    },
+    {
+      "id": "med-007",
+      "name": {
+        "zh": "鱼跃医疗",
+        "en": "Yuwell Medical"
+      },
+      "ticker": "002223.SZ",
+      "industry": "医疗器械",
+      "location": {
+        "hq": "丹阳, 江苏"
+      },
+      "partners": [
+        {
+          "name": "海外客户",
+          "country": "全球",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "家用医疗"
+      ]
+    },
+    {
+      "id": "med-008",
+      "name": {
+        "zh": "安图生物",
+        "en": "Autobio Diagnostics"
+      },
+      "ticker": "603658.SH",
+      "industry": "IVD",
+      "location": {
+        "hq": "郑州, 河南"
+      },
+      "partners": [
+        {
+          "name": "海外客户",
+          "country": "全球",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "IVD"
+      ]
+    },
+    {
+      "id": "med-009",
+      "name": {
+        "zh": "新产业生物",
+        "en": "Snibe Diagnostic"
+      },
+      "ticker": "300832.SZ",
+      "industry": "IVD",
+      "location": {
+        "hq": "深圳"
+      },
+      "partners": [
+        {
+          "name": "海外客户",
+          "country": "全球",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "化学发光龙头"
+      ]
+    },
+    {
+      "id": "med-010",
+      "name": {
+        "zh": "科华生物",
+        "en": "Kehua Bio-Engineering"
+      },
+      "ticker": "002022.SZ",
+      "industry": "IVD",
+      "location": {
+        "hq": "上海"
+      },
+      "partners": [],
+      "tags": [
+        "IVD老牌"
+      ]
+    },
+    {
+      "id": "cn-auto-001",
+      "name": {
+        "zh": "宁德时代",
+        "en": "CATL"
+      },
+      "ticker": "300750.SZ",
+      "industry": "新能源",
+      "location": {
+        "hq": "宁德, 福建"
+      },
+      "partners": [
+        {
+          "name": "特斯拉",
+          "country": "美国",
+          "type": "客户"
+        },
+        {
+          "name": "宝马",
+          "country": "德国",
+          "type": "客户"
+        },
+        {
+          "name": "奔驰",
+          "country": "德国",
+          "type": "客户"
+        },
+        {
+          "name": "大众",
+          "country": "德国",
+          "type": "客户"
+        },
+        {
+          "name": "丰田",
+          "country": "日本",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "动力电池龙头"
+      ]
+    },
+    {
+      "id": "cn-auto-002",
+      "name": {
+        "zh": "比亚迪",
+        "en": "BYD"
+      },
+      "ticker": "002594.SZ / 1211.HK",
+      "industry": "汽车/新能源",
+      "location": {
+        "hq": "深圳, 广东"
+      },
+      "partners": [
+        {
+          "name": "丰田",
+          "country": "日本",
+          "type": "合资"
+        },
+        {
+          "name": "戴姆勒",
+          "country": "德国",
+          "type": "合资"
+        }
+      ],
+      "tags": [
+        "新能源汽车龙头"
+      ]
+    },
+    {
+      "id": "cn-auto-004",
+      "name": {
+        "zh": "福耀玻璃",
+        "en": "Fuyao Glass"
+      },
+      "ticker": "600660.SS / 3606.HK",
+      "industry": "汽车零部件",
+      "location": {
+        "hq": "福州, 福建"
+      },
+      "partners": [
+        {
+          "name": "宝马",
+          "country": "德国",
+          "type": "客户"
+        },
+        {
+          "name": "奔驰",
+          "country": "德国",
+          "type": "客户"
+        },
+        {
+          "name": "大众",
+          "country": "德国",
+          "type": "客户"
+        },
+        {
+          "name": "丰田",
+          "country": "日本",
+          "type": "客户"
+        },
+        {
+          "name": "通用",
+          "country": "美国",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "汽车玻璃龙头"
+      ]
+    },
+    {
+      "id": "cn-auto-005",
+      "name": {
+        "zh": "均胜电子",
+        "en": "Joyson Electronics"
+      },
+      "ticker": "600699.SS",
+      "industry": "汽车零部件",
+      "location": {
+        "hq": "宁波, 浙江"
+      },
+      "partners": [
+        {
+          "name": "宝马",
+          "country": "德国",
+          "type": "客户"
+        },
+        {
+          "name": "大众",
+          "country": "德国",
+          "type": "客户"
+        },
+        {
+          "name": "奥迪",
+          "country": "德国",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "汽车电子"
+      ]
+    },
+    {
+      "id": "cn-auto-006",
+      "name": {
+        "zh": "敏实集团",
+        "en": "MINTH Group"
+      },
+      "ticker": "0425.HK",
+      "industry": "汽车零部件",
+      "location": {
+        "hq": "嘉兴, 浙江"
+      },
+      "partners": [
+        {
+          "name": "丰田",
+          "country": "日本",
+          "type": "客户"
+        },
+        {
+          "name": "本田",
+          "country": "日本",
+          "type": "客户"
+        },
+        {
+          "name": "日产",
+          "country": "日本",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "车身零部件"
+      ]
+    },
+    {
+      "id": "cn-auto-007",
+      "name": {
+        "zh": "三花智控",
+        "en": "Sanhua"
+      },
+      "ticker": "002050.SZ",
+      "industry": "汽车零部件",
+      "location": {
+        "hq": "新昌, 浙江"
+      },
+      "partners": [
+        {
+          "name": "特斯拉",
+          "country": "美国",
+          "type": "客户"
+        },
+        {
+          "name": "宝马",
+          "country": "德国",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "热管理"
+      ]
+    },
+    {
+      "id": "cn-auto-008",
+      "name": {
+        "zh": "拓普集团",
+        "en": "Tuopu Group"
+      },
+      "ticker": "601689.SS",
+      "industry": "汽车零部件",
+      "location": {
+        "hq": "宁波, 浙江"
+      },
+      "partners": [
+        {
+          "name": "特斯拉",
+          "country": "美国",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "底盘系统"
+      ]
+    },
+    {
+      "id": "cn-auto-009",
+      "name": {
+        "zh": "万向钱潮",
+        "en": "Wanxiang Qianchao"
+      },
+      "ticker": "000559.SZ",
+      "industry": "汽车零部件",
+      "location": {
+        "hq": "杭州, 浙江"
+      },
+      "partners": [
+        {
+          "name": "通用",
+          "country": "美国",
+          "type": "客户"
+        },
+        {
+          "name": "福特",
+          "country": "美国",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "老牌零部件"
+      ]
+    },
+    {
+      "id": "cn-auto-010",
+      "name": {
+        "zh": "华域汽车",
+        "en": "HASCO"
+      },
+      "ticker": "600741.SS",
+      "industry": "汽车零部件",
+      "location": {
+        "hq": "上海"
+      },
+      "partners": [
+        {
+          "name": "大众",
+          "country": "德国",
+          "type": "客户"
+        },
+        {
+          "name": "通用",
+          "country": "美国",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "上汽系"
+      ]
+    },
+    {
+      "id": "cn-tech-001",
+      "name": {
+        "zh": "华为",
+        "en": "Huawei"
+      },
+      "ticker": "非上市",
+      "industry": "ICT",
+      "location": {
+        "hq": "深圳, 广东"
+      },
+      "partners": [
+        {
+          "name": "欧洲运营商",
+          "country": "欧洲",
+          "type": "客户"
+        },
+        {
+          "name": "中东运营商",
+          "country": "中东",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "通信龙头"
+      ]
+    },
+    {
+      "id": "cn-tech-002",
+      "name": {
+        "zh": "中兴通讯",
+        "en": "ZTE"
+      },
+      "ticker": "000063.SZ / 0763.HK",
+      "industry": "通信设备",
+      "location": {
+        "hq": "深圳, 广东"
+      },
+      "partners": [
+        {
+          "name": "全球运营商",
+          "country": "全球",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "通信设备"
+      ]
+    },
+    {
+      "id": "cn-tech-003",
+      "name": {
+        "zh": "海康威视",
+        "en": "Hikvision"
+      },
+      "ticker": "002415.SZ",
+      "industry": "安防",
+      "location": {
+        "hq": "杭州, 浙江"
+      },
+      "partners": [
+        {
+          "name": "全球客户",
+          "country": "全球",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "安防龙头"
+      ]
+    },
+    {
+      "id": "cn-tech-004",
+      "name": {
+        "zh": "大华股份",
+        "en": "Dahua"
+      },
+      "ticker": "002236.SZ",
+      "industry": "安防",
+      "location": {
+        "hq": "杭州, 浙江"
+      },
+      "partners": [],
+      "tags": [
+        "安防"
+      ]
+    },
+    {
+      "id": "cn-tech-005",
+      "name": {
+        "zh": "小米",
+        "en": "Xiaomi"
+      },
+      "ticker": "1810.HK",
+      "industry": "消费电子",
+      "location": {
+        "hq": "北京"
+      },
+      "partners": [
+        {
+          "name": "富士康",
+          "country": "台湾",
+          "type": "代工"
+        },
+        {
+          "name": "高通",
+          "country": "美国",
+          "type": "供应商"
+        }
+      ],
+      "tags": [
+        "智能手机"
+      ]
+    },
+    {
+      "id": "cn-tech-006",
+      "name": {
+        "zh": "OPPO",
+        "en": "OPPO"
+      },
+      "ticker": "非上市",
+      "industry": "消费电子",
+      "location": {
+        "hq": "东莞, 广东"
+      },
+      "partners": [
+        {
+          "name": "高通",
+          "country": "美国",
+          "type": "供应商"
+        }
+      ],
+      "tags": [
+        "智能手机"
+      ]
+    },
+    {
+      "id": "cn-tech-007",
+      "name": {
+        "zh": "vivo",
+        "en": "vivo"
+      },
+      "ticker": "非上市",
+      "industry": "消费电子",
+      "location": {
+        "hq": "东莞, 广东"
+      },
+      "partners": [
+        {
+          "name": "高通",
+          "country": "美国",
+          "type": "供应商"
+        }
+      ],
+      "tags": [
+        "智能手机"
+      ]
+    },
+    {
+      "id": "cn-tech-008",
+      "name": {
+        "zh": "传音",
+        "en": "Transsion"
+      },
+      "ticker": "688036.SH",
+      "industry": "消费电子",
+      "location": {
+        "hq": "深圳, 广东"
+      },
+      "partners": [],
+      "tags": [
+        "非洲手机龙头"
+      ]
+    },
+    {
+      "id": "cn-tech-009",
+      "name": {
+        "zh": "联想",
+        "en": "Lenovo"
+      },
+      "ticker": "0992.HK",
+      "industry": "PC/服务器",
+      "location": {
+        "hq": "北京"
+      },
+      "partners": [
+        {
+          "name": "英特尔",
+          "country": "美国",
+          "type": "供应商"
+        },
+        {
+          "name": "微软",
+          "country": "美国",
+          "type": "供应商"
+        }
+      ],
+      "tags": [
+        "PC龙头"
+      ]
+    },
+    {
+      "id": "cn-tech-010",
+      "name": {
+        "zh": "浪潮信息",
+        "en": "Inspur"
+      },
+      "ticker": "000977.SZ",
+      "industry": "服务器",
+      "location": {
+        "hq": "济南, 山东"
+      },
+      "partners": [
+        {
+          "name": "英特尔",
+          "country": "美国",
+          "type": "供应商"
+        }
+      ],
+      "tags": [
+        "服务器"
+      ]
+    },
+    {
+      "id": "cn-home-001",
+      "name": {
+        "zh": "美的集团",
+        "en": "Midea"
+      },
+      "ticker": "000333.SZ",
+      "industry": "家电",
+      "location": {
+        "hq": "佛山, 广东"
+      },
+      "partners": [
+        {
+          "name": "东芝",
+          "country": "日本",
+          "type": "收购"
+        },
+        {
+          "name": "库卡(KUKA)",
+          "country": "德国",
+          "type": "被收购方"
+        }
+      ],
+      "tags": [
+        "家电龙头"
+      ]
+    },
+    {
+      "id": "cn-home-002",
+      "name": {
+        "zh": "海尔智家",
+        "en": "Haier Smart Home"
+      },
+      "ticker": "600690.SH / 6690.HK",
+      "industry": "家电",
+      "location": {
+        "hq": "青岛, 山东"
+      },
+      "partners": [
+        {
+          "name": "GE Appliances",
+          "country": "美国",
+          "type": "收购"
+        },
+        {
+          "name": "Candy",
+          "country": "意大利",
+          "type": "被收购方"
+        }
+      ],
+      "tags": [
+        "家电龙头"
+      ]
+    },
+    {
+      "id": "cn-home-003",
+      "name": {
+        "zh": "格力电器",
+        "en": "Gree Electric"
+      },
+      "ticker": "000651.SZ",
+      "industry": "家电",
+      "location": {
+        "hq": "珠海, 广东"
+      },
+      "partners": [],
+      "tags": [
+        "空调龙头"
+      ]
+    },
+    {
+      "id": "cn-home-004",
+      "name": {
+        "zh": "海信",
+        "en": "Hisense"
+      },
+      "ticker": "000921.SZ / 0921.HK",
+      "industry": "家电",
+      "location": {
+        "hq": "青岛, 山东"
+      },
+      "partners": [
+        {
+          "name": "东芝电视",
+          "country": "日本",
+          "type": "收购"
+        },
+        {
+          "name": "东芝映像",
+          "country": "日本",
+          "type": "被收购方"
+        },
+        {
+          "name": "Gorenje(古洛尼)",
+          "country": "斯洛文尼亚",
+          "type": "被收购方"
+        }
+      ],
+      "tags": [
+        "电视/家电"
+      ]
+    },
+    {
+      "id": "cn-semi-001",
+      "name": {
+        "zh": "中芯国际",
+        "en": "SMIC"
+      },
+      "ticker": "688981.SH / 0981.HK",
+      "industry": "半导体",
+      "location": {
+        "hq": "上海"
+      },
+      "partners": [],
+      "tags": [
+        "芯片代工"
+      ]
+    },
+    {
+      "id": "cn-semi-002",
+      "name": {
+        "zh": "长江存储",
+        "en": "YMTC"
+      },
+      "ticker": "非上市",
+      "industry": "半导体",
+      "location": {
+        "hq": "武汉, 湖北"
+      },
+      "partners": [],
+      "tags": [
+        "存储芯片"
+      ]
+    },
+    {
+      "id": "cn-semi-003",
+      "name": {
+        "zh": "韦尔股份",
+        "en": "Will Semiconductor"
+      },
+      "ticker": "603501.SH",
+      "industry": "半导体",
+      "location": {
+        "hq": "上海"
+      },
+      "partners": [
+        {
+          "name": "索尼",
+          "country": "日本",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "CIS芯片"
+      ]
+    },
+    {
+      "id": "cn-semi-004",
+      "name": {
+        "zh": "北方华创",
+        "en": "NAURA Technology"
+      },
+      "ticker": "002371.SZ",
+      "industry": "半导体设备",
+      "location": {
+        "hq": "北京"
+      },
+      "partners": [],
+      "tags": [
+        "半导体设备"
+      ]
+    },
+    {
+      "id": "cn-semi-005",
+      "name": {
+        "zh": "中微公司",
+        "en": "AMEC"
+      },
+      "ticker": "688012.SH",
+      "industry": "半导体设备",
+      "location": {
+        "hq": "上海"
+      },
+      "partners": [],
+      "tags": [
+        "刻蚀设备"
+      ]
+    },
+    {
+      "id": "cn-energy-001",
+      "name": {
+        "zh": "隆基绿能",
+        "en": "LONGi"
+      },
+      "ticker": "601012.SH",
+      "industry": "光伏",
+      "location": {
+        "hq": "西安, 陕西"
+      },
+      "partners": [
+        {
+          "name": "全球客户",
+          "country": "全球",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "光伏龙头"
+      ]
+    },
+    {
+      "id": "cn-energy-002",
+      "name": {
+        "zh": "通威股份",
+        "en": "Tongwei"
+      },
+      "ticker": "600438.SH",
+      "industry": "光伏",
+      "location": {
+        "hq": "成都, 四川"
+      },
+      "partners": [],
+      "tags": [
+        "光伏硅料龙头"
+      ]
+    },
+    {
+      "id": "cn-energy-003",
+      "name": {
+        "zh": "阳光电源",
+        "en": "Sungrow"
+      },
+      "ticker": "300274.SZ",
+      "industry": "光伏逆变器",
+      "location": {
+        "hq": "合肥, 安徽"
+      },
+      "partners": [],
+      "tags": [
+        "逆变器龙头"
+      ]
+    },
+    {
+      "id": "cn-energy-004",
+      "name": {
+        "zh": "金风科技",
+        "en": "Goldwind"
+      },
+      "ticker": "002202.SZ",
+      "industry": "风电",
+      "location": {
+        "hq": "北京"
+      },
+      "partners": [],
+      "tags": [
+        "风电龙头"
+      ]
+    },
+    {
+      "id": "cn-machine-001",
+      "name": {
+        "zh": "三一重工",
+        "en": "SANY"
+      },
+      "ticker": "600031.SH",
+      "industry": "工程机械",
+      "location": {
+        "hq": "长沙, 湖南"
+      },
+      "partners": [],
+      "tags": [
+        "工程机械龙头"
+      ]
+    },
+    {
+      "id": "cn-machine-002",
+      "name": {
+        "zh": "徐工集团",
+        "en": "XCMG"
+      },
+      "ticker": "000425.SZ",
+      "industry": "工程机械",
+      "location": {
+        "hq": "徐州, 江苏"
+      },
+      "partners": [],
+      "tags": [
+        "工程机械",
+        "国企"
+      ]
+    },
+    {
+      "id": "cn-machine-003",
+      "name": {
+        "zh": "中联重科",
+        "en": "Zoomlion"
+      },
+      "ticker": "000157.SZ / 1157.HK",
+      "industry": "工程机械",
+      "location": {
+        "hq": "长沙, 湖南"
+      },
+      "partners": [
+        {
+          "name": "CIFA",
+          "country": "意大利",
+          "type": "被收购方"
+        }
+      ],
+      "tags": [
+        "工程机械"
+      ],
+      "sources": [
+        "https://companies.caixin.com/m/2008-06-25/100050986.html",
+        "https://www.sinomach.com.cn/xwzx/zgsdt/2021_qydt/202111/t20211130_322506.html"
+      ]
+    },
+    {
+      "id": "cn-pharma-001",
+      "name": {
+        "zh": "药明康德",
+        "en": "WuXi AppTec"
+      },
+      "ticker": "603259.SH / 02359.HK",
+      "industry": "医药CXO",
+      "location": {
+        "hq": "上海"
+      },
+      "partners": [
+        {
+          "name": "全球药企",
+          "country": "全球",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "医药外包"
+      ]
+    },
+    {
+      "id": "cn-pharma-002",
+      "name": {
+        "zh": "百济神州",
+        "en": "BeiGene"
+      },
+      "ticker": "688235.SH / 06160.HK / BGNE",
+      "industry": "创新药",
+      "location": {
+        "hq": "北京"
+      },
+      "partners": [
+        {
+          "name": "诺华",
+          "country": "瑞士",
+          "type": "授权"
+        }
+      ],
+      "tags": [
+        "创新药出海"
+      ]
+    },
+    {
+      "id": "cn-pharma-003",
+      "name": {
+        "zh": "恒瑞医药",
+        "en": "Hengrui Medicine"
+      },
+      "ticker": "600276.SH",
+      "industry": "制药",
+      "location": {
+        "hq": "连云港, 江苏"
+      },
+      "partners": [],
+      "tags": [
+        "制药龙头"
+      ]
+    },
+    {
+      "id": "cn-pharma-004",
+      "name": {
+        "zh": "复星医药",
+        "en": "Fosun Pharma"
+      },
+      "ticker": "600196.SH / 02196.HK",
+      "industry": "医药",
+      "location": {
+        "hq": "上海"
+      },
+      "partners": [
+        {
+          "name": "mRNA技术",
+          "country": "德国",
+          "type": "合作"
+        }
+      ],
+      "tags": [
+        "医药综合"
+      ]
+    },
+    {
+      "id": "cn-consumer-001",
+      "name": {
+        "zh": "安踏体育",
+        "en": "ANTA Sports"
+      },
+      "ticker": "2020.HK",
+      "industry": "运动品牌",
+      "location": {
+        "hq": "厦门, 福建"
+      },
+      "partners": [
+        {
+          "name": "FILA",
+          "country": "意大利",
+          "type": "收购"
+        }
+      ],
+      "tags": [
+        "运动品牌"
+      ]
+    },
+    {
+      "id": "cn-consumer-002",
+      "name": {
+        "zh": "李宁",
+        "en": "Li-Ning"
+      },
+      "ticker": "2331.HK",
+      "industry": "运动品牌",
+      "location": {
+        "hq": "北京"
+      },
+      "partners": [],
+      "tags": [
+        "运动品牌"
+      ]
+    },
+    {
+      "id": "cn-consumer-003",
+      "name": {
+        "zh": "海天味业",
+        "en": "Haitian Flavouring"
+      },
+      "ticker": "603288.SH",
+      "industry": "调味品",
+      "location": {
+        "hq": "佛山, 广东"
+      },
+      "partners": [],
+      "tags": [
+        "调味品龙头"
+      ]
+    },
+    {
+      "id": "cn-fin-001",
+      "name": {
+        "zh": "工商银行",
+        "en": "ICBC"
+      },
+      "ticker": "601398.SH / 1398.HK",
+      "industry": "银行",
+      "location": {
+        "hq": "北京"
+      },
+      "partners": [],
+      "tags": [
+        "全球最大银行"
+      ]
+    },
+    {
+      "id": "cn-fin-002",
+      "name": {
+        "zh": "中国银行",
+        "en": "Bank of China"
+      },
+      "ticker": "601988.SH / 3988.HK",
+      "industry": "银行",
+      "location": {
+        "hq": "北京"
+      },
+      "partners": [],
+      "tags": [
+        "国际化程度最高"
+      ]
+    },
+    {
+      "id": "cn-fin-003",
+      "name": {
+        "zh": "招商银行",
+        "en": "CMB"
+      },
+      "ticker": "600036.SH / 3968.HK",
+      "industry": "银行",
+      "location": {
+        "hq": "深圳"
+      },
+      "partners": [],
+      "tags": [
+        "零售银行"
+      ]
+    },
+    {
+      "id": "cn-other-001",
+      "name": {
+        "zh": "潍柴动力",
+        "en": "Weichai Power"
+      },
+      "ticker": "000338.SZ / 2338.HK",
+      "industry": "发动机",
+      "location": {
+        "hq": "潍坊, 山东"
+      },
+      "partners": [
+        {
+          "name": "林德液压",
+          "country": "德国",
+          "type": "收购"
+        },
+        {
+          "name": "凯傲集团(KION)",
+          "country": "德国",
+          "type": "被收购方"
+        },
+        {
+          "name": "法拉帝(Ferretti)",
+          "country": "意大利",
+          "type": "被收购方"
+        }
+      ],
+      "tags": [
+        "发动机"
+      ]
+    },
+    {
+      "id": "cn-other-002",
+      "name": {
+        "zh": "中国商飞",
+        "en": "COMAC"
+      },
+      "ticker": "非上市",
+      "industry": "航空制造",
+      "location": {
+        "hq": "上海"
+      },
+      "partners": [],
+      "tags": [
+        "国产大飞机"
+      ]
+    },
+    {
+      "id": "cn-other-003",
+      "name": {
+        "zh": "京东方",
+        "en": "BOE"
+      },
+      "ticker": "000725.SZ",
+      "industry": "显示面板",
+      "location": {
+        "hq": "北京"
+      },
+      "partners": [
+        {
+          "name": "苹果",
+          "country": "美国",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "面板龙头"
+      ]
+    },
+    {
+      "id": "cn-other-004",
+      "name": {
+        "zh": "歌尔股份",
+        "en": "GoerTek"
+      },
+      "ticker": "002241.SZ",
+      "industry": "声学/VR",
+      "location": {
+        "hq": "潍坊, 山东"
+      },
+      "partners": [
+        {
+          "name": "苹果",
+          "country": "美国",
+          "type": "客户"
+        },
+        {
+          "name": "Meta",
+          "country": "美国",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "声学/VR"
+      ]
+    },
+    {
+      "id": "cn-other-005",
+      "name": {
+        "zh": "舜宇光学",
+        "en": "Sunny Optical"
+      },
+      "ticker": "2382.HK",
+      "industry": "光学镜头",
+      "location": {
+        "hq": "余姚, 浙江"
+      },
+      "partners": [
+        {
+          "name": "苹果",
+          "country": "美国",
+          "type": "客户"
+        },
+        {
+          "name": "三星",
+          "country": "韩国",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "光学龙头"
+      ]
+    },
+    {
+      "id": "cn-auto-011",
+      "name": {
+        "zh": "长城汽车",
+        "en": "Great Wall Motor"
+      },
+      "ticker": "601633.SH / 2333.HK",
+      "industry": "汽车整车",
+      "location": {
+        "hq": "保定, 河北"
+      },
+      "mainBusiness": "汽车整车及零部件",
+      "products": [
+        "SUV",
+        "皮卡",
+        "新能源车"
+      ],
+      "partners": [],
+      "tags": [
+        "整车出海",
+        "SUV"
+      ],
+      "sources": [
+        "http://auto.cnr.cn/gdzx/20190605/t20190605_524640629.shtml",
+        "https://finance.eastmoney.com/a/202508173486190593.html"
+      ]
+    },
+    {
+      "id": "cn-auto-012",
+      "name": {
+        "zh": "亿纬锂能",
+        "en": "EVE Energy"
+      },
+      "ticker": "300014.SZ",
+      "industry": "动力电池",
+      "location": {
+        "hq": "惠州, 广东"
+      },
+      "mainBusiness": "锂离子电池研发与制造",
+      "products": [
+        "消费电池",
+        "动力电池",
+        "储能电池"
+      ],
+      "partners": [],
+      "tags": [
+        "动力电池",
+        "储能电池"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E4%BA%BF%E7%BA%AC%E9%94%82%E8%83%BD%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8"
+      ]
+    },
+    {
+      "id": "cn-energy-005",
+      "name": {
+        "zh": "晶科能源",
+        "en": "JinkoSolar"
+      },
+      "ticker": "688223.SH",
+      "industry": "光伏",
+      "location": {
+        "hq": "上饶, 江西"
+      },
+      "mainBusiness": "光伏产品制造",
+      "products": [
+        "硅片",
+        "电池片",
+        "光伏组件"
+      ],
+      "partners": [],
+      "tags": [
+        "光伏组件",
+        "全球化产能"
+      ],
+      "sources": [
+        "https://www.energytrend.cn/news/20150616-11773.html"
+      ]
+    },
+    {
+      "id": "cn-energy-006",
+      "name": {
+        "zh": "天合光能",
+        "en": "Trina Solar"
+      },
+      "ticker": "688599.SH",
+      "industry": "光伏",
+      "location": {
+        "hq": "常州, 江苏"
+      },
+      "mainBusiness": "光伏组件与光伏系统",
+      "products": [
+        "光伏组件",
+        "系统产品"
+      ],
+      "partners": [],
+      "tags": [
+        "光伏组件",
+        "全球化产能"
+      ],
+      "sources": [
+        "https://stock.stockstar.com/RB2025041700022456.shtml"
+      ]
+    },
+    {
+      "id": "cn-tech-011",
+      "name": {
+        "zh": "立讯精密",
+        "en": "Luxshare Precision"
+      },
+      "ticker": "002475.SZ",
+      "industry": "电子制造",
+      "location": {
+        "hq": "东莞, 广东"
+      },
+      "mainBusiness": "连接器与消费电子制造服务",
+      "products": [
+        "连接器",
+        "声学整机",
+        "汽车线束"
+      ],
+      "partners": [
+        {
+          "name": "苹果",
+          "country": "美国",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "消费电子制造",
+        "汽车线束"
+      ],
+      "sources": [
+        "https://paper.cnstock.com/html/2024-09/14/content_1968889.htm"
+      ]
+    },
+    {
+      "id": "cn-other-006",
+      "name": {
+        "zh": "万华化学",
+        "en": "Wanhua Chemical"
+      },
+      "ticker": "600309.SH",
+      "industry": "化工",
+      "location": {
+        "hq": "烟台, 山东"
+      },
+      "mainBusiness": "聚氨酯、石化与精细化学品",
+      "products": [
+        "MDI",
+        "TDI",
+        "石化产品"
+      ],
+      "partners": [],
+      "tags": [
+        "化工",
+        "全球化布局"
+      ],
+      "sources": [
+        "https://en.whchem.com/cmscontent/827.html"
+      ]
+    },
+    {
+      "id": "med-011",
+      "name": {
+        "zh": "联影医疗",
+        "en": "United Imaging Healthcare"
+      },
+      "ticker": "688271.SH",
+      "industry": "医疗器械",
+      "location": {
+        "hq": "上海"
+      },
+      "mainBusiness": "高端医学影像与放射治疗设备",
+      "products": [
+        "CT",
+        "MRI",
+        "PET/CT",
+        "放疗设备"
+      ],
+      "partners": [
+        {
+          "name": "加州大学戴维斯分校医学中心(UC Davis Health)",
+          "country": "美国",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "医疗影像",
+        "FDA认证"
+      ],
+      "sources": [
+        "https://usa.united-imaging.com/news/press/uexplorer-available-in-us"
+      ]
+    },
+    {
+      "id": "cn-semi-006",
+      "name": {
+        "zh": "长电科技",
+        "en": "JCET Group"
+      },
+      "ticker": "600584.SH",
+      "industry": "半导体封测",
+      "location": {
+        "hq": "江阴, 江苏"
+      },
+      "mainBusiness": "集成电路封装测试(OSAT)服务",
+      "products": [
+        "集成电路封装测试"
+      ],
+      "partners": [
+        {
+          "name": "STATS ChipPAC(星科金朋)",
+          "country": "新加坡",
+          "type": "被收购方"
+        }
+      ],
+      "tags": [
+        "半导体封测",
+        "海外并购"
+      ],
+      "sources": [
+        "http://www.p5w.net/kuaixun/201501/t20150113_912523.htm"
+      ]
+    },
+    {
+      "id": "cn-semi-007",
+      "name": {
+        "zh": "通富微电",
+        "en": "Tongfu Microelectronics"
+      },
+      "ticker": "002156.SZ",
+      "industry": "半导体封测",
+      "location": {
+        "hq": "南通, 江苏"
+      },
+      "mainBusiness": "集成电路封装测试,AMD核心封测合作伙伴",
+      "products": [
+        "集成电路封装测试",
+        "FCBGA 先进封装"
+      ],
+      "partners": [
+        {
+          "name": "AMD",
+          "country": "美国",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "半导体封测",
+        "AMD"
+      ],
+      "sources": [
+        "https://www.tfme.com/news/378.html?_detailId=p"
+      ]
+    },
+    {
+      "id": "cn-semi-008",
+      "name": {
+        "zh": "华虹公司",
+        "en": "Hua Hong Semiconductor"
+      },
+      "ticker": "688347.SH 01347.HK",
+      "industry": "半导体",
+      "location": {
+        "hq": "上海"
+      },
+      "mainBusiness": "特色工艺晶圆代工(8/12英寸)",
+      "products": [
+        "晶圆代工",
+        "功率器件",
+        "嵌入式存储"
+      ],
+      "partners": [
+        {
+          "name": "意法半导体(STMicroelectronics)",
+          "country": "瑞士",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "晶圆代工",
+        "特色工艺"
+      ],
+      "sources": [
+        "https://newsroom.st.com/zh/media-center/press-item.html/t4767.html"
+      ]
+    },
+    {
+      "id": "cn-other-007",
+      "name": {
+        "zh": "中集集团",
+        "en": "CIMC Group"
+      },
+      "ticker": "000039.SZ 02039.HK",
+      "industry": "物流装备",
+      "location": {
+        "hq": "深圳, 广东"
+      },
+      "mainBusiness": "集装箱、道路运输车辆、模块化建筑与能源化工装备",
+      "products": [
+        "集装箱",
+        "模块化建筑",
+        "能源化工装备"
+      ],
+      "partners": [
+        {
+          "name": "英国模块化建筑项目方",
+          "country": "英国",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "集装箱",
+        "模块化建筑"
+      ],
+      "sources": [
+        "https://stock.stockstar.com/IG2026012200016929.shtml"
+      ]
+    },
+    {
+      "id": "cn-other-008",
+      "name": {
+        "zh": "中国中车",
+        "en": "CRRC Corporation"
+      },
+      "ticker": "601766.SH 1766.HK",
+      "industry": "轨道交通",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "轨道交通装备制造(机车、动车组、城轨车辆)",
+      "products": [
+        "铁路机车",
+        "动车组",
+        "地铁车辆"
+      ],
+      "partners": [
+        {
+          "name": "马萨诸塞湾交通局(MBTA)",
+          "country": "美国",
+          "type": "客户"
+        },
+        {
+          "name": "芝加哥交通局(CTA)",
+          "country": "美国",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "轨道交通",
+        "海外工厂"
+      ],
+      "sources": [
+        "http://global.chinadaily.com.cn/a/201812/20/WS5c1afb3aa3107d4c3a001d67.html",
+        "http://jingji.cctv.com/2017/05/05/ARTIxK7Y94NoObH8NIx33Dki170505.shtml"
+      ]
+    },
+    {
+      "id": "cn-tech-012",
+      "name": {
+        "zh": "荣耀",
+        "en": "HONOR"
+      },
+      "ticker": "非上市",
+      "industry": "消费电子",
+      "location": {
+        "hq": "深圳, 广东"
+      },
+      "mainBusiness": "智能手机、平板、笔记本等智能终端",
+      "products": [
+        "智能手机",
+        "平板电脑",
+        "笔记本电脑"
+      ],
+      "partners": [
+        {
+          "name": "HTech(Honor Tech India)",
+          "country": "印度",
+          "type": "代工方"
+        }
+      ],
+      "tags": [
+        "智能手机",
+        "本地化生产"
+      ],
+      "sources": [
+        "https://techcrunch.com/2023/09/14/honor-90-india-launch/",
+        "http://sz.people.com.cn/n2/2025/1205/c202846-41433896.html"
+      ]
+    },
+    {
+      "id": "cn-tech-013",
+      "name": {
+        "zh": "大疆创新",
+        "en": "DJI"
+      },
+      "ticker": "非上市",
+      "industry": "无人机",
+      "location": {
+        "hq": "深圳, 广东"
+      },
+      "mainBusiness": "民用无人机及影像系统",
+      "products": [
+        "消费级无人机",
+        "行业级无人机",
+        "手持影像设备"
+      ],
+      "partners": [],
+      "tags": [
+        "无人机",
+        "全球市场销售"
+      ],
+      "sources": [
+        "https://www.dji.com/contact"
+      ]
+    },
+    {
+      "id": "cn-tech-014",
+      "name": {
+        "zh": "石头科技",
+        "en": "Roborock"
+      },
+      "ticker": "688169.SH",
+      "industry": "消费电子",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "扫地机器人等智能清洁电器",
+      "products": [
+        "扫地机器人",
+        "洗地机"
+      ],
+      "partners": [
+        {
+          "name": "Target",
+          "country": "美国",
+          "type": "客户"
+        },
+        {
+          "name": "Best Buy",
+          "country": "美国",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "扫地机器人",
+        "北美线下渠道"
+      ],
+      "sources": [
+        "https://www.cls.cn/detail/xk/66a8578feb96f634befd1737"
+      ]
+    },
+    {
+      "id": "cn-tech-015",
+      "name": {
+        "zh": "安克创新",
+        "en": "Anker Innovations"
+      },
+      "ticker": "300866.SZ",
+      "industry": "消费电子",
+      "location": {
+        "hq": "长沙, 湖南"
+      },
+      "mainBusiness": "充电储能与智能创新消费电子全球品牌",
+      "products": [
+        "充电器/移动电源",
+        "便携储能",
+        "无线音频",
+        "智能家居(eufy)"
+      ],
+      "partners": [
+        {
+          "name": "Amazon",
+          "country": "美国",
+          "type": "客户"
+        },
+        {
+          "name": "Walmart",
+          "country": "美国",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "跨境电商",
+        "北美线下商超"
+      ],
+      "sources": [
+        "https://reportdocs.static.szse.cn/UpFiles/rasinfodisc1/202304/RAS_202304_D28137B121714942B1DDB0E7AD3F18DA.pdf"
+      ]
+    },
+    {
+      "id": "cn-tech-016",
+      "name": {
+        "zh": "中际旭创",
+        "en": "Zhongji Innolight"
+      },
+      "ticker": "300308.SZ",
+      "industry": "光通信",
+      "location": {
+        "hq": "苏州, 江苏"
+      },
+      "mainBusiness": "高速光模块方案商,全球光互连收入规模第一",
+      "products": [
+        "400G/800G/1.6T 高速光模块",
+        "硅光模块"
+      ],
+      "partners": [
+        {
+          "name": "北美超大规模云厂商",
+          "country": "美国",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "光模块龙头",
+        "AI算力供应链",
+        "泰国产能"
+      ],
+      "sources": [
+        "https://www.zj-innolight.com/cn/about.html",
+        "https://www.jiemian.com/article/14875921.html"
+      ]
+    },
+    {
+      "id": "cn-tech-017",
+      "name": {
+        "zh": "TCL电子",
+        "en": "TCL Electronics"
+      },
+      "ticker": "01070.HK",
+      "industry": "消费电子",
+      "location": {
+        "hq": "惠州, 广东"
+      },
+      "mainBusiness": "电视及智能物联终端",
+      "products": [
+        "电视(Mini LED)",
+        "智显家电"
+      ],
+      "partners": [
+        {
+          "name": "SEMP",
+          "country": "巴西",
+          "type": "合资方"
+        }
+      ],
+      "tags": [
+        "Mini LED电视",
+        "全球多国产能"
+      ],
+      "sources": [
+        "https://wt.cfi.cn/p20250926000265.html",
+        "https://companies.caixin.com/2016-07-25/100970478.html"
+      ]
+    },
+    {
+      "id": "cn-energy-007",
+      "name": {
+        "zh": "晶澳科技",
+        "en": "JA Solar"
+      },
+      "ticker": "002459.SZ",
+      "industry": "光伏",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "光伏垂直一体化制造(硅片、电池、组件、电站)",
+      "products": [
+        "硅片",
+        "光伏电池",
+        "光伏组件"
+      ],
+      "partners": [],
+      "tags": [
+        "光伏",
+        "海外产能"
+      ],
+      "sources": [
+        "https://kinhtexahoi.bacgiang.gov.vn/web/chuyen-trang-english/detailed-news/-/asset_publisher/MVQI5B2YMPsk/content/bac-giang-starting-the-project-of-investing-in-ja-solar-vienam-factory"
+      ]
+    },
+    {
+      "id": "cn-energy-008",
+      "name": {
+        "zh": "特变电工",
+        "en": "TBEA"
+      },
+      "ticker": "600089.SH",
+      "industry": "电力设备",
+      "location": {
+        "hq": "昌吉, 新疆"
+      },
+      "mainBusiness": "输变电装备制造与国际电力工程EPC",
+      "products": [
+        "变压器",
+        "输变电成套设备",
+        "多晶硅"
+      ],
+      "partners": [
+        {
+          "name": "塔吉克斯坦政府(500kV南北输变电项目)",
+          "country": "塔吉克斯坦",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "输变电",
+        "电力工程EPC"
+      ],
+      "sources": [
+        "https://www.tbea.com/enterprise-detail/8.html",
+        "https://powerline.net.in/2018/05/08/teba-initiates-construction-new-500-kv-transmission-project-tajikistan/"
+      ]
+    },
+    {
+      "id": "cn-energy-009",
+      "name": {
+        "zh": "正泰电器",
+        "en": "Chint Electric"
+      },
+      "ticker": "601877.SH",
+      "industry": "电力设备",
+      "location": {
+        "hq": "温州, 浙江"
+      },
+      "mainBusiness": "低压电器龙头与光伏制造/电站运营",
+      "products": [
+        "低压电器",
+        "光伏组件",
+        "光伏电站"
+      ],
+      "partners": [
+        {
+          "name": "Kançal Enerji",
+          "country": "土耳其",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "低压电器",
+        "光伏"
+      ],
+      "sources": [
+        "https://www.escn.com.cn/news/show-2242922.html"
+      ]
+    },
+    {
+      "id": "cn-energy-010",
+      "name": {
+        "zh": "明阳智能",
+        "en": "Mingyang Smart Energy"
+      },
+      "ticker": "601615.SH",
+      "industry": "风电",
+      "location": {
+        "hq": "中山, 广东"
+      },
+      "mainBusiness": "大型风电机组与海上风电装备",
+      "products": [
+        "海上风电机组",
+        "漂浮式风电装备"
+      ],
+      "partners": [
+        {
+          "name": "Renexia",
+          "country": "意大利",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "风电装备",
+        "海上风电",
+        "欧洲市场"
+      ],
+      "sources": [
+        "http://newenergy.giec.cas.cn/fn/fndt/202210/t20221008_747578.html",
+        "https://www.world-energy.org/article/45137.html"
+      ]
+    },
+    {
+      "id": "cn-other-009",
+      "name": {
+        "zh": "东方电气",
+        "en": "Dongfang Electric"
+      },
+      "ticker": "600875.SH 1072.HK",
+      "industry": "发电设备",
+      "location": {
+        "hq": "成都, 四川"
+      },
+      "mainBusiness": "大型发电设备制造与电站工程(水电、火电、核电、燃机、风电)",
+      "products": [
+        "水轮发电机组",
+        "火电机组",
+        "核电设备",
+        "风电设备"
+      ],
+      "partners": [
+        {
+          "name": "坦桑尼亚朱利诺水电站",
+          "country": "坦桑尼亚",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "发电设备",
+        "一带一路"
+      ],
+      "sources": [
+        "https://www.dongfang.com/info/1469/19188.htm",
+        "https://www.dongfang.com/info/1035/19628.htm"
+      ]
+    },
+    {
+      "id": "cn-auto-013",
+      "name": {
+        "zh": "吉利汽车",
+        "en": "Geely Automobile"
+      },
+      "ticker": "0175.HK",
+      "industry": "汽车整车",
+      "location": {
+        "hq": "杭州, 浙江"
+      },
+      "mainBusiness": "乘用车整车研发制造(吉利、领克、极氪)",
+      "products": [
+        "吉利乘用车",
+        "领克",
+        "极氪"
+      ],
+      "partners": [
+        {
+          "name": "雷诺集团",
+          "country": "法国",
+          "type": "合资方"
+        }
+      ],
+      "tags": [
+        "整车出海",
+        "动力总成合资"
+      ],
+      "sources": [
+        "https://media.renaultgroup.com/renault-group-and-geely-announce-the-creation-of-leading-powertrain-technology-company-horse-powertrain-limited/?lang=fra",
+        "https://world.people.com.cn/n1/2018/0901/c1002-30265085.html"
+      ]
+    },
+    {
+      "id": "cn-auto-014",
+      "name": {
+        "zh": "上汽集团",
+        "en": "SAIC Motor"
+      },
+      "ticker": "600104.SH",
+      "industry": "汽车整车",
+      "location": {
+        "hq": "上海"
+      },
+      "mainBusiness": "综合汽车集团(荣威、MG名爵、智己)",
+      "products": [
+        "荣威",
+        "MG名爵",
+        "智己"
+      ],
+      "partners": [
+        {
+          "name": "正大集团",
+          "country": "泰国",
+          "type": "合资方"
+        },
+        {
+          "name": "JSW集团",
+          "country": "印度",
+          "type": "合资方"
+        }
+      ],
+      "tags": [
+        "MG出海",
+        "海外合资"
+      ],
+      "sources": [
+        "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/jsw-mg-motor-to-invest-6000-crore-to-expand-halol-capacity-scale-nev-push/133543564"
+      ]
+    },
+    {
+      "id": "cn-auto-015",
+      "name": {
+        "zh": "蔚来",
+        "en": "NIO"
+      },
+      "ticker": "NIO 9866.HK",
+      "industry": "汽车整车",
+      "location": {
+        "hq": "上海"
+      },
+      "mainBusiness": "高端智能电动汽车与充换电网络",
+      "products": [
+        "ES/ET 系列纯电动车",
+        "乐道",
+        "firefly 萤火虫"
+      ],
+      "partners": [],
+      "tags": [
+        "高端纯电",
+        "换电",
+        "出海"
+      ],
+      "sources": [
+        "https://company.cnstock.com/company/scp_gsxw/202109/4763336.htm",
+        "https://www.nio.com/blog/story-nios-design-headquarters"
+      ]
+    },
+    {
+      "id": "cn-auto-016",
+      "name": {
+        "zh": "理想汽车",
+        "en": "Li Auto"
+      },
+      "ticker": "LI 2015.HK",
+      "industry": "汽车整车",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "增程式与纯电动智能电动车",
+      "products": [
+        "理想L系列",
+        "MEGA",
+        "i系列"
+      ],
+      "partners": [],
+      "tags": [
+        "增程式",
+        "出海"
+      ],
+      "sources": [
+        "http://finance.people.com.cn/n1/2025/1225/c1004-40631675.html"
+      ]
+    },
+    {
+      "id": "cn-auto-017",
+      "name": {
+        "zh": "小鹏汽车",
+        "en": "XPeng"
+      },
+      "ticker": "XPEV 9868.HK",
+      "industry": "汽车整车",
+      "location": {
+        "hq": "广州, 广东"
+      },
+      "mainBusiness": "智能电动汽车(XNGP 智能辅助驾驶)",
+      "products": [
+        "G/P/X 系列纯电动车"
+      ],
+      "partners": [
+        {
+          "name": "大众汽车集团",
+          "country": "德国",
+          "type": "合资方"
+        },
+        {
+          "name": "Handal Indonesia Motor",
+          "country": "印度尼西亚",
+          "type": "代工方"
+        }
+      ],
+      "tags": [
+        "智能驾驶",
+        "技术授权",
+        "海外组装"
+      ],
+      "sources": [
+        "https://fintel.io/doc/sec-xpeng-inc-1810997-ex991-2023-july-26-19564-6814",
+        "https://chejiahao.autohome.com.cn/info/21191930"
+      ]
+    },
+    {
+      "id": "cn-auto-018",
+      "name": {
+        "zh": "国轩高科",
+        "en": "Gotion High-tech"
+      },
+      "ticker": "002074.SZ",
+      "industry": "动力电池",
+      "location": {
+        "hq": "合肥, 安徽"
+      },
+      "mainBusiness": "磷酸铁锂动力与储能电池",
+      "products": [
+        "磷酸铁锂动力电池",
+        "储能电池"
+      ],
+      "partners": [
+        {
+          "name": "大众汽车集团",
+          "country": "德国",
+          "type": "客户"
+        },
+        {
+          "name": "VinES(VinFast 旗下)",
+          "country": "越南",
+          "type": "合资方"
+        }
+      ],
+      "tags": [
+        "磷酸铁锂",
+        "大众入股",
+        "海外工厂"
+      ],
+      "sources": [
+        "https://finance.sina.com.cn/stock/relnews/cn/2020-06-15/doc-iircuyvi8518160.shtml",
+        "https://www.world-energy.org/article/53011.html"
+      ]
+    },
+    {
+      "id": "cn-other-010",
+      "name": {
+        "zh": "振华重工",
+        "en": "ZPMC"
+      },
+      "ticker": "600320.SH",
+      "industry": "港口装备",
+      "location": {
+        "hq": "上海"
+      },
+      "mainBusiness": "大型港口装卸装备与海工装备制造",
+      "products": [
+        "岸桥",
+        "场桥",
+        "海工装备"
+      ],
+      "partners": [
+        {
+          "name": "全球港口运营商",
+          "country": "全球",
+          "type": "客户"
+        },
+        {
+          "name": "休斯敦港 Barbours Cut 码头",
+          "country": "美国",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "港机全球龙头"
+      ],
+      "sources": [
+        "https://news.qq.com/rain/a/20250710A01WLA00"
+      ]
+    },
+    {
+      "id": "cn-auto-019",
+      "name": {
+        "zh": "奇瑞汽车",
+        "en": "Chery Automobile"
+      },
+      "ticker": "9973.HK",
+      "industry": "汽车整车",
+      "location": {
+        "hq": "芜湖, 安徽"
+      },
+      "mainBusiness": "乘用车整车研发制造与出口",
+      "products": [
+        "奇瑞品牌乘用车",
+        "Omoda",
+        "捷途"
+      ],
+      "partners": [
+        {
+          "name": "EV Motors(Ebro 母公司)",
+          "country": "西班牙",
+          "type": "合资方"
+        },
+        {
+          "name": "CAOA",
+          "country": "巴西",
+          "type": "合资方"
+        },
+        {
+          "name": "Inokom",
+          "country": "马来西亚",
+          "type": "代工方"
+        }
+      ],
+      "tags": [
+        "整车出口",
+        "欧洲工厂"
+      ],
+      "sources": [
+        "https://datanews.caixin.com/mobile/article/ceicTopic/public/ceicIframe/ceicIframe_2.html?styleUseId=1&articleText=%E5%A5%87%E7%91%9E%E6%B1%BD%E8%BD%A6%E6%88%90%E4%B8%BA%E7%AC%AC%E4%B8%80%E5%AE%B6%E5%9C%A8%E6%AC%A7%E6%B4%B2%E7%94%9F%E4%BA%A7%E6%B1%BD%E8%BD%A6%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%EF%BC%8C%E5%B7%A5%E5%8E%82%E9%80%89%E5%9D%80%E6%AD%A3%E6%98%AF%E5%9C%A8%E5%B7%B4%E5%A1%9E%E7%BD%97%E9%82%A3%E3%80%822024%E5%B9%B44%E6%9C%88%EF%BC%8C%E5%A5%87%E7%91%9E%E6%B1%BD%E8%BD%A6%E4%B8%8E%E8%A5%BF%E7%8F%AD%E7%89%99%E6%B1%BD%E8%BD%A6%E5%93%81%E7%89%8CEbro%E6%AF%8D%E5%85%AC%E5%8F%B8EV%20Motors%E7%AD%BE%E7%BD%B2%E5%90%88%E8%B5%84%E5%8D%8F%E8%AE%AE%EF%BC%8C%E4%BB%A5%E9%87%8D%E5%90%AF%E5%BD%93%E5%9C%B0%E4%B8%80%E5%BA%A7%E6%97%A5%E4%BA%A7%E6%B1%BD%E8%BD%A62021%E5%B9%B4%E5%81%9C%E4%BA%A7%E5%B7%A5%E5%8E%82%E7%9A%84%E6%96%B9%E5%BC%8F%E8%90%BD%E5%9C%B0%E6%8A%95%E8%B5%84%E3%80%82"
+      ]
+    },
+    {
+      "id": "cn-auto-020",
+      "name": {
+        "zh": "长安汽车",
+        "en": "Changan Automobile"
+      },
+      "ticker": "000625.SZ",
+      "industry": "汽车整车",
+      "location": {
+        "hq": "重庆"
+      },
+      "mainBusiness": "乘用车整车研发制造(含新能源)",
+      "products": [
+        "长安乘用车",
+        "深蓝",
+        "阿维塔"
+      ],
+      "partners": [],
+      "tags": [
+        "整车出海",
+        "泰国工厂"
+      ],
+      "sources": [
+        "https://chejiahao.autohome.com.cn/info/20301815"
+      ]
+    },
+    {
+      "id": "cn-tech-018",
+      "name": {
+        "zh": "腾讯控股",
+        "en": "Tencent"
+      },
+      "ticker": "0700.HK",
+      "industry": "游戏",
+      "location": {
+        "hq": "深圳, 广东"
+      },
+      "mainBusiness": "社交、游戏与云服务",
+      "products": [
+        "游戏",
+        "社交平台",
+        "云服务"
+      ],
+      "partners": [
+        {
+          "name": "Supercell",
+          "country": "芬兰",
+          "type": "被收购方"
+        },
+        {
+          "name": "Riot Games",
+          "country": "美国",
+          "type": "被收购方"
+        }
+      ],
+      "tags": [
+        "游戏全球化"
+      ],
+      "sources": [
+        "http://www.hxnews.com/news/itkj/kjqy/201606/22/889105.shtml",
+        "http://www.nadianshi.com/2015/12/94115"
+      ]
+    },
+    {
+      "id": "cn-tech-019",
+      "name": {
+        "zh": "阿里巴巴",
+        "en": "Alibaba Group"
+      },
+      "ticker": "BABA 9988.HK",
+      "industry": "电商",
+      "location": {
+        "hq": "杭州, 浙江"
+      },
+      "mainBusiness": "电商、云计算与数字服务",
+      "products": [
+        "电商平台",
+        "云计算"
+      ],
+      "partners": [
+        {
+          "name": "Lazada",
+          "country": "新加坡",
+          "type": "被收购方"
+        },
+        {
+          "name": "Trendyol",
+          "country": "土耳其",
+          "type": "被收购方"
+        }
+      ],
+      "tags": [
+        "电商全球化"
+      ],
+      "sources": [
+        "https://m.jiemian.com/article/607903.html",
+        "https://www.bjnews.com.cn/detail/155152850214988.html"
+      ]
+    },
+    {
+      "id": "cn-other-011",
+      "name": {
+        "zh": "顺丰控股",
+        "en": "SF Holding"
+      },
+      "ticker": "002352.SZ",
+      "industry": "物流",
+      "location": {
+        "hq": "深圳, 广东"
+      },
+      "mainBusiness": "综合物流服务",
+      "products": [
+        "快递",
+        "供应链与国际物流"
+      ],
+      "partners": [
+        {
+          "name": "嘉里物流(Kerry Logistics)",
+          "country": "中国香港",
+          "type": "被收购方"
+        }
+      ],
+      "tags": [
+        "物流出海"
+      ],
+      "sources": [
+        "https://www.guandian.cn/article/20210928/272530.html"
+      ]
+    },
+    {
+      "id": "cn-other-012",
+      "name": {
+        "zh": "中远海控",
+        "en": "COSCO SHIPPING Holdings"
+      },
+      "ticker": "601919.SH 1919.HK",
+      "industry": "航运",
+      "location": {
+        "hq": "上海"
+      },
+      "mainBusiness": "集装箱航运与码头服务",
+      "products": [
+        "集装箱航运"
+      ],
+      "partners": [
+        {
+          "name": "东方海外(OOIL)",
+          "country": "中国香港",
+          "type": "被收购方"
+        }
+      ],
+      "tags": [
+        "航运全球化"
+      ],
+      "sources": [
+        "https://www.financialnews.com.cn/yh/sd/201807/t20180728_143012.html"
+      ]
+    },
+    {
+      "id": "cn-consumer-004",
+      "name": {
+        "zh": "名创优品",
+        "en": "MINISO Group"
+      },
+      "ticker": "9896.HK MNSO",
+      "industry": "零售",
+      "location": {
+        "hq": "广州, 广东"
+      },
+      "mainBusiness": "生活家居潮流零售",
+      "products": [
+        "生活家居用品",
+        "IP 联名产品"
+      ],
+      "partners": [],
+      "tags": [
+        "全球零售网络"
+      ],
+      "sources": [
+        "https://www.stcn.com/article/detail/3517035.html"
+      ]
+    },
+    {
+      "id": "cn-auto-021",
+      "name": {
+        "zh": "广汽集团",
+        "en": "GAC Group"
+      },
+      "ticker": "601238.SH 02238.HK",
+      "industry": "汽车整车",
+      "location": {
+        "hq": "广州, 广东"
+      },
+      "founded": "1997",
+      "mainBusiness": "整车制造(传祺、埃安、昊铂)",
+      "products": [
+        "传祺",
+        "埃安(AION)",
+        "昊铂"
+      ],
+      "tags": [
+        "国有车企",
+        "海外建厂"
+      ],
+      "partners": [],
+      "sources": [
+        "https://www.yicaiglobal.com/news/gac-aions-first-overseas-plant-goes-live-in-thailand"
+      ]
+    },
+    {
+      "id": "cn-machine-005",
+      "name": {
+        "zh": "郑煤机",
+        "en": "ZMJ Group"
+      },
+      "ticker": "601717.SH 0564.HK",
+      "industry": "煤机装备",
+      "location": {
+        "hq": "郑州, 河南"
+      },
+      "founded": "1958",
+      "mainBusiness": "煤矿综采装备与汽车零部件(起动机、发电机)制造",
+      "products": [
+        "液压支架",
+        "起动机",
+        "发电机"
+      ],
+      "tags": [
+        "煤机装备",
+        "海外并购"
+      ],
+      "partners": [
+        {
+          "name": "SEG Automotive(索恩格)",
+          "country": "德国",
+          "type": "被收购方"
+        }
+      ],
+      "sources": [
+        "https://www.seg-automotive.com/press-releases/bosch-starter-motors-and-generators-is-now-seg-automotive/"
+      ]
+    },
+    {
+      "id": "cn-auto-022",
+      "name": {
+        "zh": "中国重汽",
+        "en": "Sinotruk"
+      },
+      "ticker": "3808.HK 000951.SZ",
+      "industry": "汽车整车",
+      "location": {
+        "hq": "济南, 山东"
+      },
+      "founded": "1956",
+      "mainBusiness": "重型汽车整车制造与出口",
+      "products": [
+        "重型卡车",
+        "牵引车",
+        "专用车"
+      ],
+      "tags": [
+        "重卡",
+        "CKD组装"
+      ],
+      "partners": [],
+      "sources": [
+        "http://www.chinadaily.com.cn/cndy/2019-04/26/content_37462607.htm"
+      ]
+    },
+    {
+      "id": "med-012",
+      "name": {
+        "zh": "九安医疗",
+        "en": "iHealth Labs"
+      },
+      "ticker": "002432.SZ",
+      "industry": "医疗器械",
+      "location": {
+        "hq": "天津"
+      },
+      "mainBusiness": "家用医疗检测设备与移动医疗",
+      "products": [
+        "iHealth 新冠抗原自测试剂盒",
+        "血压计",
+        "血糖仪"
+      ],
+      "partners": [
+        {
+          "name": "美国州政府采购(纽约州等)",
+          "country": "美国",
+          "type": "客户"
+        },
+        {
+          "name": "美国政府部门",
+          "country": "美国",
+          "type": "客户"
+        }
+      ],
+      "tags": [
+        "美国市场",
+        "ODM/OEM"
+      ],
+      "sources": [
+        "http://static.cninfo.com.cn/finalpage/2022-04-25/1213087326.PDF"
+      ]
+    },
+    {
+      "id": "cn-consumer-005",
+      "name": {
+        "zh": "蜜雪冰城",
+        "en": "MIXUE Group"
+      },
+      "ticker": "2097.HK",
+      "industry": "茶饮",
+      "location": {
+        "hq": "郑州, 河南"
+      },
+      "mainBusiness": "现制茶饮与冰淇淋连锁",
+      "products": [
+        "现制茶饮",
+        "冰淇淋"
+      ],
+      "partners": [],
+      "tags": [
+        "茶饮出海",
+        "东南亚"
+      ],
+      "sources": [
+        "https://www.sgpjbg.com/labelsyh/chayinpinpaiguojihualujing/1/6607006.html"
+      ]
+    },
+    {
+      "id": "cn-consumer-006",
+      "name": {
+        "zh": "泡泡玛特",
+        "en": "POP MART"
+      },
+      "ticker": "9992.HK",
+      "industry": "潮玩",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "潮流玩具 IP 运营与零售",
+      "products": [
+        "盲盒",
+        "潮玩 IP"
+      ],
+      "partners": [],
+      "tags": [
+        "潮玩出海",
+        "东南亚"
+      ],
+      "sources": [
+        "https://www.sgpjbg.com/labelsyh/zhongguoxiaofeipinpaichuhaidongnaya/1/6557202.html"
+      ]
+    },
+    {
+      "id": "cn-consumer-007",
+      "name": {
+        "zh": "伊利集团",
+        "en": "Yili Group"
+      },
+      "ticker": "600887.SH",
+      "industry": "食品饮料",
+      "location": {
+        "hq": "呼和浩特, 内蒙古"
+      },
+      "founded": "1993",
+      "mainBusiness": "乳制品制造(液态奶、奶粉、冰淇淋)",
+      "products": [
+        "液态奶",
+        "奶粉",
+        "冰淇淋"
+      ],
+      "tags": [
+        "乳业出海",
+        "新西兰奶源"
+      ],
+      "partners": [
+        {
+          "name": "Westland Dairy",
+          "country": "新西兰",
+          "type": "被收购方"
+        }
+      ],
+      "sources": [
+        "https://epaper.cs.com.cn/zgzqb/html/2019-08/02/nw.D110000zgzqb_20190802_8-B014.htm",
+        "https://www.chinanews.com.cn/cj/2014/11-25/6812184.shtml"
+      ]
+    },
+    {
+      "id": "cn-build-001",
+      "name": {
+        "zh": "中国建筑集团",
+        "en": "China State Construction Engineering Corporation"
+      },
+      "ticker": "601668.SH",
+      "industry": "建筑工程",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "全球最大投资建设集团之一,主营房屋建筑、基础设施建设、房地产开发与勘察设计",
+      "founded": "1982",
+      "tags": [
+        "2025财富世界500强第16位"
+      ]
+    },
+    {
+      "id": "cn-build-002",
+      "name": {
+        "zh": "中国中铁",
+        "en": "China Railway Group Limited"
+      },
+      "ticker": "601390.SH / 0390.HK",
+      "industry": "建筑工程",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "特大型建筑央企,主营铁路、公路、市政与城市轨道交通工程及相关装备制造",
+      "founded": "1950",
+      "tags": [
+        "2025财富世界500强第43位"
+      ]
+    },
+    {
+      "id": "cn-build-003",
+      "name": {
+        "zh": "中国铁建",
+        "en": "China Railway Construction Corporation"
+      },
+      "ticker": "601186.SH / 1186.HK",
+      "industry": "建筑工程",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "特大型建筑央企,主营铁路及交通基础设施工程承包、勘察设计与投融资建设",
+      "founded": "1948",
+      "tags": [
+        "2025财富世界500强第51位"
+      ]
+    },
+    {
+      "id": "cn-build-004",
+      "name": {
+        "zh": "中国交建",
+        "en": "China Communications Construction Group"
+      },
+      "ticker": "601800.SH / 1800.HK",
+      "industry": "建筑工程",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "基建央企,主营港口、公路、桥梁、疏浚与海洋工程及海外项目投资建设",
+      "founded": "2005",
+      "tags": [
+        "2025财富世界500强第61位"
+      ]
+    },
+    {
+      "id": "cn-build-005",
+      "name": {
+        "zh": "中国电建",
+        "en": "PowerChina"
+      },
+      "ticker": "601669.SH",
+      "industry": "建筑工程",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "能源电力建设龙头,主营水利水电及新能源工程总承包与电力投资运营",
+      "founded": "2011",
+      "tags": [
+        "2025财富世界500强第100位"
+      ]
+    },
+    {
+      "id": "cn-build-006",
+      "name": {
+        "zh": "中国能建",
+        "en": "China Energy Engineering Group"
+      },
+      "ticker": "601868.SH / 3996.HK",
+      "industry": "建筑工程",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "能源建设央企,主营火电、水电、核电及新能源工程设计与电力基础设施投资建设",
+      "founded": "2011",
+      "tags": [
+        "2025财富世界500强第228位"
+      ]
+    },
+    {
+      "id": "cn-tech-020",
+      "name": {
+        "zh": "中国移动",
+        "en": "China Mobile"
+      },
+      "ticker": "0941.HK",
+      "industry": "电信运营",
+      "location": {
+        "hq": "北京西城"
+      },
+      "mainBusiness": "全球网络规模领先的移动通信运营商，提供移动通信、宽带、政企信息化及国际通信服务",
+      "founded": "2000",
+      "tags": [
+        "2025财富世界500强第58位"
+      ]
+    },
+    {
+      "id": "cn-tech-021",
+      "name": {
+        "zh": "中国电信",
+        "en": "China Telecom"
+      },
+      "ticker": "601728.SH",
+      "industry": "电信运营",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "提供固定电话、移动通信、宽带互联网及云网融合等综合智能信息服务的大型电信运营商",
+      "founded": "2000",
+      "tags": [
+        "2025财富世界500强第134位"
+      ]
+    },
+    {
+      "id": "cn-tech-022",
+      "name": {
+        "zh": "中国联通",
+        "en": "China Unicom"
+      },
+      "ticker": "600050.SH",
+      "industry": "电信运营",
+      "location": {
+        "hq": "北京西城"
+      },
+      "mainBusiness": "提供移动通信、固定宽带、产业互联网及算网融合服务的综合电信运营商",
+      "founded": "1994",
+      "tags": [
+        "2025财富世界500强第269位"
+      ]
+    },
+    {
+      "id": "cn-tech-023",
+      "name": {
+        "zh": "京东集团",
+        "en": "JD.com"
+      },
+      "ticker": "09618.HK",
+      "industry": "电商",
+      "location": {
+        "hq": "北京亦庄"
+      },
+      "mainBusiness": "以供应链为基础的电商零售与物流科技企业，经营零售、物流、健康及工业品等业务",
+      "founded": "1998",
+      "tags": [
+        "2025财富世界500强第44位"
+      ]
+    },
+    {
+      "id": "cn-tech-024",
+      "name": {
+        "zh": "美团",
+        "en": "Meituan"
+      },
+      "ticker": "3690.HK",
+      "industry": "互联网",
+      "location": {
+        "hq": "北京朝阳"
+      },
+      "mainBusiness": "领先的本地生活服务平台，提供外卖、到店、酒旅及即时配送等服务",
+      "founded": "2010",
+      "tags": [
+        "2025财富世界500强第327位"
+      ]
+    },
+    {
+      "id": "cn-tech-025",
+      "name": {
+        "zh": "拼多多",
+        "en": "PDD Holdings"
+      },
+      "ticker": "PDD.US",
+      "industry": "电商",
+      "location": {
+        "hq": "上海"
+      },
+      "mainBusiness": "运营拼多多及Temu电商平台，提供零售与跨境电子商务服务",
+      "founded": "2015",
+      "tags": [
+        "2025财富世界500强第266位"
+      ]
+    },
+    {
+      "id": "cn-metal-001",
+      "name": {
+        "zh": "中国宝武",
+        "en": "China Baowu Steel Group"
+      },
+      "ticker": "非上市",
+      "industry": "钢铁",
+      "location": {
+        "hq": "上海浦东"
+      },
+      "mainBusiness": "全球规模最大的钢铁企业，主营碳钢、不锈钢与特钢制造及矿产资源、产业金融等",
+      "founded": "2016",
+      "tags": [
+        "2025财富世界500强第73位"
+      ]
+    },
+    {
+      "id": "cn-metal-002",
+      "name": {
+        "zh": "鞍钢集团",
+        "en": "Ansteel Group"
+      },
+      "ticker": "非上市",
+      "industry": "钢铁",
+      "location": {
+        "hq": "辽宁鞍山"
+      },
+      "mainBusiness": "特大型钢铁联合企业，主营钢铁冶炼压延加工及钒钛、铁矿资源开发等",
+      "founded": "1916",
+      "tags": [
+        "2025财富世界500强第438位"
+      ]
+    },
+    {
+      "id": "cn-metal-003",
+      "name": {
+        "zh": "河钢集团",
+        "en": "HBIS Group"
+      },
+      "ticker": "非上市",
+      "industry": "钢铁",
+      "location": {
+        "hq": "石家庄"
+      },
+      "mainBusiness": "大型钢铁材料制造与综合服务商，主营钢铁冶金、资源与金融服务等",
+      "founded": "2008",
+      "tags": [
+        "2025财富世界500强第254位"
+      ]
+    },
+    {
+      "id": "cn-metal-004",
+      "name": {
+        "zh": "沙钢集团",
+        "en": "Jiangsu Shagang Group"
+      },
+      "ticker": "非上市",
+      "industry": "钢铁",
+      "location": {
+        "hq": "苏州张家港"
+      },
+      "mainBusiness": "大型民营钢铁联合企业，主营优特钢、建筑钢材等钢铁产品生产与贸易",
+      "founded": "1975",
+      "tags": [
+        "2025财富世界500强第416位"
+      ]
+    },
+    {
+      "id": "cn-metal-005",
+      "name": {
+        "zh": "青山控股",
+        "en": "Tsingshan Holding Group"
+      },
+      "ticker": "非上市",
+      "industry": "有色金属",
+      "location": {
+        "hq": "温州"
+      },
+      "mainBusiness": "全球最大不锈钢与镍材料生产商，业务覆盖镍资源开发、不锈钢冶炼和新能源材料",
+      "tags": [
+        "2025财富世界500强第247位"
+      ]
+    },
+    {
+      "id": "cn-metal-006",
+      "name": {
+        "zh": "魏桥创业",
+        "en": "Shandong Weiqiao Pioneering Technology Group"
+      },
+      "ticker": "非上市",
+      "industry": "有色金属",
+      "location": {
+        "hq": "滨州邹平"
+      },
+      "mainBusiness": "纺织与铝业双主业集团，旗下中国宏桥为全球产量领先的电解铝生产商",
+      "founded": "1951",
+      "tags": [
+        "2025财富世界500强第166位"
+      ]
+    },
+    {
+      "id": "cn-fin-004",
+      "name": {
+        "zh": "中国平安",
+        "en": "Ping An Insurance (Group) Company of China, Ltd."
+      },
+      "ticker": "601318.SH / 2318.HK",
+      "industry": "保险",
+      "location": {
+        "hq": "深圳福田"
+      },
+      "mainBusiness": "综合金融与医疗养老集团，业务涵盖保险、银行、投资及医疗健康服务",
+      "founded": "1988",
+      "tags": [
+        "2025财富世界500强第47位"
+      ]
+    },
+    {
+      "id": "cn-fin-005",
+      "name": {
+        "zh": "中国人寿",
+        "en": "China Life Insurance (Group) Company"
+      },
+      "ticker": "601628.SH / 2628.HK",
+      "industry": "保险",
+      "location": {
+        "hq": "北京西城"
+      },
+      "mainBusiness": "综合性保险集团，主营寿险、财产险、养老保险、海外业务与资产管理",
+      "founded": "1996",
+      "tags": [
+        "2025财富世界500强第45位"
+      ]
+    },
+    {
+      "id": "cn-fin-006",
+      "name": {
+        "zh": "中国人保",
+        "en": "The People's Insurance Company (Group) of China Limited"
+      },
+      "ticker": "601319.SH / 1339.HK",
+      "industry": "保险",
+      "location": {
+        "hq": "北京西城"
+      },
+      "mainBusiness": "综合性保险金融集团，涵盖财产险、人身险、再保险、资产管理等业务",
+      "founded": "1949",
+      "tags": [
+        "2025财富世界500强第141位"
+      ]
+    },
+    {
+      "id": "cn-fin-007",
+      "name": {
+        "zh": "中国太保",
+        "en": "China Pacific Insurance (Group) Co., Ltd."
+      },
+      "ticker": "601601.SH / 2601.HK",
+      "industry": "保险",
+      "location": {
+        "hq": "上海"
+      },
+      "mainBusiness": "综合性保险集团，提供财产险、人寿险、健康险、养老保险及资产管理服务",
+      "founded": "1991",
+      "tags": [
+        "2025财富世界500强第251位"
+      ]
+    },
+    {
+      "id": "cn-fin-008",
+      "name": {
+        "zh": "建设银行",
+        "en": "China Construction Bank"
+      },
+      "ticker": "601939.SH / 0939.HK",
+      "industry": "银行",
+      "location": {
+        "hq": "北京西城"
+      },
+      "mainBusiness": "国有大型商业银行，提供个人银行、公司银行、投资理财等综合金融服务",
+      "founded": "1954",
+      "tags": [
+        "2025财富世界500强第31位"
+      ]
+    },
+    {
+      "id": "cn-fin-009",
+      "name": {
+        "zh": "农业银行",
+        "en": "Agricultural Bank of China"
+      },
+      "ticker": "601288.SH / 1288.HK",
+      "industry": "银行",
+      "location": {
+        "hq": "北京东城"
+      },
+      "mainBusiness": "国有大型商业银行，服务三农与县域，提供存贷款等综合金融服务",
+      "founded": "1951",
+      "tags": [
+        "2025财富世界500强第30位"
+      ]
+    },
+    {
+      "id": "cn-fin-010",
+      "name": {
+        "zh": "交通银行",
+        "en": "Bank of Communications"
+      },
+      "ticker": "601328.SH / 3328.HK",
+      "industry": "银行",
+      "location": {
+        "hq": "上海浦东"
+      },
+      "mainBusiness": "国有大型商业银行，以跨境金融与财富管理为特色提供综合金融服务",
+      "founded": "1908",
+      "tags": [
+        "2025财富世界500强第168位"
+      ]
+    },
+    {
+      "id": "cn-fin-011",
+      "name": {
+        "zh": "兴业银行",
+        "en": "Industrial Bank"
+      },
+      "ticker": "601166.SH",
+      "industry": "银行",
+      "location": {
+        "hq": "福州"
+      },
+      "mainBusiness": "股份制商业银行，以绿色金融、同业与资管业务见长",
+      "founded": "1988",
+      "tags": [
+        "2025财富世界500强第242位"
+      ]
+    },
+    {
+      "id": "cn-fin-012",
+      "name": {
+        "zh": "浦发银行",
+        "en": "Shanghai Pudong Development Bank"
+      },
+      "ticker": "600000.SH",
+      "industry": "银行",
+      "location": {
+        "hq": "上海黄浦"
+      },
+      "mainBusiness": "股份制商业银行，聚焦公司金融与跨境金融服务",
+      "founded": "1992",
+      "tags": [
+        "2025财富世界500强第309位"
+      ]
+    },
+    {
+      "id": "cn-fin-013",
+      "name": {
+        "zh": "民生银行",
+        "en": "China Minsheng Banking Corp"
+      },
+      "ticker": "600016.SH / 1988.HK",
+      "industry": "银行",
+      "location": {
+        "hq": "北京西城"
+      },
+      "mainBusiness": "股份制商业银行，以民营企业与小微金融服务为特色",
+      "founded": "1996",
+      "tags": [
+        "2025财富世界500强第387位"
+      ]
+    },
+    {
+      "id": "cn-pharma-005",
+      "name": {
+        "zh": "国药集团",
+        "en": "China National Pharmaceutical Group (Sinopharm)"
+      },
+      "ticker": "非上市",
+      "industry": "医药流通",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "以医药研发制造与分销配送为主业的大型中央医药健康产业集团",
+      "founded": "1998",
+      "tags": [
+        "2025财富世界500强第119位"
+      ]
+    },
+    {
+      "id": "cn-pharma-006",
+      "name": {
+        "zh": "广药集团",
+        "en": "Guangzhou Pharmaceutical Holdings (GPHL)"
+      },
+      "ticker": "非上市",
+      "industry": "医药流通",
+      "location": {
+        "hq": "广州"
+      },
+      "mainBusiness": "以医药制造、医药流通和大健康产品为主业的广州市属医药健康产业集团",
+      "tags": [
+        "2025财富世界500强第459位"
+      ]
+    },
+    {
+      "id": "cn-logi-001",
+      "name": {
+        "zh": "物产中大",
+        "en": "Wuchan Zhongda Group"
+      },
+      "ticker": "600704.SH",
+      "industry": "供应链运营",
+      "location": {
+        "hq": "杭州"
+      },
+      "mainBusiness": "以大宗商品供应链集成服务为核心主业,涵盖贸易、实业制造与物流的浙江省属国企",
+      "tags": [
+        "2025财富世界500强第149位"
+      ]
+    },
+    {
+      "id": "cn-logi-002",
+      "name": {
+        "zh": "建发集团",
+        "en": "Xiamen C&D"
+      },
+      "ticker": "非上市",
+      "industry": "供应链运营",
+      "location": {
+        "hq": "厦门"
+      },
+      "mainBusiness": "以供应链运营为核心,涵盖房地产、旅游会展、投资的大型厦门市属国企集团",
+      "founded": "1980",
+      "tags": [
+        "2025财富世界500强第98位"
+      ]
+    },
+    {
+      "id": "cn-logi-003",
+      "name": {
+        "zh": "厦门国贸控股",
+        "en": "Xiamen ITG Holding Group"
+      },
+      "ticker": "非上市",
+      "industry": "供应链运营",
+      "location": {
+        "hq": "厦门"
+      },
+      "mainBusiness": "以供应链管理为核心业务,涵盖健康科技、城市运营等板块的厦门市属国企集团",
+      "tags": [
+        "2025财富世界500强第208位"
+      ]
+    },
+    {
+      "id": "cn-logi-004",
+      "name": {
+        "zh": "象屿集团",
+        "en": "XMXYG (Xiamen Xiangyu Group)"
+      },
+      "ticker": "非上市",
+      "industry": "供应链运营",
+      "location": {
+        "hq": "厦门"
+      },
+      "mainBusiness": "以大宗商品供应链服务与现代物流为核心,兼顾园区开发运营的厦门市属国企集团",
+      "tags": [
+        "2025财富世界500强第241位"
+      ]
+    },
+    {
+      "id": "cn-other-013",
+      "name": {
+        "zh": "万科",
+        "en": "Vanke"
+      },
+      "ticker": "000002.SZ / 2202.HK",
+      "industry": "房地产",
+      "location": {
+        "hq": "深圳盐田"
+      },
+      "mainBusiness": "领先的城乡建设与生活服务商,主营住宅开发、物业服务与物流仓储",
+      "founded": "1984",
+      "tags": [
+        "2025财富世界500强第319位"
+      ]
+    },
+    {
+      "id": "cn-auto-023",
+      "name": {
+        "zh": "中国一汽",
+        "en": "China FAW Group"
+      },
+      "ticker": "非上市",
+      "industry": "汽车整车",
+      "location": {
+        "hq": "长春"
+      },
+      "mainBusiness": "乘用车与商用车整车制造销售,红旗、解放、奔腾品牌,与大众丰田等合资合作",
+      "founded": "1953",
+      "tags": [
+        "2025财富世界500强第164位"
+      ]
+    },
+    {
+      "id": "cn-auto-024",
+      "name": {
+        "zh": "东风汽车",
+        "en": "Dongfeng Motor Corporation"
+      },
+      "ticker": "非上市",
+      "industry": "汽车整车",
+      "location": {
+        "hq": "武汉"
+      },
+      "mainBusiness": "商用车与乘用车整车研发制造销售,东风、猛士、岚图等品牌,兼营零部件装备",
+      "founded": "1969",
+      "tags": [
+        "2025财富世界500强第291位"
+      ]
+    },
+    {
+      "id": "cn-auto-025",
+      "name": {
+        "zh": "北汽集团",
+        "en": "Beijing Automotive Group"
+      },
+      "ticker": "非上市",
+      "industry": "汽车整车",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "乘用车商用车及新能源汽车制造销售,北京、极狐品牌,合资北京奔驰、北京现代",
+      "founded": "1958",
+      "tags": [
+        "2025财富世界500强第201位"
+      ]
+    },
+    {
+      "id": "cn-defense-001",
+      "name": {
+        "zh": "中国兵器工业",
+        "en": "China North Industries Group Corporation (NORINCO)"
+      },
+      "ticker": "非上市",
+      "industry": "防务装备",
+      "location": {
+        "hq": "北京西城"
+      },
+      "mainBusiness": "陆军武器装备与特种化工研发生产,军贸出口,兼营海外矿产与油气资源开发",
+      "founded": "1999",
+      "tags": [
+        "2025财富世界500强第160位"
+      ]
+    },
+    {
+      "id": "cn-defense-002",
+      "name": {
+        "zh": "中国兵器装备",
+        "en": "China South Industries Group Corporation"
+      },
+      "ticker": "非上市",
+      "industry": "防务装备",
+      "location": {
+        "hq": "北京海淀"
+      },
+      "mainBusiness": "特种装备与车辆、光电等军民品研发制造,兼营汽车零部件等产业",
+      "founded": "1999",
+      "tags": [
+        "2025财富世界500强第343位"
+      ]
+    },
+    {
+      "id": "cn-energy-011",
+      "name": {
+        "zh": "中国石油",
+        "en": "China National Petroleum Corporation"
+      },
+      "ticker": "601857.SH / 0857.HK",
+      "industry": "石油石化",
+      "location": {
+        "hq": "北京东城"
+      },
+      "mainBusiness": "油气勘探开发、炼油化工与油气管输销售，大型油气生产和供应企业。",
+      "founded": "1988",
+      "tags": [
+        "2025财富世界500强第5位"
+      ]
+    },
+    {
+      "id": "cn-energy-012",
+      "name": {
+        "zh": "中国石化",
+        "en": "China Petrochemical Corporation"
+      },
+      "ticker": "600028.SH / 0386.HK",
+      "industry": "石油石化",
+      "location": {
+        "hq": "北京朝阳"
+      },
+      "mainBusiness": "大型炼油企业与成品油供应商，业务涵盖油气勘探开发、炼油化工、油品销售与化工。",
+      "founded": "1983",
+      "tags": [
+        "2025财富世界500强第6位"
+      ]
+    },
+    {
+      "id": "cn-energy-013",
+      "name": {
+        "zh": "中国海油",
+        "en": "China National Offshore Oil Corporation"
+      },
+      "ticker": "600938.SH / 0883.HK",
+      "industry": "石油石化",
+      "location": {
+        "hq": "北京东城"
+      },
+      "mainBusiness": "以海上油气勘探开发为主，兼营炼化、天然气与新能源，领先的海上油气生产商。",
+      "founded": "1982",
+      "tags": [
+        "2025财富世界500强第65位"
+      ]
+    },
+    {
+      "id": "cn-energy-014",
+      "name": {
+        "zh": "山东能源",
+        "en": "Shandong Energy Group"
+      },
+      "ticker": "非上市",
+      "industry": "煤炭",
+      "location": {
+        "hq": "济南"
+      },
+      "mainBusiness": "以煤炭开采和煤化工为主业，兼营电力、新能源、装备制造与内外贸物流的综合能源集团。",
+      "founded": "2020",
+      "tags": [
+        "2025财富世界500强第82位"
+      ]
+    },
+    {
+      "id": "cn-energy-015",
+      "name": {
+        "zh": "晋能控股",
+        "en": "Jinneng Holding Group"
+      },
+      "ticker": "非上市",
+      "industry": "煤炭",
+      "location": {
+        "hq": "大同"
+      },
+      "mainBusiness": "由同煤、晋煤、晋能联合重组的特大型能源集团，主营煤炭、电力与装备制造。",
+      "founded": "2020",
+      "tags": [
+        "2025财富世界500强第289位"
+      ]
+    },
+    {
+      "id": "cn-energy-016",
+      "name": {
+        "zh": "陕煤集团",
+        "en": "Shaanxi Coal and Chemical Industry Group"
+      },
+      "ticker": "非上市",
+      "industry": "煤炭",
+      "location": {
+        "hq": "西安"
+      },
+      "mainBusiness": "陕西特大型能源化工企业，主营煤炭开采、煤化工、钢铁冶炼与装备制造。",
+      "founded": "2004",
+      "tags": [
+        "2025财富世界500强第178位"
+      ]
+    },
+    {
+      "id": "cn-other-014",
+      "name": {
+        "zh": "国机集团",
+        "en": "Sinomach (China National Machinery Industry Corporation)"
+      },
+      "ticker": "非上市",
+      "industry": "综合集团",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "以装备研发与制造、工程承包、国际贸易与技术服务为核心的机械工业央企",
+      "founded": "1997",
+      "tags": [
+        "2025财富世界500强第352位"
+      ]
+    },
+    {
+      "id": "cn-other-015",
+      "name": {
+        "zh": "通用技术集团",
+        "en": "China General Technology (Group) Holding Co., Ltd. (Genertec)"
+      },
+      "ticker": "非上市",
+      "industry": "综合集团",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "以先进制造与技术服务、医药医疗健康及工程承包为核心业务的央企",
+      "founded": "1998",
+      "tags": [
+        "2025财富世界500强第499位"
+      ]
+    },
+    {
+      "id": "cn-logi-005",
+      "name": {
+        "zh": "中国邮政",
+        "en": "China Post Group"
+      },
+      "ticker": "非上市",
+      "industry": "物流",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "经营邮政普遍服务、寄递物流与金融服务，旗下有邮储银行、EMS等",
+      "tags": [
+        "2025财富世界500强第107位"
+      ]
+    },
+    {
+      "id": "cn-metal-007",
+      "name": {
+        "zh": "中国五矿",
+        "en": "China Minmetals Corporation"
+      },
+      "ticker": "非上市(旗下五矿资源1208.HK)",
+      "industry": "有色金属",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "金属矿产勘查开发、贸易物流与冶金工程服务为一体的大型中央企业集团,旗下五矿资源运营秘鲁及刚果(金)铜锌矿山。",
+      "founded": "1950",
+      "tags": [
+        "2025财富世界500强第86位"
+      ]
+    },
+    {
+      "id": "cn-metal-008",
+      "name": {
+        "zh": "中国铝业集团",
+        "en": "Aluminum Corporation of China (Chinalco)"
+      },
+      "ticker": "非上市(旗下中国铝业601600.SH/2600.HK)",
+      "industry": "有色金属",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "以铝为主、兼营铜和稀贵金属的采选冶炼加工一体化中央企业,全球最大氧化铝、电解铝生产商之一。",
+      "founded": "2001"
+    },
+    {
+      "id": "cn-metal-009",
+      "name": {
+        "zh": "江西铜业",
+        "en": "Jiangxi Copper"
+      },
+      "ticker": "600362.SH/0358.HK",
+      "industry": "有色金属",
+      "location": {
+        "hq": "江西贵溪"
+      },
+      "mainBusiness": "采选冶一体化铜业龙头,阴极铜产能居行业前列,兼营稀贵稀散金属、贸易与金融。",
+      "founded": "1979",
+      "tags": [
+        "2025财富世界500强第165位"
+      ]
+    },
+    {
+      "id": "cn-metal-010",
+      "name": {
+        "zh": "铜陵有色",
+        "en": "Tongling Nonferrous Metals Group"
+      },
+      "ticker": "非上市(旗下铜陵有色000630.SZ)",
+      "industry": "有色金属",
+      "location": {
+        "hq": "安徽铜陵"
+      },
+      "mainBusiness": "集铜采选、冶炼、加工于一体的大型铜冶炼企业,阴极铜产量位居行业前列。",
+      "founded": "1949",
+      "tags": [
+        "2025财富世界500强第451位"
+      ]
+    },
+    {
+      "id": "cn-energy-017",
+      "name": {
+        "zh": "恒力集团",
+        "en": "Hengli Group"
+      },
+      "ticker": "非上市(旗下恒力石化600346.SH)",
+      "industry": "石油石化",
+      "location": {
+        "hq": "江苏苏州"
+      },
+      "mainBusiness": "从炼化、PTA到聚酯涤纶全产业链布局的大型民营集团,运营2000万吨/年炼化一体化基地。",
+      "founded": "1994",
+      "tags": [
+        "2025财富世界500强第81位"
+      ]
+    },
+    {
+      "id": "cn-energy-018",
+      "name": {
+        "zh": "盛虹控股",
+        "en": "Shenghong Holding Group"
+      },
+      "ticker": "非上市(旗下东方盛虹000301.SZ)",
+      "industry": "石油石化",
+      "location": {
+        "hq": "江苏苏州"
+      },
+      "mainBusiness": "以炼化一体化为基础,覆盖PTA、聚酯化纤、绿色新材料与新能源的民营产业集团。",
+      "founded": "1992",
+      "tags": [
+        "2025财富世界500强第161位"
+      ]
+    },
+    {
+      "id": "cn-energy-019",
+      "name": {
+        "zh": "浙江荣盛控股",
+        "en": "Zhejiang Rongsheng Holding Group"
+      },
+      "ticker": "非上市(旗下荣盛石化002493.SZ)",
+      "industry": "石油石化",
+      "location": {
+        "hq": "浙江杭州"
+      },
+      "mainBusiness": "旗下浙石化运营4000万吨/年炼化一体化基地,并布局聚酯涤纶、新能源新材料产业。",
+      "founded": "1989",
+      "tags": [
+        "2025财富世界500强第138位"
+      ]
+    },
+    {
+      "id": "cn-energy-020",
+      "name": {
+        "zh": "国家电网",
+        "en": "State Grid Corporation of China"
+      },
+      "ticker": "非上市",
+      "industry": "电网",
+      "location": {
+        "hq": "北京西城"
+      },
+      "mainBusiness": "投资建设运营电网,经营跨区输电供电业务,供电范围覆盖国土面积88%以上",
+      "founded": "2002",
+      "tags": [
+        "2025财富世界500强第3位"
+      ]
+    },
+    {
+      "id": "cn-energy-021",
+      "name": {
+        "zh": "南方电网",
+        "en": "China Southern Power Grid"
+      },
+      "ticker": "非上市",
+      "industry": "电网",
+      "location": {
+        "hq": "广州"
+      },
+      "mainBusiness": "经营广东、广西、云南、贵州、海南五省区电网的投资建设运营,实施西电东送",
+      "founded": "2002",
+      "tags": [
+        "2025财富世界500强第84位"
+      ]
+    },
+    {
+      "id": "cn-energy-022",
+      "name": {
+        "zh": "中国华能",
+        "en": "China Huaneng Group"
+      },
+      "ticker": "非上市",
+      "industry": "发电",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "以电力为核心的国有综合能源集团,主营火电、水电、风电、光伏发电及煤炭业务",
+      "founded": "1985",
+      "tags": [
+        "2025财富世界500强第256位"
+      ]
+    },
+    {
+      "id": "cn-energy-023",
+      "name": {
+        "zh": "中国大唐",
+        "en": "China Datang"
+      },
+      "ticker": "非上市",
+      "industry": "发电",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "国有特大型发电集团,主营火电、水电、风电、光伏发电及煤炭等业务",
+      "founded": "2002",
+      "tags": [
+        "2025财富世界500强第447位"
+      ]
+    },
+    {
+      "id": "cn-energy-024",
+      "name": {
+        "zh": "中国华电",
+        "en": "China Huadian"
+      },
+      "ticker": "非上市",
+      "industry": "发电",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "国有综合能源企业,主营火电、水电、风电、光伏发电及煤炭等业务",
+      "founded": "2002",
+      "tags": [
+        "2025财富世界500强第339位"
+      ]
+    },
+    {
+      "id": "cn-energy-025",
+      "name": {
+        "zh": "国家能源集团",
+        "en": "China Energy Investment"
+      },
+      "ticker": "非上市",
+      "industry": "煤炭",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "煤电一体化综合能源集团,业务涵盖煤炭、火电、新能源、煤化工与运输",
+      "founded": "2017",
+      "tags": [
+        "2025财富世界500强第92位"
+      ]
+    },
+    {
+      "id": "cn-energy-026",
+      "name": {
+        "zh": "国家电投",
+        "en": "State Power Investment"
+      },
+      "ticker": "非上市",
+      "industry": "发电",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "五大发电集团之一,主营火电、水电、核电、新能源发电及煤炭等业务",
+      "founded": "2015",
+      "tags": [
+        "2025财富世界500强第265位"
+      ]
+    },
+    {
+      "id": "cn-other-016",
+      "name": {
+        "zh": "华润集团",
+        "en": "China Resources (Group) Co., Ltd."
+      },
+      "ticker": "非上市",
+      "industry": "综合集团",
+      "location": {
+        "hq": "香港"
+      },
+      "mainBusiness": "涵盖消费品、大健康、能源服务、城市综合开发、科技与金融的多元化央企集团",
+      "founded": "1938",
+      "tags": [
+        "2025财富世界500强第67位"
+      ]
+    },
+    {
+      "id": "cn-consumer-008",
+      "name": {
+        "zh": "中粮集团",
+        "en": "COFCO Group"
+      },
+      "ticker": "非上市",
+      "industry": "食品加工",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "粮油糖棉贸易加工与食品品牌消费品,覆盖从田间到餐桌全产业链的国际大粮商",
+      "founded": "1949",
+      "tags": [
+        "2025财富世界500强第133位"
+      ]
+    },
+    {
+      "id": "cn-other-017",
+      "name": {
+        "zh": "中国保利",
+        "en": "China Poly Group Corporation"
+      },
+      "ticker": "非上市",
+      "industry": "综合集团",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "以军民品国际贸易、房地产开发、文化艺术经营为主的多元化企业集团",
+      "founded": "1992",
+      "tags": [
+        "2025财富世界500强第199位"
+      ]
+    },
+    {
+      "id": "cn-other-018",
+      "name": {
+        "zh": "招商局集团",
+        "en": "China Merchants Group"
+      },
+      "ticker": "非上市",
+      "industry": "综合集团",
+      "location": {
+        "hq": "香港"
+      },
+      "mainBusiness": "港口、航运、物流等综合交通,兼营特色金融与园区城市综合开发",
+      "founded": "1872"
+    },
+    {
+      "id": "cn-other-019",
+      "name": {
+        "zh": "中信集团",
+        "en": "CITIC Group"
+      },
+      "ticker": "非上市",
+      "industry": "综合集团",
+      "location": {
+        "hq": "北京"
+      },
+      "mainBusiness": "涵盖银行、证券、信托等金融与先进制造、先进材料、新消费的综合企业集团",
+      "founded": "1979",
+      "tags": [
+        "2025财富世界500强第62位"
+      ]
+    },
+    {
+      "id": "cn-tech-026",
+      "name": {
+        "zh": "深度求索",
+        "en": "DeepSeek"
+      },
+      "ticker": "未上市",
+      "industry": "ICT与消费电子",
+      "location": {
+        "hq": "杭州, 浙江"
+      },
+      "mainBusiness": "大语言模型、开源AI、AI推理性价比、AGI",
+      "tags": [
+        "大语言模型",
+        "开源AI",
+        "AI推理性价比",
+        "AGI"
+      ]
+    },
+    {
+      "id": "cn-other-020",
+      "name": {
+        "zh": "宇树科技",
+        "en": "Unitree Robotics"
+      },
+      "ticker": "未上市",
+      "industry": "高端装备",
+      "location": {
+        "hq": "杭州, 浙江"
+      },
+      "mainBusiness": "人形机器人、四足机器人、具身智能、机器人出海",
+      "tags": [
+        "人形机器人",
+        "四足机器人",
+        "具身智能",
+        "机器人出海"
+      ]
+    },
+    {
+      "id": "cn-tech-027",
+      "name": {
+        "zh": "智谱AI",
+        "en": "Zhipu AI / Z.ai"
+      },
+      "ticker": "未上市",
+      "industry": "ICT与消费电子",
+      "location": {
+        "hq": "北京, 北京"
+      },
+      "mainBusiness": "大模型、GLM、AI出海、主权AI",
+      "tags": [
+        "大模型",
+        "GLM",
+        "AI出海",
+        "主权AI"
+      ]
+    },
+    {
+      "id": "cn-tech-028",
+      "name": {
+        "zh": "MiniMax(稀宇科技)",
+        "en": "MiniMax"
+      },
+      "ticker": "未上市",
+      "industry": "ICT与消费电子",
+      "location": {
+        "hq": "上海, 上海"
+      },
+      "mainBusiness": "多模态大模型、AI视频生成、AI伴侣应用、全球化",
+      "tags": [
+        "多模态大模型",
+        "AI视频生成",
+        "AI伴侣应用",
+        "全球化"
+      ]
+    },
+    {
+      "id": "cn-tech-029",
+      "name": {
+        "zh": "米哈游",
+        "en": "miHoYo / HoYoverse"
+      },
+      "ticker": "未上市",
+      "industry": "游戏",
+      "location": {
+        "hq": "上海, 上海"
+      },
+      "mainBusiness": "二次元游戏、开放世界、全球化IP、HoYoverse",
+      "tags": [
+        "二次元游戏",
+        "开放世界",
+        "全球化IP",
+        "HoYoverse"
+      ]
+    },
+    {
+      "id": "cn-tech-030",
+      "name": {
+        "zh": "网易",
+        "en": "NetEase"
+      },
+      "ticker": "09999.HK / NTES",
+      "industry": "游戏",
+      "location": {
+        "hq": "杭州, 浙江"
+      },
+      "mainBusiness": "游戏、海外游戏工作室、自研自发、游戏出海",
+      "tags": [
+        "游戏",
+        "海外游戏工作室",
+        "自研自发",
+        "游戏出海"
+      ]
+    },
+    {
+      "id": "cn-consumer-009",
+      "name": {
+        "zh": "希音",
+        "en": "SHEIN"
+      },
+      "ticker": "未上市",
+      "industry": "消费品与品牌",
+      "location": {
+        "hq": "广州, 广东"
+      },
+      "mainBusiness": "跨境电商、快时尚、柔性供应链、自主品牌",
+      "tags": [
+        "跨境电商",
+        "快时尚",
+        "柔性供应链",
+        "自主品牌"
+      ]
+    },
+    {
+      "id": "cn-tech-031",
+      "name": {
+        "zh": "影石创新",
+        "en": "Insta360 (Arashi Vision)"
+      },
+      "ticker": "688775.SH",
+      "industry": "ICT与消费电子",
+      "location": {
+        "hq": "深圳, 广东"
+      },
+      "mainBusiness": "全景相机、运动相机、智能影像、海外营销",
+      "tags": [
+        "全景相机",
+        "运动相机",
+        "智能影像",
+        "海外营销"
+      ]
+    },
+    {
+      "id": "cn-metal-011",
+      "name": {
+        "zh": "紫金矿业",
+        "en": "Zijin Mining"
+      },
+      "ticker": "601899.SH / 2899.HK",
+      "industry": "冶金与矿业",
+      "location": {
+        "hq": "上杭县, 福建"
+      },
+      "mainBusiness": "铜金矿业、海外并购、全球化矿业运营、A+H上市",
+      "tags": [
+        "铜金矿业",
+        "海外并购",
+        "全球化矿业运营",
+        "A+H上市"
+      ]
+    },
+    {
+      "id": "cn-auto-026",
+      "name": {
+        "zh": "零跑汽车",
+        "en": "Leapmotor"
+      },
+      "ticker": "9863.HK",
+      "industry": "汽车",
+      "location": {
+        "hq": "杭州, 浙江"
+      },
+      "mainBusiness": "新能源汽车、Stellantis合资出海、欧洲本地化生产、纯电乘用车",
+      "tags": [
+        "新能源汽车",
+        "Stellantis合资出海",
+        "欧洲本地化生产",
+        "纯电乘用车"
+      ]
+    },
+    {
+      "id": "cn-energy-027",
+      "name": {
+        "zh": "TCL中环",
+        "en": "TCL Zhonghuan Renewable Energy"
+      },
+      "ticker": "002129.SZ",
+      "industry": "电池与新能源",
+      "location": {
+        "hq": "天津市"
+      },
+      "mainBusiness": "光伏硅片、沙特合资建厂、控股Maxeon、全球化制造",
+      "tags": [
+        "光伏硅片",
+        "沙特合资建厂",
+        "控股Maxeon",
+        "全球化制造"
+      ]
+    },
+    {
+      "id": "cn-energy-028",
+      "name": {
+        "zh": "欣旺达",
+        "en": "Sunwoda"
+      },
+      "ticker": "300207.SZ",
+      "industry": "电池与新能源",
+      "location": {
+        "hq": "深圳, 广东"
+      },
+      "mainBusiness": "消费电池模组、动力电池、匈牙利建厂、欧洲本地化产能",
+      "tags": [
+        "消费电池模组",
+        "动力电池",
+        "匈牙利建厂",
+        "欧洲本地化产能"
+      ]
+    },
+    {
+      "id": "cn-energy-029",
+      "name": {
+        "zh": "中创新航",
+        "en": "CALB Group"
+      },
+      "ticker": "3931.HK",
+      "industry": "电池与新能源",
+      "location": {
+        "hq": "常州, 江苏"
+      },
+      "mainBusiness": "动力电池、储能电池、葡萄牙建厂、电池出海",
+      "tags": [
+        "动力电池",
+        "储能电池",
+        "葡萄牙建厂",
+        "电池出海"
+      ]
+    },
+    {
+      "id": "cn-consumer-010",
+      "name": {
+        "zh": "华住集团",
+        "en": "H World Group"
+      },
+      "ticker": "HTHT (NASDAQ) / 1179.HK",
+      "industry": "消费品与品牌",
+      "location": {
+        "hq": "上海市"
+      },
+      "mainBusiness": "连锁酒店、海外并购、德意志酒店、中高端酒店运营",
+      "tags": [
+        "连锁酒店",
+        "海外并购",
+        "德意志酒店",
+        "中高端酒店运营"
+      ]
+    },
+    {
+      "id": "cn-consumer-011",
+      "name": {
+        "zh": "瑞幸咖啡",
+        "en": "Luckin Coffee"
+      },
+      "ticker": "LKNCY (OTC)",
+      "industry": "消费品与品牌",
+      "location": {
+        "hq": "厦门, 福建"
+      },
+      "mainBusiness": "连锁咖啡、自营模式、海外门店扩张、数字化运营",
+      "tags": [
+        "连锁咖啡",
+        "自营模式",
+        "海外门店扩张",
+        "数字化运营"
+      ]
+    },
+    {
+      "id": "cn-consumer-012",
+      "name": {
+        "zh": "霸王茶姬",
+        "en": "CHAGEE"
+      },
+      "ticker": "CHA (NASDAQ)",
+      "industry": "消费品与品牌",
+      "location": {
+        "hq": "成都, 四川"
+      },
+      "mainBusiness": "新茶饮、纳斯达克上市、东南亚门店网络、北美市场进入",
+      "tags": [
+        "新茶饮",
+        "纳斯达克上市",
+        "东南亚门店网络",
+        "北美市场进入"
+      ]
+    }
+  ]
+}

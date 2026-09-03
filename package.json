@@ -1,0 +1,29 @@
+{
+  "name": "hope-partner-enterprises",
+  "version": "0.2.4",
+  "description": "HOPE - Haphazard Overview of Partner Enterprises (合作企业随意汇总)",
+  "main": "index.js",
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "stats": "node scripts/stats.js",
+    "docs": "node scripts/generate-docs.js"
+  },
+  "keywords": [
+    "企业出海",
+    "海外合作",
+    "海外建厂",
+    "海外并购",
+    "cross-border",
+    "corporate-collaboration",
+    "supply-chain",
+    "open-data",
+    "globalization",
+    "hope"
+  ],
+  "author": "Community",
+  "license": "Anti-996",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spikeortom/HOPE"
+  }
+}

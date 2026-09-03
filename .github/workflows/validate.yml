@@ -1,0 +1,33 @@
+name: Validate Data
+
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - 'data/**'
+      - 'scripts/**'
+  pull_request:
+    paths:
+      - 'data/**'
+      - 'scripts/**'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run data validation
+        run: npm run validate
+
+      - name: Print data stats
+        run: npm run stats
+
+      - name: Regenerate readable docs and check drift
+        run: |
+          npm run docs
+          git diff --exit-code docs/企业合作关系一览.md README.md || (echo "::error::docs/企业合作关系一览.md 或 README.md 与数据不一致,请运行 npm run docs 后重新提交" && exit 1)
