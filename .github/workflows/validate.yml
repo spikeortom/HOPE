@@ -10,6 +10,7 @@ on:
     paths:
       - 'data/**'
       - 'scripts/**'
+  workflow_dispatch:   # 允许在 Actions 页手动触发(整段历史替换的 force push 不会自动触发)
 
 jobs:
   validate:
@@ -30,4 +31,4 @@ jobs:
       - name: Regenerate readable docs and check drift
         run: |
           npm run docs
-          git diff --exit-code docs/企业合作关系一览.md README.md || (echo "::error::docs/企业合作关系一览.md 或 README.md 与数据不一致,请运行 npm run docs 后重新提交" && exit 1)
+          git diff --exit-code docs/企业合作关系一览.md README.md README_EN.md 企业出海观察.md Going-Global.md || (echo "::error::自动生成的文档与数据不一致,请运行 npm run docs 后重新提交" && exit 1)
