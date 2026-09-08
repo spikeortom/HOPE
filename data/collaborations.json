@@ -7654,6 +7654,558 @@
         "中国",
         "北美"
       ]
+    },
+    {
+      "id": "rel-456",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-build-003",
+        "name": "中国铁建"
+      },
+      "overseas": {
+        "name": "尼日利亚铁路公司",
+        "country": "尼日利亚"
+      },
+      "products": [
+        "铁路建设",
+        "基础设施"
+      ],
+      "since": "2006",
+      "region": [
+        "中国",
+        "非洲"
+      ],
+      "location": "尼日利亚, 尼日利亚铁路公司"
+    },
+    {
+      "id": "rel-457",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-build-005",
+        "name": "中国电建"
+      },
+      "overseas": {
+        "name": "巴基斯坦水电开发局",
+        "country": "巴基斯坦"
+      },
+      "products": [
+        "水电站建设",
+        "EPC总承包"
+      ],
+      "since": "2013",
+      "region": [
+        "中国",
+        "南亚"
+      ],
+      "location": "巴基斯坦, 巴基斯坦水电开发局"
+    },
+    {
+      "id": "rel-458",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-build-006",
+        "name": "中国能建"
+      },
+      "overseas": {
+        "name": "沙特电力公司",
+        "country": "沙特"
+      },
+      "products": [
+        "电站建设",
+        "EPC"
+      ],
+      "since": "2015",
+      "region": [
+        "中国",
+        "中东"
+      ],
+      "location": "沙特, 沙特电力公司"
+    },
+    {
+      "id": "rel-459",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-029",
+        "name": "华测检测"
+      },
+      "overseas": {
+        "name": "SGS",
+        "country": "瑞士"
+      },
+      "products": [
+        "检测认证",
+        "质量服务"
+      ],
+      "since": "2015",
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-460",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "med-008",
+        "name": "安图生物"
+      },
+      "overseas": {
+        "name": "海外医院及实验室",
+        "country": "全球"
+      },
+      "products": [
+        "体外诊断试剂",
+        "生化分析仪"
+      ],
+      "since": "2018",
+      "region": [
+        "中国",
+        "海外"
+      ]
+    },
+    {
+      "id": "rel-461",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-semi-002",
+        "name": "长江存储"
+      },
+      "overseas": {
+        "name": "联想集团",
+        "country": "中国"
+      },
+      "products": [
+        "3D NAND闪存"
+      ],
+      "since": "2020",
+      "region": [
+        "中国"
+      ]
+    },
+    {
+      "id": "rel-462",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-023",
+        "name": "绿的谐波"
+      },
+      "overseas": {
+        "name": "ABB",
+        "country": "瑞士"
+      },
+      "products": [
+        "谐波减速器"
+      ],
+      "since": "2019",
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-463",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-023",
+        "name": "绿的谐波"
+      },
+      "overseas": {
+        "name": "KUKA",
+        "country": "德国"
+      },
+      "products": [
+        "谐波减速器"
+      ],
+      "since": "2018",
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-464",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-machine-008",
+        "name": "华工科技"
+      },
+      "overseas": {
+        "name": "海外通信设备商",
+        "country": "全球"
+      },
+      "products": [
+        "光模块",
+        "激光器"
+      ],
+      "since": "2018",
+      "region": [
+        "中国",
+        "海外"
+      ]
+    },
+    {
+      "id": "rel-465",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-consumer-022",
+        "name": "周大福"
+      },
+      "overseas": {
+        "name": "新加坡零售网络",
+        "country": "新加坡"
+      },
+      "products": [
+        "珠宝零售",
+        "品牌门店"
+      ],
+      "since": "2012",
+      "region": [
+        "中国",
+        "亚太"
+      ],
+      "location": "新加坡, 新加坡零售网络"
+    },
+    {
+      "id": "rel-466",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-consumer-020",
+        "name": "波司登"
+      },
+      "overseas": {
+        "name": "伦敦旗舰店",
+        "country": "英国"
+      },
+      "products": [
+        "羽绒服",
+        "品牌零售"
+      ],
+      "since": "2012",
+      "region": [
+        "中国",
+        "欧洲"
+      ],
+      "location": "英国, 伦敦旗舰店"
+    },
+    {
+      "id": "rel-467",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-consumer-019",
+        "name": "森马服饰"
+      },
+      "overseas": {
+        "name": "东南亚零售合作",
+        "country": "新加坡"
+      },
+      "products": [
+        "童装",
+        "休闲服"
+      ],
+      "since": "2018",
+      "region": [
+        "中国",
+        "亚太"
+      ],
+      "location": "新加坡, 东南亚零售合作"
+    },
+    {
+      "id": "rel-468",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-consumer-015",
+        "name": "三只松鼠"
+      },
+      "overseas": {
+        "name": "海外线上渠道",
+        "country": "美国"
+      },
+      "products": [
+        "坚果零食",
+        "休闲食品"
+      ],
+      "since": "2019",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-469",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-metal-012",
+        "name": "北方稀土"
+      },
+      "overseas": {
+        "name": "日本稀土客户",
+        "country": "日本"
+      },
+      "products": [
+        "稀土氧化物",
+        "钕铁硼"
+      ],
+      "since": "2010",
+      "region": [
+        "中国",
+        "亚太"
+      ]
+    },
+    {
+      "id": "rel-470",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-logi-010",
+        "name": "嘉里物流"
+      },
+      "overseas": {
+        "name": "全球供应链客户",
+        "country": "全球"
+      },
+      "products": [
+        "综合物流",
+        "供应链管理"
+      ],
+      "since": "1981",
+      "region": [
+        "中国",
+        "亚太"
+      ]
+    },
+    {
+      "id": "rel-471",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-028",
+        "name": "谱尼测试"
+      },
+      "overseas": {
+        "name": "国际品牌客户",
+        "country": "美国"
+      },
+      "products": [
+        "检测认证",
+        "安全测试"
+      ],
+      "since": "2016",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-472",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-logi-009",
+        "name": "中谷物流"
+      },
+      "overseas": {
+        "name": "东南亚港口合作",
+        "country": "越南"
+      },
+      "products": [
+        "集装箱航运",
+        "内贸及近洋"
+      ],
+      "since": "2020",
+      "region": [
+        "中国",
+        "亚太"
+      ],
+      "location": "越南, 东南亚港口合作"
+    },
+    {
+      "id": "rel-473",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-consumer-003",
+        "name": "海天味业"
+      },
+      "overseas": {
+        "name": "海外华人超市渠道",
+        "country": "美国"
+      },
+      "products": [
+        "酱油",
+        "调味品"
+      ],
+      "since": "2015",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-474",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-home-006",
+        "name": "飞科电器"
+      },
+      "overseas": {
+        "name": "东南亚及中东市场",
+        "country": "东南亚"
+      },
+      "products": [
+        "剃须刀",
+        "个护电器"
+      ],
+      "since": "2018",
+      "region": [
+        "中国",
+        "亚太"
+      ]
+    },
+    {
+      "id": "rel-475",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-034",
+        "name": "寒武纪"
+      },
+      "overseas": {
+        "name": "东南亚数据中心客户",
+        "country": "新加坡"
+      },
+      "products": [
+        "AI加速芯片",
+        "智能计算"
+      ],
+      "since": "2022",
+      "region": [
+        "中国",
+        "亚太"
+      ]
+    },
+    {
+      "id": "rel-476",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-fin-016",
+        "name": "东方财富"
+      },
+      "overseas": {
+        "name": "香港子公司",
+        "country": "中国香港"
+      },
+      "products": [
+        "证券交易",
+        "基金销售"
+      ],
+      "since": "2020",
+      "region": [
+        "中国",
+        "亚太"
+      ],
+      "location": "中国香港, 香港子公司"
+    },
+    {
+      "id": "rel-477",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-tech-043",
+        "name": "小红书"
+      },
+      "overseas": {
+        "name": "海外用户社区",
+        "country": "全球"
+      },
+      "products": [
+        "社交电商",
+        "内容平台"
+      ],
+      "since": "2021",
+      "region": [
+        "中国",
+        "海外"
+      ],
+      "location": "全球, 海外用户社区"
+    },
+    {
+      "id": "rel-478",
+      "type": "overseas-office",
+      "domestic": {
+        "id": "cn-tech-047",
+        "name": "新东方"
+      },
+      "overseas": {
+        "name": "海外分校",
+        "country": "美国"
+      },
+      "products": [
+        "教育培训",
+        "留学咨询"
+      ],
+      "since": "2006",
+      "region": [
+        "中国",
+        "北美"
+      ],
+      "location": "美国, 海外分校"
+    },
+    {
+      "id": "rel-479",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-030",
+        "name": "经纬恒润"
+      },
+      "overseas": {
+        "name": "一汽集团",
+        "country": "中国"
+      },
+      "products": [
+        "汽车电子",
+        "智能驾驶"
+      ],
+      "since": "2015",
+      "region": [
+        "中国"
+      ]
+    },
+    {
+      "id": "rel-480",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-031",
+        "name": "中材科技"
+      },
+      "overseas": {
+        "name": "海外风电客户",
+        "country": "全球"
+      },
+      "products": [
+        "风电叶片",
+        "玻璃纤维"
+      ],
+      "since": "2018",
+      "region": [
+        "中国",
+        "海外"
+      ]
+    },
+    {
+      "id": "rel-481",
+      "type": "overseas-factory",
+      "domestic": {
+        "id": "cn-energy-035",
+        "name": "华自科技"
+      },
+      "overseas": {
+        "name": "东南亚电力项目",
+        "country": "泰国"
+      },
+      "products": [
+        "储能系统",
+        "智能电网"
+      ],
+      "since": "2019",
+      "region": [
+        "中国",
+        "亚太"
+      ],
+      "location": "泰国, 东南亚电力项目"
     }
   ],
   "summary": {

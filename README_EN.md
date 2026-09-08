@@ -19,7 +19,7 @@ HOPE is an open dataset of **companies going global — their overseas expansion
 ## 📊 Scale
 
 - **Companies**: <!-- AUTO:en-count-companies:BEGIN -->300<!-- AUTO:en-count-companies:END -->
-- **Overseas relationships**: <!-- AUTO:en-count-rels:BEGIN -->455<!-- AUTO:en-count-rels:END -->
+- **Overseas relationships**: <!-- AUTO:en-count-rels:BEGIN -->481<!-- AUTO:en-count-rels:END -->
 - **Industries**: automotive, tech/AI, semiconductors, pharma, new energy, home appliances, finance, engineering, metals/mining, consumer goods and 70+ sectors
 
 ## 📖 Explore (no code needed)
@@ -39,6 +39,46 @@ HOPE is an open dataset of **companies going global — their overseas expansion
 ## ⚖️ Regulatory & compliance
 
 Overseas plants, M&A, joint ventures and supply activities involve investment screening, export controls and supply-chain due diligence across jurisdictions — see **[docs/REGULATORY.md](docs/REGULATORY.md)**. `data/labor-rights.json` collects labor-law and supply-chain compliance references for major economies. This dataset aggregates public information only and is not legal or investment advice.
+
+## 🙋 Help Wanted: Companies Awaiting Overseas Partnership Data
+
+The following <!-- AUTO:en-count-no-rels:BEGIN -->27<!-- AUTO:en-count-no-rels:END --> companies have basic profiles but no verified overseas partnerships yet. If you know about their global activities, contributions are welcome!
+
+<!-- AUTO:en-no-rels-table:BEGIN -->
+
+| Company | Industry | HQ | What to add |
+|---------|----------|-----|-------------|
+| Zhongchi Weiye Technology | Medical Devices/IVD | Beijing | Overseas clients, distributors |
+| Wuchan Zhongda Group | Supply-chain operations | Hangzhou | International trading partners |
+| Vanke | Real Estate | Shenzhen | Overseas property projects |
+| Kingsoft Cloud | Cloud Computing | Beijing | Overseas cloud clients, data centers |
+| CloudWalk | AI Platform | Guangzhou | Overseas AI partnerships |
+| BOSS Zhipin | Internet Recruiting | Beijing | International recruitment业务 |
+| Full Truck Alliance | Internet Freight | Nanjing | Cross-border logistics partners |
+| Unigroup Guoxin | Security Chips | Beijing | Chip clients, foundry partnerships |
+| Empyrean | EDA | Beijing | EDA tool clients |
+| Joulwatt | Analog Chips | Hangzhou | Analog chip clients |
+| Fudan Micro | FPGA/MCU | Shanghai | FPGA clients |
+| Florasis | Cosmetics | Hangzhou | Overseas sales channels |
+| Yatsen | Cosmetics | Guangzhou | Overseas sales channels |
+| Bestore | Snacks | Wuhan | Overseas distribution |
+| Sinocera | New Materials | Zibo | International clients |
+| Jingjia Micro | GPU Chips | Changsha | GPU clients |
+| Wanhua Materials | New Materials | Yantai | International clients |
+| Sushi Test | Environmental Testing | Suzhou | Overseas testing clients |
+| Sungrow Hydrogen | Hydrogen | Hefei | Overseas hydrogen projects |
+| Sunon | CSP Power | Beijing | Overseas CSP projects |
+| BNBM | Building Materials | Beijing | Overseas building material sales |
+| Chuangshiji | CNC Machines | Dongguan | Overseas machine tool sales |
+| AVIC Shenyang | Military Aircraft | Shenyang | Defense exports (if applicable) |
+| Aisino | Aerospace/InfoSec | Beijing | Overseas info-security partnerships |
+| China Satcom | Satellite Comms | Beijing | Overseas satellite services |
+| Youzan | E-commerce SaaS | Hangzhou | Overseas SaaS clients |
+| DMTG CNC | 5-axis CNC | Dalian | Overseas machine tool clients |
+
+<!-- AUTO:en-no-rels-table:END -->
+
+> 💡 **How to help?** See the contribution guide below, or open an [Issue](https://github.com/spikeortom/HOPE/issues) with the information.
 
 ## 🤝 How to contribute
 
@@ -110,9 +150,9 @@ All data comes from public channels and is for reference only — not legal or i
 | Tongfu Microelectronics | AMD(苏州及槟城封测厂各85%股权) (M&A), AMD (JV), 通富超威槟城(TF-AMD Penang) (overseas plant) |
 | JCET Group | STATS ChipPAC(星科金朋) (M&A), 星科金朋新加坡封测基地 (overseas plant) |
 | SMIC | Qualcomm(高通) (supply) |
+| YMTC | 联想集团 (supply) |
 | Will Semiconductor | 豪威科技(OmniVision Technologies) (M&A) |
 | NAURA Technology | Akrion Systems LLC (M&A) |
-| AMEC | 中微北美(AMEC North America) (overseas office) |
 
 ### Medical Devices & IVD · 医疗器械与IVD
 
