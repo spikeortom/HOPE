@@ -18,9 +18,9 @@ HOPE 是一份**企业海外扩张与跨境合作关系**开放数据集，记�
 
 ## 📊 项目规模
 
-- **收录企业**：<!-- AUTO:count-companies:BEGIN -->189<!-- AUTO:count-companies:END --> 家
-- **海外合作关系**：<!-- AUTO:count-rels:BEGIN -->387<!-- AUTO:count-rels:END --> 条
-- **覆盖行业**：医疗器械、汽车、新能源、家电、科技、半导体、医药、化工等
+- **收录企业**：<!-- AUTO:count-companies:BEGIN -->300<!-- AUTO:count-companies:END --> 家
+- **海外合作关系**：<!-- AUTO:count-rels:BEGIN -->455<!-- AUTO:count-rels:END --> 条
+- **覆盖行业**：汽车、科技/AI、半导体、医药、新能源、家电、金融、建筑工程、金属矿业、消费品等 70+ 行业
 
 ## 📄 许可证与倡议
 
@@ -47,7 +47,7 @@ HOPE 是一份**企业海外扩张与跨境合作关系**开放数据集，记�
 
 ## 📖 快速查看合作关系（不用懂代码）
 
-- **[企业合作关系一览](docs/企业合作关系一览.md)** —— 推荐！全部 <!-- AUTO:count-companies:BEGIN -->189<!-- AUTO:count-companies:END --> 家企业的合作关系明细表，按行业分组，每条附来源；浏览器里 `Ctrl+F`（Mac 为 `Command+F`）输入公司名即可直达
+- **[企业合作关系一览](docs/企业合作关系一览.md)** —— 推荐！全部 <!-- AUTO:count-companies:BEGIN -->300<!-- AUTO:count-companies:END --> 家企业的合作关系明细表，按行业分组，每条附来源；浏览器里 `Ctrl+F`（Mac 为 `Command+F`）输入公司名即可直达
 - **["出海"走向世界（详细说明）](企业出海观察.md)** —— 讲清楚这个项目记录什么、为什么记录，以及怎么读
 - 开发者请直接使用下方 `data/*.json` 源数据
 

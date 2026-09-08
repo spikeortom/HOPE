@@ -28,7 +28,7 @@ We want to record this journey with open, verifiable data.
 
 ## 📊 What's in the project
 
-### <!-- AUTO:en-count-companies:BEGIN -->189<!-- AUTO:en-count-companies:END --> companies
+### <!-- AUTO:en-count-companies:BEGIN -->300<!-- AUTO:en-count-companies:END --> companies
 
 By industry:
 
@@ -36,23 +36,24 @@ By industry:
 | Industry | Companies | What they do |
 |------|--------|-----------|
 | 🏥 Medical Devices & IVD | Zhongchi Weiye Technology, Mindray, iHealth Labs, Edan Instruments, United Imaging Healthcare, SonoScape, Kehua Bio-Engineering, Wandong Medical, Snibe Diagnostic, Xinhua Medical, Yuwell Medical, Autobio Diagnostics | Lab instruments, diagnostics reagents, medical imaging |
-| 🚗 Automotive | Xingyu, Fuyao Glass, Great Wall Motor, BYD, MINTH Group, Joyson Electronics, Sanhua, Sinotruk, Li Auto, Chery Automobile, Tuopu Group, Wanxiang Qianchao, NIO, Beijing Automotive Group, Geely Automobile, Leapmotor, SAIC Motor, XPeng, China FAW Group, Dongfeng Motor Corporation, GAC Group, HASCO, Changan Automobile | Vehicle exports, overseas plants, supplying global automakers, power batteries |
+| 🚗 Automotive | Xingyu, Fuyao Glass, Great Wall Motor, BYD, MINTH Group, Joyson Electronics, Sanhua, Sinotruk, Li Auto, Chery Automobile, Tuopu Group, Wanxiang Qianchao, NIO, Beijing Automotive Group, Geely Automobile, Leapmotor, SAIC Motor, XPeng, China FAW Group, Dongfeng Motor Corporation, GAC Group, HASCO, Jiangsu Pacific Precision, Changan Automobile, Zhongding | Vehicle exports, overseas plants, supplying global automakers, power batteries |
 | 📱 Consumer Electronics & ICT | Xiaomi, Anker Innovations, Transsion, Huawei, Tencent, TCL Electronics, HONOR, vivo, Alibaba Group, Luxshare Precision, Lenovo, Meituan, ZTE, OPPO, Dahua, Hikvision, JD.com, PDD Holdings, DeepSeek, Roborock, Zhipu AI / Z.ai, China Unicom, China Mobile, Zhongji Innolight, MiniMax, DJI, Inspur, miHoYo / HoYoverse, NetEase, Insta360 (Arashi Vision), China Telecom | Phones, PCs, drones, optical modules, telecom carriers |
 | 🏠 Home Appliances | Midea, Gree Electric, Haier Smart Home, Hisense | Air conditioners, refrigerators, TVs |
-| 💡 Semiconductors | Tongfu Microelectronics, JCET Group, NAURA Technology, Hua Hong Semiconductor, Will Semiconductor, AMEC, SMIC, YMTC | Chips, packaging & testing, foundries |
-| ☀️ New Energy & Batteries | CATL, Trina Solar, Gotion High-tech, Mingyang Smart Energy, EVE Energy, Sungrow, TCL Zhonghuan Renewable Energy, Goldwind, JA Solar, JinkoSolar, LONGi, TBEA, Tongwei, Sunwoda, Chint Electric, CALB Group | Solar, wind, inverters, power batteries |
+| 💡 Semiconductors | Tongfu Microelectronics, JCET Group, NAURA Technology, Hua Hong Semiconductor, PIOTECH, Will Semiconductor, AMEC, SMIC, YMTC | Chips, packaging & testing, foundries |
+| ☀️ New Energy & Batteries | CATL, Trina Solar, Gotion High-tech, Mingyang Smart Energy, EVE Energy, Sungrow, TCL Zhonghuan Renewable Energy, Goldwind, JA Solar, JinkoSolar, LONGi, Pylontech, TBEA, Tongwei, Sunwoda, Chint Electric, CALB Group | Solar, wind, inverters, power batteries |
 | ⚡ Power & Energy | State Grid Corporation of China, State Power Investment, China Energy Investment, China Huaneng Group, Hengli Group, Jinneng Holding Group, China Southern Power Grid, Shandong Energy Group, Shaanxi Coal and Chemical Industry Group, Shenghong Holding Group, Zhejiang Rongsheng Holding Group, China Datang, China National Offshore Oil Corporation, China Huadian, China Petrochemical Corporation, China National Petroleum Corporation | Grids, power generation, coal, oil & gas |
 | 🏗️ Construction & Engineering | China State Construction Engineering Corporation, China Communications Construction Group, China Railway Group Limited, PowerChina, China Energy Engineering Group, China Railway Construction Corporation | Overseas contracting and infrastructure |
-| ⛏️ Metals & Mining | Zijin Mining, Jiangxi Copper, China Baowu Steel Group, Aluminum Corporation of China (Chinalco), Ansteel Group, HBIS Group, Tsingshan Holding Group, Jiangsu Shagang Group, Tongling Nonferrous Metals Group, Shandong Weiqiao Pioneering Technology Group, China Minmetals Corporation | Steel, nonferrous metals, mining |
+| ⛏️ Metals & Mining | Zijin Mining, Jiangxi Copper, China Baowu Steel Group, Aluminum Corporation of China (Chinalco), Ansteel Group, HBIS Group, China Moly, Tsingshan Holding Group, Jiangsu Shagang Group, Tongling Nonferrous Metals Group, Shandong Weiqiao Pioneering Technology Group, China Minmetals Corporation | Steel, nonferrous metals, mining |
 | 🚜 Advanced Equipment | Weichai Power, CRRC Corporation, SANY, XCMG, Dongfang Electric, Unitree Robotics, COMAC, CIMC Group, Zoomlion, ZMJ Group, China North Industries Group Corporation (NORINCO), China South Industries Group Corporation | Construction machinery, rail transit, aviation, ships, defense |
 | 🚢 Logistics & Shipping | ZPMC, Xiamen C&D, Xiamen ITG Holding Group, SF Holding, XMXYG (Xiamen Xiangyu Group), China Post Group, COSCO SHIPPING Holdings, Wuchan Zhongda Group | Shipping, logistics, supply-chain operations |
 | 🏦 Finance | China Construction Bank, CMB, Ping An Insurance (Group) Company of China, Ltd., China Life Insurance (Group) Company, China Pacific Insurance (Group) Co., Ltd., ICBC, Bank of Communications, China Minsheng Banking Corp, Agricultural Bank of China, Shanghai Pudong Development Bank, Industrial Bank, The People's Insurance Company (Group) of China Limited, Bank of China | Banks and insurers |
 | 🧪 Chemicals | Wanhua Chemical | Refining and chemicals |
-| 💊 Pharma | WuXi AppTec, Fosun Pharma, Hengrui Medicine, BeiGene, Guangzhou Pharmaceutical Holdings (GPHL), China National Pharmaceutical Group (Sinopharm) | Drug makers and pharma distribution |
+| 💊 Pharma | WuXi AppTec, Fosun Pharma, Hengrui Medicine, BeiGene, Guangzhou Pharmaceutical Holdings (GPHL), China National Pharmaceutical Group (Sinopharm), Huadong Medicine, Junshi Biosciences, Pharmaron, Kelun-Biotech, Tigermed, Innovent Biologics | Drug makers and pharma distribution |
 | 🛒 Consumer Brands | POP MART, SHEIN, CHAGEE, MIXUE Group, MINISO Group, Luckin Coffee, Yili Group, COFCO Group, ANTA Sports, H World Group, Li-Ning, Haitian Flavouring | Sportswear, food & beverage, toys, retail |
 | 📺 Displays & Optics | BOE, GoerTek, Sunny Optical | Displays, acoustics, lenses |
 | 🏢 Conglomerates | China Merchants Group, China Poly Group Corporation, Sinomach (China National Machinery Industry Corporation), China General Technology (Group) Holding Co., Ltd. (Genertec), China Resources (Group) Co., Ltd., CITIC Group | Diversified state-owned groups |
 | 🏘️ Real Estate | Vanke | Property development |
+| 🔧 Others | iFlytek, SenseTime, Cambricon, Horizon Robotics, RoboSense, Hesai, DP Technology, AISpeech, 4Paradigm, Kingsoft Cloud, CloudWalk, Xiaohongshu, Tuya, BOSS Zhipin, Full Truck Alliance, New Oriental, Lens Technology, GigaDevice, Maxscend, Unigroup Guoxin, Montage, AllWinner, Rockchip, Novosense, VeriSilicon, Empyrean, Hygon, Joulwatt, ACM Research, Fudan Micro, Zhifei, WuXi Biologics, BGI Genomics, Aier Eye Hospital, MGI Tech, Florasis, Yatsen, Three Squirrels, Bestore, Dreame, Ecovacs, Semir, Bosideng, Ninebot, Chow Tai Fook, Supor, Flyco, Donlim, Deerma, XGIMI, Estun, Inovance, Leaderdrive, Wuxi Lead, Lyric, NHU, Sinocera, PONY, CTI, MCC, Sinoma, Optic, ZJTC, Jingjia Micro, Wanhua Materials, Sushi Test, CITIC Securities, Huatai Securities, East Money, Ant Group, Lufax, Sungrow Hydrogen, Peng Hui, Clou, Sunon, Hnztech, Sinomach Chemical, CNBM, Gold Mantis, BNBM, Neta Auto, ECARX, Desay SV, HiRain, Northern Rare Earth, Tianqi Lithium, Ganfeng Lithium, J&T Express, Zongteng, ZTO Express, Zhonggu, Kerry Logistics, Chuangshiji, Han's Laser, HUST, AVIC Shenyang, Aisino, China Satcom, Youzan, DMTG CNC | Other industries |
 <!-- AUTO:en-industry-table:END -->
 
 ---
@@ -188,16 +189,16 @@ The ranking below is generated automatically from the data (each relationship co
 <!-- AUTO:en-country-table:BEGIN -->
 | Rank | Country | Relationships | Representative companies |
 |------|---------|---------------|--------------------------|
-| 1 | 🇺🇸 United States | 59 | 宁德时代, 福耀玻璃, 均胜电子 |
-| 2 | 🇩🇪 Germany | 39 | 宁德时代, 比亚迪, 星宇股份 |
+| 1 | 🇺🇸 United States | 94 | 宁德时代, 福耀玻璃, 均胜电子 |
+| 2 | 🇩🇪 Germany | 49 | 宁德时代, 比亚迪, 星宇股份 |
 | 3 | 🇧🇷 Brazil | 19 | 比亚迪, 三一重工, 徐工集团 |
-| 4 | 🇯🇵 Japan | 14 | 宁德时代, 比亚迪, 福耀玻璃 |
-| 5 | 🇭🇰 Hong Kong, China | 14 | 招商银行, 顺丰控股, 中远海控 |
+| 4 | 🇯🇵 Japan | 17 | 宁德时代, 比亚迪, 福耀玻璃 |
+| 5 | 🇭🇰 Hong Kong, China | 15 | 招商银行, 顺丰控股, 中远海控 |
 | 6 | 🇹🇭 Thailand | 13 | 比亚迪, 美的集团, 天合光能 |
 | 7 | 🇻🇳 Vietnam | 13 | 美的集团, 天合光能, 立讯精密 |
 | 8 | 🇮🇳 India | 13 | 三一重工, 徐工集团, 传音 |
 | 9 | 🇮🇹 Italy | 11 | 海尔智家, 安踏体育, 明阳智能 |
-| 10 | 🇮🇩 Indonesia | 11 | 小鹏汽车, 国家能源集团, 小米 |
+| 10 | 🇸🇬 Singapore | 11 | 长电科技, 阿里巴巴, 中国华能 |
 <!-- AUTO:en-country-table:END -->
 
 > The pattern is clear: **the United States and Germany** are the top destinations for supplying and technology M&A; **Southeast Asia** is the hotspot for building plants; and **Europe** concentrates acquisitions and factories — from KUKA in Germany and CIFA in Italy to grid equity in Portugal and Greece.

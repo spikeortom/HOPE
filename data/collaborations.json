@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "0.2.4",
-    "lastUpdated": "2026-09-03",
+    "version": "0.3.0",
+    "lastUpdated": "2026-09-08",
     "description": "HOPE - 企业出海与海外合作关系详情",
     "disclaimer": "数据来源于公开渠道，仅供参考"
   },
@@ -6253,6 +6253,1407 @@
       "since": "2025",
       "purpose": "2025年进入美国市场,首店落地洛杉矶",
       "source": "https://www.foodbusinessmea.com/chinas-chagee-enters-u-s-market-with-first-store-in-los-angeles/"
+    },
+    {
+      "id": "rel-388",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-tech-032",
+        "name": "科大讯飞"
+      },
+      "overseas": {
+        "name": "Google",
+        "country": "美国"
+      },
+      "products": [
+        "AI语音",
+        "翻译引擎"
+      ],
+      "since": "2019",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-389",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-033",
+        "name": "商汤科技"
+      },
+      "overseas": {
+        "name": "本田",
+        "country": "日本"
+      },
+      "products": [
+        "AI视觉",
+        "自动驾驶感知"
+      ],
+      "since": "2020",
+      "region": [
+        "中国",
+        "亚太"
+      ]
+    },
+    {
+      "id": "rel-390",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-035",
+        "name": "地平线"
+      },
+      "overseas": {
+        "name": "大众",
+        "country": "德国"
+      },
+      "products": [
+        "智能驾驶芯片"
+      ],
+      "since": "2022",
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-391",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-036",
+        "name": "速腾聚创"
+      },
+      "overseas": {
+        "name": "丰田",
+        "country": "日本"
+      },
+      "products": [
+        "激光雷达"
+      ],
+      "since": "2021",
+      "region": [
+        "中国",
+        "亚太"
+      ]
+    },
+    {
+      "id": "rel-392",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-037",
+        "name": "禾赛科技"
+      },
+      "overseas": {
+        "name": "Zoox",
+        "country": "美国"
+      },
+      "products": [
+        "激光雷达"
+      ],
+      "since": "2021",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-393",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-038",
+        "name": "深势科技"
+      },
+      "overseas": {
+        "name": "BASF",
+        "country": "德国"
+      },
+      "products": [
+        "AI分子模拟"
+      ],
+      "since": "2022",
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-394",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-039",
+        "name": "思必驰"
+      },
+      "overseas": {
+        "name": "宝马",
+        "country": "德国"
+      },
+      "products": [
+        "车载语音交互"
+      ],
+      "since": "2021",
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-395",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-040",
+        "name": "第四范式"
+      },
+      "overseas": {
+        "name": "丰田",
+        "country": "日本"
+      },
+      "products": [
+        "企业AI平台"
+      ],
+      "since": "2022",
+      "region": [
+        "中国",
+        "亚太"
+      ]
+    },
+    {
+      "id": "rel-396",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-tech-044",
+        "name": "涂鸦智能"
+      },
+      "overseas": {
+        "name": "Google",
+        "country": "美国"
+      },
+      "products": [
+        "IoT平台",
+        "智能家居"
+      ],
+      "since": "2019",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-397",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-tech-048",
+        "name": "蓝思科技"
+      },
+      "overseas": {
+        "name": "Apple",
+        "country": "美国"
+      },
+      "products": [
+        "手机玻璃盖板",
+        "精密组件"
+      ],
+      "since": "2012",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-398",
+      "type": "outsourcing",
+      "domestic": {
+        "id": "cn-semi-009",
+        "name": "兆易创新"
+      },
+      "overseas": {
+        "name": "TSMC",
+        "country": "中国台湾"
+      },
+      "products": [
+        "NOR Flash",
+        "MCU"
+      ],
+      "since": "2015",
+      "region": [
+        "中国",
+        "亚太"
+      ]
+    },
+    {
+      "id": "rel-399",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-semi-010",
+        "name": "卓胜微"
+      },
+      "overseas": {
+        "name": "三星",
+        "country": "韩国"
+      },
+      "products": [
+        "射频芯片"
+      ],
+      "since": "2020",
+      "region": [
+        "中国",
+        "亚太"
+      ]
+    },
+    {
+      "id": "rel-400",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-semi-012",
+        "name": "澜起科技"
+      },
+      "overseas": {
+        "name": "Intel",
+        "country": "美国"
+      },
+      "products": [
+        "内存接口芯片"
+      ],
+      "since": "2018",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-401",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-semi-013",
+        "name": "全志科技"
+      },
+      "overseas": {
+        "name": "Google",
+        "country": "美国"
+      },
+      "products": [
+        "SoC芯片"
+      ],
+      "since": "2016",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-402",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-semi-014",
+        "name": "瑞芯微"
+      },
+      "overseas": {
+        "name": "Google",
+        "country": "美国"
+      },
+      "products": [
+        "AIoT芯片"
+      ],
+      "since": "2017",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-403",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-semi-015",
+        "name": "纳芯微"
+      },
+      "overseas": {
+        "name": "博世",
+        "country": "德国"
+      },
+      "products": [
+        "传感器信号链芯片"
+      ],
+      "since": "2021",
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-404",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-semi-016",
+        "name": "芯原股份"
+      },
+      "overseas": {
+        "name": "Intel",
+        "country": "美国"
+      },
+      "products": [
+        "GPU IP授权"
+      ],
+      "since": "2019",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-405",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-semi-018",
+        "name": "海光信息"
+      },
+      "overseas": {
+        "name": "AMD",
+        "country": "美国"
+      },
+      "products": [
+        "x86 CPU技术"
+      ],
+      "since": "2016",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-406",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-semi-019",
+        "name": "拓荆科技"
+      },
+      "overseas": {
+        "name": "TSMC",
+        "country": "中国台湾"
+      },
+      "products": [
+        "PECVD设备"
+      ],
+      "since": "2020",
+      "region": [
+        "中国",
+        "亚太"
+      ]
+    },
+    {
+      "id": "rel-407",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-semi-021",
+        "name": "安集科技"
+      },
+      "overseas": {
+        "name": "TSMC",
+        "country": "中国台湾"
+      },
+      "products": [
+        "CMP抛光液"
+      ],
+      "since": "2019",
+      "region": [
+        "中国",
+        "亚太"
+      ]
+    },
+    {
+      "id": "rel-408",
+      "type": "licensing",
+      "domestic": {
+        "id": "cn-pharma-007",
+        "name": "信达生物"
+      },
+      "overseas": {
+        "name": "礼来",
+        "country": "美国"
+      },
+      "products": [
+        "抗体药物",
+        "PD-1抑制剂"
+      ],
+      "since": "2015",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-409",
+      "type": "licensing",
+      "domestic": {
+        "id": "cn-pharma-008",
+        "name": "君实生物"
+      },
+      "overseas": {
+        "name": "Coherus",
+        "country": "美国"
+      },
+      "products": [
+        "PD-1抗体",
+        "特瑞普利单抗"
+      ],
+      "since": "2021",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-410",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-pharma-009",
+        "name": "康龙化成"
+      },
+      "overseas": {
+        "name": "AstraZeneca",
+        "country": "英国"
+      },
+      "products": [
+        "CRO服务",
+        "CDMO服务"
+      ],
+      "since": "2012",
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-411",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-pharma-010",
+        "name": "泰格医药"
+      },
+      "overseas": {
+        "name": "Pfizer",
+        "country": "美国"
+      },
+      "products": [
+        "临床试验服务",
+        "CRO"
+      ],
+      "since": "2015",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-412",
+      "type": "outsourcing",
+      "domestic": {
+        "id": "cn-pharma-011",
+        "name": "智飞生物"
+      },
+      "overseas": {
+        "name": "默沙东",
+        "country": "美国"
+      },
+      "products": [
+        "HPV疫苗",
+        "五价轮状疫苗"
+      ],
+      "since": "2011",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-413",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-pharma-012",
+        "name": "药明生物"
+      },
+      "overseas": {
+        "name": "Moderna",
+        "country": "美国"
+      },
+      "products": [
+        "生物药CDMO",
+        "mRNA生产"
+      ],
+      "since": "2020",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-414",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-pharma-013",
+        "name": "华大基因"
+      },
+      "overseas": {
+        "name": "Illumina",
+        "country": "美国"
+      },
+      "products": [
+        "基因测序",
+        "NGS平台"
+      ],
+      "since": "2010",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-415",
+      "type": "licensing",
+      "domestic": {
+        "id": "cn-pharma-014",
+        "name": "爱尔眼科"
+      },
+      "overseas": {
+        "name": "Vision Foundation",
+        "country": "美国"
+      },
+      "products": [
+        "眼科技术",
+        "学术研究"
+      ],
+      "since": "2019",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-416",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-pharma-015",
+        "name": "华东医药"
+      },
+      "overseas": {
+        "name": "Sinclair",
+        "country": "英国"
+      },
+      "products": [
+        "医美产品",
+        "埋线"
+      ],
+      "since": "2018",
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-417",
+      "type": "licensing",
+      "domestic": {
+        "id": "cn-pharma-016",
+        "name": "科伦博泰"
+      },
+      "overseas": {
+        "name": "默沙东",
+        "country": "美国"
+      },
+      "products": [
+        "ADC药物",
+        "抗体偶联"
+      ],
+      "since": "2022",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-418",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-pharma-017",
+        "name": "华大智造"
+      },
+      "overseas": {
+        "name": "Illumina",
+        "country": "美国"
+      },
+      "products": [
+        "基因测序仪",
+        "DNBSEQ"
+      ],
+      "since": "2016",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-419",
+      "type": "outsourcing",
+      "domestic": {
+        "id": "cn-consumer-017",
+        "name": "追觅科技"
+      },
+      "overseas": {
+        "name": "Amazon",
+        "country": "美国"
+      },
+      "products": [
+        "扫地机器人",
+        "吸尘器"
+      ],
+      "since": "2017",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-420",
+      "type": "outsourcing",
+      "domestic": {
+        "id": "cn-consumer-018",
+        "name": "科沃斯"
+      },
+      "overseas": {
+        "name": "Amazon",
+        "country": "美国"
+      },
+      "products": [
+        "扫地机器人",
+        "智能家居"
+      ],
+      "since": "2015",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-421",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-consumer-021",
+        "name": "九号公司"
+      },
+      "overseas": {
+        "name": "Segway",
+        "country": "美国"
+      },
+      "products": [
+        "电动滑板车",
+        "平衡车"
+      ],
+      "since": "2015",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-422",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-home-005",
+        "name": "苏泊尔"
+      },
+      "overseas": {
+        "name": "SEB集团",
+        "country": "法国"
+      },
+      "products": [
+        "厨电",
+        "小家电"
+      ],
+      "since": "2007",
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-423",
+      "type": "outsourcing",
+      "domestic": {
+        "id": "cn-home-007",
+        "name": "新宝股份"
+      },
+      "overseas": {
+        "name": "SharkNinja",
+        "country": "美国"
+      },
+      "products": [
+        "厨房小家电",
+        "清洁电器"
+      ],
+      "since": "2018",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-424",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-home-008",
+        "name": "德尔玛"
+      },
+      "overseas": {
+        "name": "小米",
+        "country": "中国"
+      },
+      "products": [
+        "吸尘器",
+        "小家电"
+      ],
+      "since": "2016",
+      "region": "中国"
+    },
+    {
+      "id": "rel-425",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-home-009",
+        "name": "极米科技"
+      },
+      "overseas": {
+        "name": "Google",
+        "country": "美国"
+      },
+      "products": [
+        "智能投影",
+        "Android TV"
+      ],
+      "since": "2019",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-426",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-other-021",
+        "name": "埃斯顿"
+      },
+      "overseas": {
+        "name": "Cloos",
+        "country": "德国"
+      },
+      "products": [
+        "焊接机器人"
+      ],
+      "since": "2019",
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-427",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-other-022",
+        "name": "汇川技术"
+      },
+      "overseas": {
+        "name": "博世",
+        "country": "德国"
+      },
+      "products": [
+        "伺服系统",
+        "工业自动化"
+      ],
+      "since": "2015",
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-428",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-024",
+        "name": "先导智能"
+      },
+      "overseas": {
+        "name": "特斯拉",
+        "country": "美国"
+      },
+      "products": [
+        "锂电设备",
+        "涂布机"
+      ],
+      "since": "2020",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-429",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-025",
+        "name": "利元亨"
+      },
+      "overseas": {
+        "name": "Northvolt",
+        "country": "瑞典"
+      },
+      "products": [
+        "锂电池装备",
+        "智能制造"
+      ],
+      "since": "2021",
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-430",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-other-026",
+        "name": "新和成"
+      },
+      "overseas": {
+        "name": "帝斯曼",
+        "country": "荷兰"
+      },
+      "products": [
+        "维生素",
+        "营养配料"
+      ],
+      "since": "2010",
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-431",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-030",
+        "name": "中国中冶"
+      },
+      "overseas": {
+        "name": "BHP",
+        "country": "澳大利亚"
+      },
+      "products": [
+        "矿业工程",
+        "冶金建设"
+      ],
+      "since": "2010",
+      "region": [
+        "中国",
+        "大洋洲"
+      ]
+    },
+    {
+      "id": "rel-432",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-032",
+        "name": "奥普特"
+      },
+      "overseas": {
+        "name": "Apple",
+        "country": "美国"
+      },
+      "products": [
+        "机器视觉",
+        "光源系统"
+      ],
+      "since": "2015",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-433",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-other-033",
+        "name": "中控技术"
+      },
+      "overseas": {
+        "name": "SAP",
+        "country": "德国"
+      },
+      "products": [
+        "工业软件",
+        "DCS系统"
+      ],
+      "since": "2018",
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-434",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-fin-014",
+        "name": "中信证券"
+      },
+      "overseas": {
+        "name": "CLSA",
+        "country": "中国香港"
+      },
+      "products": [
+        "投行",
+        "经纪业务"
+      ],
+      "since": "2013",
+      "region": [
+        "中国",
+        "亚太"
+      ]
+    },
+    {
+      "id": "rel-435",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-fin-015",
+        "name": "华泰证券"
+      },
+      "overseas": {
+        "name": "AssetMark",
+        "country": "美国"
+      },
+      "products": [
+        "财富管理",
+        "资产配置"
+      ],
+      "since": "2019",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-436",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-fin-017",
+        "name": "蚂蚁集团"
+      },
+      "overseas": {
+        "name": "PayPal",
+        "country": "美国"
+      },
+      "products": [
+        "移动支付",
+        "跨境支付"
+      ],
+      "since": "2016",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-437",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-fin-018",
+        "name": "陆金所"
+      },
+      "overseas": {
+        "name": "平安集团",
+        "country": "中国"
+      },
+      "products": [
+        "财富管理",
+        "金融科技"
+      ],
+      "since": "2011",
+      "region": "中国"
+    },
+    {
+      "id": "rel-438",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-energy-031",
+        "name": "派能科技"
+      },
+      "overseas": {
+        "name": "Varta",
+        "country": "德国"
+      },
+      "products": [
+        "户用储能电池"
+      ],
+      "since": "2019",
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-439",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-energy-032",
+        "name": "鹏辉能源"
+      },
+      "overseas": {
+        "name": "Powin",
+        "country": "美国"
+      },
+      "products": [
+        "储能电池"
+      ],
+      "since": "2020",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-440",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-energy-033",
+        "name": "科陆电子"
+      },
+      "overseas": {
+        "name": "Fluence",
+        "country": "美国"
+      },
+      "products": [
+        "储能系统",
+        "智能电网"
+      ],
+      "since": "2019",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-441",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-build-007",
+        "name": "中国化学"
+      },
+      "overseas": {
+        "name": "SABIC",
+        "country": "沙特"
+      },
+      "products": [
+        "化工工程",
+        "EPC项目"
+      ],
+      "since": "2015",
+      "region": [
+        "中国",
+        "中东"
+      ]
+    },
+    {
+      "id": "rel-442",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-build-008",
+        "name": "中国建材"
+      },
+      "overseas": {
+        "name": "ADNOC",
+        "country": "阿联酋"
+      },
+      "products": [
+        "建材项目",
+        "水泥工程"
+      ],
+      "since": "2018",
+      "region": [
+        "中国",
+        "中东"
+      ]
+    },
+    {
+      "id": "rel-443",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-build-009",
+        "name": "金螳螂"
+      },
+      "overseas": {
+        "name": "Wynn Resorts",
+        "country": "美国"
+      },
+      "products": [
+        "酒店装饰",
+        "室内设计"
+      ],
+      "since": "2015",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-444",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-auto-027",
+        "name": "哪吒汽车"
+      },
+      "overseas": {
+        "name": "文远知行",
+        "country": "中国"
+      },
+      "products": [
+        "智能驾驶",
+        "Robotaxi"
+      ],
+      "since": "2023",
+      "region": "中国"
+    },
+    {
+      "id": "rel-445",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-auto-028",
+        "name": "亿咖通科技"
+      },
+      "overseas": {
+        "name": "沃尔沃",
+        "country": "瑞典"
+      },
+      "products": [
+        "智能座舱",
+        "车载系统"
+      ],
+      "since": "2019",
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-446",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-029",
+        "name": "德赛西威"
+      },
+      "overseas": {
+        "name": "大众",
+        "country": "德国"
+      },
+      "products": [
+        "智能座舱",
+        "ADAS"
+      ],
+      "since": "2020",
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-447",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-031",
+        "name": "中鼎股份"
+      },
+      "overseas": {
+        "name": "BMW",
+        "country": "德国"
+      },
+      "products": [
+        "密封件",
+        "橡胶减震件"
+      ],
+      "since": "2010",
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-448",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-auto-032",
+        "name": "精锻科技"
+      },
+      "overseas": {
+        "name": "GKN",
+        "country": "英国"
+      },
+      "products": [
+        "精锻齿轮",
+        "差速器总成"
+      ],
+      "since": "2016",
+      "region": [
+        "中国",
+        "欧洲"
+      ]
+    },
+    {
+      "id": "rel-449",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-metal-013",
+        "name": "天齐锂业"
+      },
+      "overseas": {
+        "name": "SQM",
+        "country": "智利"
+      },
+      "products": [
+        "锂矿",
+        "锂盐"
+      ],
+      "since": "2018",
+      "region": [
+        "中国",
+        "南美"
+      ]
+    },
+    {
+      "id": "rel-450",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-metal-014",
+        "name": "赣锋锂业"
+      },
+      "overseas": {
+        "name": "Tesla",
+        "country": "美国"
+      },
+      "products": [
+        "锂矿",
+        "电池级碳酸锂"
+      ],
+      "since": "2022",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-451",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-metal-015",
+        "name": "洛阳钼业"
+      },
+      "overseas": {
+        "name": "Freeport",
+        "country": "美国"
+      },
+      "products": [
+        "铜矿",
+        "钴矿"
+      ],
+      "since": "2013",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-452",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-logi-006",
+        "name": "极兔速递"
+      },
+      "overseas": {
+        "name": "Shopee",
+        "country": "新加坡"
+      },
+      "products": [
+        "快递物流",
+        "电商配送"
+      ],
+      "since": "2015",
+      "region": [
+        "中国",
+        "亚太"
+      ]
+    },
+    {
+      "id": "rel-453",
+      "type": "joint-venture",
+      "domestic": {
+        "id": "cn-logi-007",
+        "name": "纵腾集团"
+      },
+      "overseas": {
+        "name": "Amazon",
+        "country": "美国"
+      },
+      "products": [
+        "跨境物流",
+        "海外仓"
+      ],
+      "since": "2018",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-454",
+      "type": "acquisition",
+      "domestic": {
+        "id": "cn-logi-008",
+        "name": "中通快递"
+      },
+      "overseas": {
+        "name": "Lyft",
+        "country": "美国"
+      },
+      "products": [
+        "物流科技",
+        "最后一公里"
+      ],
+      "since": "2019",
+      "region": [
+        "中国",
+        "北美"
+      ]
+    },
+    {
+      "id": "rel-455",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-machine-007",
+        "name": "大族激光"
+      },
+      "overseas": {
+        "name": "Apple",
+        "country": "美国"
+      },
+      "products": [
+        "激光加工设备",
+        "精密激光"
+      ],
+      "since": "2013",
+      "region": [
+        "中国",
+        "北美"
+      ]
     }
   ],
   "summary": {

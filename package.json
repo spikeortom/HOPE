@@ -1,6 +1,6 @@
 {
   "name": "hope-partner-enterprises",
-  "version": "0.2.4",
+  "version": "0.3.0",
   "description": "HOPE - Haphazard Overview of Partner Enterprises (合作企业随意汇总)",
   "main": "index.js",
   "scripts": {

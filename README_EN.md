@@ -18,9 +18,9 @@ HOPE is an open dataset of **companies going global — their overseas expansion
 
 ## 📊 Scale
 
-- **Companies**: <!-- AUTO:en-count-companies:BEGIN -->189<!-- AUTO:en-count-companies:END -->
-- **Overseas relationships**: <!-- AUTO:en-count-rels:BEGIN -->387<!-- AUTO:en-count-rels:END -->
-- **Industries**: medical devices, automotive, new energy, home appliances, tech, semiconductors, pharma, chemicals, and more
+- **Companies**: <!-- AUTO:en-count-companies:BEGIN -->300<!-- AUTO:en-count-companies:END -->
+- **Overseas relationships**: <!-- AUTO:en-count-rels:BEGIN -->455<!-- AUTO:en-count-rels:END -->
+- **Industries**: automotive, tech/AI, semiconductors, pharma, new energy, home appliances, finance, engineering, metals/mining, consumer goods and 70+ sectors
 
 ## 📖 Explore (no code needed)
 
