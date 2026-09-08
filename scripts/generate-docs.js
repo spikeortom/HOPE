@@ -79,7 +79,8 @@ out.push('');
 out.push('## 目录');
 out.push('');
 for (const g of groupNames) {
-  const list = sortList(groups.get(g));
+  const list = sortList(groups.get(g)).filter(c => (relsByCompany.get(c.id) || []).length > 0);
+  if (list.length === 0) continue;
   out.push(`- **${g}**(${list.length} 家):${list.map(c => `[${c.name?.zh}](#${(c.name?.zh || '').toLowerCase()})`).join(' · ')}`);
 }
 /* 汇总无合作关系企业链接 */
