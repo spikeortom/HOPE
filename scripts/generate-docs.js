@@ -86,8 +86,7 @@ for (const g of groupNames) {
 /* 汇总无合作关系企业链接 */
 const noRelList = companies.filter(c => !(relsByCompany.get(c.id) || []).length);
 if (noRelList.length > 0) {
-  const noRelSorted = noRelList.slice().sort((a, b) => (a.name?.zh || '').localeCompare(b.name?.zh || '', 'zh'));
-  out.push(`- [🙋 **欢迎补充：暂无合作关系的企业**](#其他)（${noRelList.length} 家）:${noRelSorted.map(c => `[${c.name?.zh}](#${(c.name?.zh || '').toLowerCase()})`).join(' · ')}`);
+  out.push(`- 🙋 **欢迎补充：暂无合作关系的企业**（${noRelList.length} 家）:${noRelList.map(c => `[${c.name?.zh}](#${(c.name?.zh || '').toLowerCase()})`).join(' · ')}`);
 }
 out.push('');
 out.push('---');
