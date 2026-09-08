@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "0.2.4",
-    "lastUpdated": "2026-09-03",
+    "version": "0.3.1",
+    "lastUpdated": "2026-09-08",
     "description": "各国劳动法规、供应链合规与跨境投资监管要求汇总",
     "disclaimer": "本数据来源于公开法律法规，仅供参考",
     "note": "complianceRatings 为评级参考标准（档位定义），不代表任何实测分布或统计结果"
@@ -20,7 +20,9 @@
         "对供应链中的违规行为承担责任"
       ],
       "applicableScope": "员工超过1000人且营业额超过4.5亿欧元的企业",
-      "effectiveDate": "2026年起分阶段实施"
+      "effectiveDate": "2026年起分阶段实施",
+      "url": "https://commission.europa.eu/business-economy-euro/doing-business-eu/corporate-sustainability-due-diligence_en",
+      "urlNote": "EUR-Lex 原链（eur-lex.europa.eu/eli/dir/2024/1760/oj）被 AWS WAF 拦截无法验证，改用欧盟委员会官方 CSDDD 专页"
     },
     {
       "id": "legal-de-lksg",
@@ -35,7 +37,8 @@
         "定期报告"
       ],
       "applicableScope": "员工超过1000人的德国企业（2023年起）或超过300人的企业（2024年起）",
-      "effectiveDate": "2023年1月1日"
+      "effectiveDate": "2023年1月1日",
+      "url": "https://www.gesetze-im-internet.de/lksg/"
     },
     {
       "id": "legal-cn-labor",
@@ -50,7 +53,9 @@
         "不得违法解除劳动合同"
       ],
       "enforcement": "由劳动行政部门监督执行",
-      "effectiveDate": "1995年1月1日施行"
+      "effectiveDate": "1995年1月1日施行",
+      "url": "http://www.npc.gov.cn/c2/c30834/201905/t20190521_296651.html",
+      "urlNote": "中国人大网官方《中华人民共和国劳动法》全文页"
     },
     {
       "id": "legal-us-flsa",
@@ -64,7 +69,9 @@
         "限制童工",
         "记录保存要求"
       ],
-      "effectiveDate": "1938年"
+      "effectiveDate": "1938年",
+      "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chap8.htm",
+      "urlNote": "dol.gov 被 Akamai 拒绝访问，改用美国政府出版局 GovInfo 的 29 U.S.C. 第8章（FLSA）官方文本"
     },
     {
       "id": "legal-ilo",
@@ -87,7 +94,9 @@
         "C111",
         "C138",
         "C182"
-      ]
+      ],
+      "url": "https://libguides.ilo.org/ILO_instruments/conventions",
+      "urlNote": "ilo.org / normlex.ilo.org 被 Cloudflare 拦截无法验证，改用 ILO 官方图书馆（libguides.ilo.org）核心公约清单页，页面列出 C087/C098/C029/C105/C100/C111/C138/C182 等基本公约"
     },
     {
       "id": "legal-uk-slavery",
@@ -99,7 +108,9 @@
         "发布年度透明度声明",
         "说明企业为防止供应链中出现奴隶制所采取的措施"
       ],
-      "applicableScope": "在英国开展业务且年营业额超过3600万英镑的企业"
+      "applicableScope": "在英国开展业务且年营业额超过3600万英镑的企业",
+      "url": "https://www.gov.uk/government/publications/transparency-in-supply-chains-a-practical-guide",
+      "urlNote": "legislation.gov.uk 被 AWS WAF 拦截无法验证，改用 gov.uk 官方《Modern Slavery Act 2015》供应链透明度（s.54）指南"
     },
     {
       "id": "legal-eu-fdi",
@@ -112,7 +123,9 @@
         "成员国间就已审查交易进行信息通报",
         "欧盟委员会可发表意见"
       ],
-      "effectiveDate": "2019年3月全联盟适用"
+      "effectiveDate": "2019年3月全联盟适用",
+      "url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/investment-screening_en",
+      "urlNote": "EUR-Lex 被 WAF 拦截，改用欧盟委员会贸易与安全总司官方投资审查专页（页面内引用 Regulation (EU) 2019/452）"
     },
     {
       "id": "legal-us-cfius",
@@ -125,7 +138,9 @@
         "未经批准实施受管辖交易可能被剥离或处罚",
         "TID（Technology/Infrastructure/Data）业务交易需评估申报义务"
       ],
-      "effectiveDate": "FIRRMA 于2018年8月生效"
+      "effectiveDate": "FIRRMA 于2018年8月生效",
+      "url": "https://www.cfius.gov/",
+      "urlNote": "美国财政部 CFIUS 官方网站（原 home.treasury.gov 页面已 301 跳转至此）"
     },
     {
       "id": "legal-de-awv",
@@ -138,7 +153,9 @@
         "其余敏感行业适用自愿申报，审查机关可主动介入",
         "敏感行业审查门槛为10%投票权，其余为20%"
       ],
-      "effectiveDate": "2021年修订版现行有效"
+      "effectiveDate": "2021年修订版现行有效",
+      "url": "https://www.gesetze-im-internet.de/awv_2013/__55.html",
+      "urlNote": "德国联邦司法部 gesetze-im-internet.de 官方 AWV 第55条（跨行业投资审查范围，含对欧盟 2019/452 号条例的引用）；整部 AWV 目录为 /awv_2013/"
     },
     {
       "id": "legal-uk-nsia",
@@ -151,7 +168,9 @@
         "未申报完成交易可被认定无效并处罚",
         "审查机关可在5年内召回其他交易"
       ],
-      "effectiveDate": "2022年1月4日"
+      "effectiveDate": "2022年1月4日",
+      "url": "https://www.gov.uk/government/collections/national-security-and-investment-act",
+      "urlNote": "legislation.gov.uk 被 AWS WAF 拦截，改用 gov.uk 官方 NSIA 2021 专题页（含指引与申报规则）"
     },
     {
       "id": "legal-jp-fefta",
@@ -163,7 +182,9 @@
         "武器、航空航天、核能、电信、制造业等指定行业取得1%以上股份需事前申报",
         "窗口指导与审查机关可要求变更或中止交易"
       ],
-      "effectiveDate": "2020年修订收紧指定行业范围"
+      "effectiveDate": "2020年修订收紧指定行业范围",
+      "url": "https://www.japaneselawtranslation.go.jp/en/laws/view/2076/en",
+      "urlNote": "日本法务省法令翻译站（官方）FEFTA 英日对照；e-Gov 原始页 https://laws.e-gov.go.jp/law/322AC0000000228 返回 200 但正文由 JS 渲染"
     },
     {
       "id": "legal-au-firb",
@@ -176,7 +197,9 @@
         "敏感行业（电信、国防、土地等）适用更低的申报门槛",
         "违反申报义务面临刑事与民事处罚"
       ],
-      "effectiveDate": "1975年制定，2021年改革收费与审查框架"
+      "effectiveDate": "1975年制定，2021年改革收费与审查框架",
+      "url": "https://foreigninvestment.gov.au/investing-in-australia/foreign-investment-framework",
+      "urlNote": "澳大利亚政府 FIRB 官方站（foreigninvestment.gov.au）外国投资框架页；legislation.gov.au 为 JS 单页应用无法取正文"
     },
     {
       "id": "legal-ca-ica",
@@ -189,7 +212,8 @@
         "所有投资均可能触发国家安全审查",
         "文化行业适用更严格门槛"
       ],
-      "effectiveDate": "1985年制定，2024年修订提高门槛并收紧国家安全审查"
+      "effectiveDate": "1985年制定，2024年修订提高门槛并收紧国家安全审查",
+      "url": "https://laws-lois.justice.gc.ca/eng/acts/I-21.8/"
     },
     {
       "id": "legal-us-ear",
@@ -202,7 +226,9 @@
         "交易前筛查实体清单（Entity List）、未经验证清单等限制名单",
         "违反管制面临刑事与行政处罚"
       ],
-      "effectiveDate": "现行有效，清单动态更新"
+      "effectiveDate": "现行有效，清单动态更新",
+      "url": "https://www.bis.gov/regulations/ear/730",
+      "urlNote": "eCFR 被重定向至 unblock.federalregister.gov 无法访问，改用 BIS 官网 EAR 第730部分页面"
     },
     {
       "id": "legal-eu-dualuse",
@@ -215,7 +241,9 @@
         "网络监控物项适用人类安全例外",
         "军事最终用途适用全面管制（catch-all）条款"
       ],
-      "effectiveDate": "2021年9月生效"
+      "effectiveDate": "2021年9月生效",
+      "url": "https://policy.trade.ec.europa.eu/help-exporters-and-importers/exporting-dual-use-items_en",
+      "urlNote": "EUR-Lex 被 WAF 拦截，改用欧盟委员会贸易与安全总司两用物项出口管制官方页（依据 Regulation (EU) 2021/821）"
     },
     {
       "id": "legal-eu-worktime",
@@ -229,7 +257,9 @@
         "每年至少4周带薪年假",
         "夜班工作有额外保护要求"
       ],
-      "effectiveDate": "2003年8月生效"
+      "effectiveDate": "2003年8月生效",
+      "url": "https://employment-social-affairs.ec.europa.eu/policies-and-activities/european-employment-strategy/rights-work/labour-law/working-conditions/working-time-directive_en",
+      "urlNote": "EUR-Lex 被 WAF 拦截，改用欧盟委员会就业与社会事务总司官方工作时间指令页（正文含 2003/88/EC）"
     },
     {
       "id": "legal-us-osha",
@@ -242,7 +272,9 @@
         "执行OSHA标准与记录保存要求",
         "严重伤亡事件需按时报告"
       ],
-      "effectiveDate": "1971年"
+      "effectiveDate": "1971年",
+      "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chap15.htm",
+      "urlNote": "osha.gov 被 Akamai 拒绝访问，改用 GovInfo 的 29 U.S.C. 第15章（OSH Act）官方文本"
     },
     {
       "id": "legal-jp-lsa",
@@ -256,7 +288,9 @@
         "每年至少5天带薪年假",
         "解雇需具备客观合理理由"
       ],
-      "effectiveDate": "1947年制定，2019年重大修订"
+      "effectiveDate": "1947年制定，2019年重大修订",
+      "url": "https://www.japaneselawtranslation.go.jp/en/laws/view/4913",
+      "urlNote": "日本法务省法令翻译站（官方）劳动基准法英日对照；e-Gov 原始页 https://laws.e-gov.go.jp/law/322AC0000000049 返回 200 但正文由 JS 渲染"
     },
     {
       "id": "legal-hu-labor",
@@ -270,7 +304,9 @@
         "加班需书面约定并设年度上限",
         "外籍员工需统一的工作许可与居留安排"
       ],
-      "effectiveDate": "2012年新版，2023年放宽加班上限至每年400小时"
+      "effectiveDate": "2012年新版，2023年放宽加班上限至每年400小时",
+      "url": "https://net.jogtar.hu/jogszabaly?docid=a1200001.tv",
+      "urlNote": "匈牙利官方国家法规库 njt.hu 在本环境 DNS 不可达，改用匈牙利法规库出版方 net.jogtar.hu 的 2012. évi I. törvény（劳动法典）全文"
     },
     {
       "id": "legal-th-lpa",
@@ -284,7 +320,9 @@
         "外籍员工按1:4比例配置本地雇员并办理工作证",
         "符合泰国4.0技能升级要求"
       ],
-      "effectiveDate": "1998年制定，2017年/2019年修订"
+      "effectiveDate": "1998年制定，2017年/2019年修订",
+      "url": "https://www.mol.go.th/laws/?law_type=law-on-labor-protection-and-welfare",
+      "urlNote": "泰国劳工部官网劳动保护法分类页，页面列出《Labour Protection Act B.E. 2541》（พระราชบัญญัติคุ้มครองแรงงาน พ.ศ. 2541）官方文件；全文为 PDF，web_fetch 不支持 PDF"
     },
     {
       "id": "legal-vn-labor",
@@ -298,7 +336,9 @@
         "强制缴纳社会保险、医疗保险、失业保险",
         "企业员工规模较大需建立基层员工组织对话机制"
       ],
-      "effectiveDate": "2021年1月1日"
+      "effectiveDate": "2021年1月1日",
+      "url": "https://vanban.chinhphu.vn/?docid=198540&lang=vi&pageid=27160",
+      "urlNote": "越南政府官方法律文告库：Luật số 45/2019/QH14（2019年劳动法典）"
     },
     {
       "id": "legal-mx-lft",
@@ -312,7 +352,9 @@
         "集体劳动合同需经合法性投票（USMCA 快速反应机制）",
         "解雇需符合法定原因并支付补偿"
       ],
-      "effectiveDate": "1931年制定，2019年/2023年重大修订"
+      "effectiveDate": "1931年制定，2019年/2023年重大修订",
+      "url": "https://reformalaboral.stps.gob.mx/ejes_reforma",
+      "urlNote": "墨西哥劳动与社会保障部（STPS）官方劳动司法改革专页，正文引用《Ley Federal del Trabajo》改革法令；官方 LFT 全文页 diputados.gob.mx / ordenjuridico.gob.mx 在本环境 DNS 不可达"
     },
     {
       "id": "legal-br-clt",
@@ -326,7 +368,9 @@
         "强制 FGTS 离职工龄保障基金",
         "2017年劳动改革引入协商优先原则"
       ],
-      "effectiveDate": "1943年制定，2017年重大修订"
+      "effectiveDate": "1943年制定，2017年重大修订",
+      "url": "https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-publicacaooriginal-1-pe.html",
+      "urlNote": "planalto.gov.br 在本环境不可达，改用巴西众议院官方法规库 Decreto-Lei 5.452/1943（CLT）原文页"
     },
     {
       "id": "legal-id-manpower",
@@ -340,7 +384,9 @@
         "解雇需协商或经劳资法院批准并支付遣散费",
         "2020年《创造就业法》放宽外包与工时安排"
       ],
-      "effectiveDate": "2003年制定，2020年《创造就业法》修订"
+      "effectiveDate": "2003年制定，2020年《创造就业法》修订",
+      "url": "https://jdih.dpr.go.id/setjen/detail-dokumen/tipe/uu/id/196",
+      "urlNote": "印尼国会（DPR）官方法律文件信息系统 JDIH：UU No. 13 Tahun 2003 tentang Ketenagakerjaan"
     },
     {
       "id": "legal-in-labor",
@@ -354,7 +400,9 @@
         "裁员100人以上需政府批准（现行制度）",
         "四部法典已通过，实施时间以官方公报为准"
       ],
-      "effectiveDate": "2020年通过，分阶段实施"
+      "effectiveDate": "2020年通过，分阶段实施",
+      "url": "https://labour.maharashtra.gov.in/en/faqs",
+      "urlNote": "印度劳动法典四部法律（Code on Wages 2019、Social Security 2020、IR 2020、OSH&WC 2020）尚未全部生效；labour.gov.in / indiacode.nic.in / pib.gov.in 在本环境被 Akamai 拒绝访问，改用马哈拉施特拉邦劳动部官方 FAQ 页（列出四部法典问答）"
     }
   ],
   "reportingChannels": [

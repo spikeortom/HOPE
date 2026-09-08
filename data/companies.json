@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": "0.3.0",
+    "version": "0.3.1",
     "lastUpdated": "2026-09-08",
     "description": "HOPE - 企业出海与海外合作关系汇总",
     "disclaimer": "数据来源于公开渠道，仅供参考"
@@ -83,13 +83,7 @@
       "location": {
         "hq": "深圳"
       },
-      "partners": [
-        {
-          "name": "全球医院",
-          "country": "全球",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "医疗器械龙头"
       ]
@@ -121,13 +115,7 @@
       "location": {
         "hq": "深圳"
       },
-      "partners": [
-        {
-          "name": "海外医院",
-          "country": "全球",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "超声设备"
       ]
@@ -143,13 +131,7 @@
       "location": {
         "hq": "深圳"
       },
-      "partners": [
-        {
-          "name": "海外医院",
-          "country": "全球",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "医疗电子"
       ]
@@ -181,13 +163,7 @@
       "location": {
         "hq": "丹阳, 江苏"
       },
-      "partners": [
-        {
-          "name": "海外客户",
-          "country": "全球",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "家用医疗"
       ]
@@ -203,13 +179,7 @@
       "location": {
         "hq": "郑州, 河南"
       },
-      "partners": [
-        {
-          "name": "海外客户",
-          "country": "全球",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "IVD"
       ]
@@ -225,13 +195,7 @@
       "location": {
         "hq": "深圳"
       },
-      "partners": [
-        {
-          "name": "海外客户",
-          "country": "全球",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "化学发光龙头"
       ]
@@ -384,11 +348,6 @@
           "name": "大众",
           "country": "德国",
           "type": "客户"
-        },
-        {
-          "name": "奥迪",
-          "country": "德国",
-          "type": "客户"
         }
       ],
       "tags": [
@@ -465,13 +424,7 @@
       "location": {
         "hq": "宁波, 浙江"
       },
-      "partners": [
-        {
-          "name": "特斯拉",
-          "country": "美国",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "底盘系统"
       ]
@@ -514,18 +467,7 @@
       "location": {
         "hq": "上海"
       },
-      "partners": [
-        {
-          "name": "大众",
-          "country": "德国",
-          "type": "客户"
-        },
-        {
-          "name": "通用",
-          "country": "美国",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "上汽系"
       ]
@@ -543,13 +485,13 @@
       },
       "partners": [
         {
-          "name": "欧洲运营商",
-          "country": "欧洲",
+          "name": "德国电信（Deutsche Telekom）",
+          "country": "德国",
           "type": "客户"
         },
         {
-          "name": "中东运营商",
-          "country": "中东",
+          "name": "沙特电信（stc）",
+          "country": "沙特阿拉伯",
           "type": "客户"
         }
       ],
@@ -568,13 +510,7 @@
       "location": {
         "hq": "深圳, 广东"
       },
-      "partners": [
-        {
-          "name": "全球运营商",
-          "country": "全球",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "通信设备"
       ]
@@ -590,13 +526,7 @@
       "location": {
         "hq": "杭州, 浙江"
       },
-      "partners": [
-        {
-          "name": "全球客户",
-          "country": "全球",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "安防龙头"
       ]
@@ -657,7 +587,7 @@
       },
       "partners": [
         {
-          "name": "高通",
+          "name": "高通(Qualcomm)",
           "country": "美国",
           "type": "供应商"
         }
@@ -679,7 +609,7 @@
       },
       "partners": [
         {
-          "name": "高通",
+          "name": "高通(Qualcomm)",
           "country": "美国",
           "type": "供应商"
         }
@@ -702,6 +632,10 @@
       "partners": [],
       "tags": [
         "非洲手机龙头"
+      ],
+      "sources": [
+        "https://m.cls.cn/detail/743859",
+        "https://stcn.com/article/detail/1839623.html"
       ]
     },
     {
@@ -717,12 +651,12 @@
       },
       "partners": [
         {
-          "name": "英特尔",
+          "name": "英特尔(Intel)",
           "country": "美国",
           "type": "供应商"
         },
         {
-          "name": "微软",
+          "name": "微软(Microsoft)",
           "country": "美国",
           "type": "供应商"
         }
@@ -744,7 +678,7 @@
       },
       "partners": [
         {
-          "name": "英特尔",
+          "name": "英特尔(Intel)",
           "country": "美国",
           "type": "供应商"
         }
@@ -766,7 +700,7 @@
       },
       "partners": [
         {
-          "name": "东芝",
+          "name": "东芝家电",
           "country": "日本",
           "type": "收购"
         },
@@ -836,12 +770,7 @@
       },
       "partners": [
         {
-          "name": "东芝电视",
-          "country": "日本",
-          "type": "收购"
-        },
-        {
-          "name": "东芝映像",
+          "name": "东芝映像(Toshiba Visual Solutions)",
           "country": "日本",
           "type": "被收购方"
         },
@@ -898,13 +827,7 @@
       "location": {
         "hq": "上海"
       },
-      "partners": [
-        {
-          "name": "索尼",
-          "country": "日本",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "CIS芯片"
       ]
@@ -952,13 +875,7 @@
       "location": {
         "hq": "西安, 陕西"
       },
-      "partners": [
-        {
-          "name": "全球客户",
-          "country": "全球",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "光伏龙头"
       ]
@@ -1083,8 +1000,8 @@
       },
       "partners": [
         {
-          "name": "全球药企",
-          "country": "全球",
+          "name": "TESARO",
+          "country": "美国",
           "type": "客户"
         }
       ],
@@ -1141,13 +1058,7 @@
       "location": {
         "hq": "上海"
       },
-      "partners": [
-        {
-          "name": "mRNA技术",
-          "country": "德国",
-          "type": "合作"
-        }
-      ],
+      "partners": [],
       "tags": [
         "医药综合"
       ]
@@ -1163,13 +1074,7 @@
       "location": {
         "hq": "厦门, 福建"
       },
-      "partners": [
-        {
-          "name": "FILA",
-          "country": "意大利",
-          "type": "收购"
-        }
-      ],
+      "partners": [],
       "tags": [
         "运动品牌"
       ]
@@ -1278,7 +1183,7 @@
           "type": "收购"
         },
         {
-          "name": "凯傲集团(KION)",
+          "name": "凯傲集团(KION Group)",
           "country": "德国",
           "type": "被收购方"
         },
@@ -1319,13 +1224,7 @@
       "location": {
         "hq": "北京"
       },
-      "partners": [
-        {
-          "name": "苹果",
-          "country": "美国",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "面板龙头"
       ]
@@ -1341,18 +1240,7 @@
       "location": {
         "hq": "潍坊, 山东"
       },
-      "partners": [
-        {
-          "name": "苹果",
-          "country": "美国",
-          "type": "客户"
-        },
-        {
-          "name": "Meta",
-          "country": "美国",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "声学/VR"
       ]
@@ -1368,18 +1256,7 @@
       "location": {
         "hq": "余姚, 浙江"
       },
-      "partners": [
-        {
-          "name": "苹果",
-          "country": "美国",
-          "type": "客户"
-        },
-        {
-          "name": "三星",
-          "country": "韩国",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "光学龙头"
       ]
@@ -1408,7 +1285,10 @@
       ],
       "sources": [
         "http://auto.cnr.cn/gdzx/20190605/t20190605_524640629.shtml",
-        "https://finance.eastmoney.com/a/202508173486190593.html"
+        "https://finance.eastmoney.com/a/202508173486190593.html",
+        "https://cinic.org.cn/zgzz/pp/745410.html",
+        "http://www.ecns.cn/m/business/2021-08-23/detail-ihaqkfpn8668171.shtml",
+        "https://m.jiemian.com/article/3994693.html"
       ]
     },
     {
@@ -1689,13 +1569,7 @@
         "模块化建筑",
         "能源化工装备"
       ],
-      "partners": [
-        {
-          "name": "英国模块化建筑项目方",
-          "country": "英国",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "集装箱",
         "模块化建筑"
@@ -1893,7 +1767,7 @@
       ],
       "partners": [
         {
-          "name": "北美超大规模云厂商",
+          "name": "北美超大规模云厂商(Google/Microsoft/Amazon/Meta 等)",
           "country": "美国",
           "type": "客户"
         }
@@ -2049,7 +1923,7 @@
       ],
       "partners": [
         {
-          "name": "Renexia",
+          "name": "Renexia(Beleolico 海上风电场)",
           "country": "意大利",
           "type": "客户"
         }
@@ -2084,7 +1958,7 @@
       ],
       "partners": [
         {
-          "name": "坦桑尼亚朱利诺水电站",
+          "name": "坦桑尼亚朱利诺水电站(Julius Nyerere)",
           "country": "坦桑尼亚",
           "type": "客户"
         }
@@ -2117,7 +1991,7 @@
       ],
       "partners": [
         {
-          "name": "雷诺集团",
+          "name": "雷诺集团(Renault Group)",
           "country": "法国",
           "type": "合资方"
         }
@@ -2150,12 +2024,12 @@
       ],
       "partners": [
         {
-          "name": "正大集团",
+          "name": "正大集团(Charoen Pokphand)",
           "country": "泰国",
           "type": "合资方"
         },
         {
-          "name": "JSW集团",
+          "name": "JSW集团(JSW Group)",
           "country": "印度",
           "type": "合资方"
         }
@@ -2239,7 +2113,7 @@
       ],
       "partners": [
         {
-          "name": "大众汽车集团",
+          "name": "大众汽车集团(Volkswagen Group)",
           "country": "德国",
           "type": "合资方"
         },
@@ -2277,12 +2151,12 @@
       ],
       "partners": [
         {
-          "name": "大众汽车集团",
+          "name": "大众汽车集团(Volkswagen)",
           "country": "德国",
           "type": "客户"
         },
         {
-          "name": "VinES(VinFast 旗下)",
+          "name": "与 VinES 合作磷酸铁锂电池工厂",
           "country": "越南",
           "type": "合资方"
         }
@@ -2316,12 +2190,12 @@
       ],
       "partners": [
         {
-          "name": "全球港口运营商",
+          "name": "全球港口运营商(美国岸桥约八成为中国制造)",
           "country": "全球",
           "type": "客户"
         },
         {
-          "name": "休斯敦港 Barbours Cut 码头",
+          "name": "休斯敦港 Barbours Cut 集装箱码头",
           "country": "美国",
           "type": "客户"
         }
@@ -2425,7 +2299,7 @@
           "type": "被收购方"
         },
         {
-          "name": "Riot Games",
+          "name": "Riot Games(《英雄联盟》开发商)",
           "country": "美国",
           "type": "被收购方"
         }
@@ -2456,7 +2330,7 @@
       ],
       "partners": [
         {
-          "name": "Lazada",
+          "name": "Lazada(东南亚电商平台)",
           "country": "新加坡",
           "type": "被收购方"
         },
@@ -2608,7 +2482,7 @@
       ],
       "partners": [
         {
-          "name": "SEG Automotive(索恩格)",
+          "name": "SEG Automotive(原博世起动机和发电机业务)",
           "country": "德国",
           "type": "被收购方"
         }
@@ -2663,7 +2537,7 @@
       ],
       "partners": [
         {
-          "name": "美国州政府采购(纽约州等)",
+          "name": "美国州政府采购(纽约州、马萨诸塞州等)",
           "country": "美国",
           "type": "客户"
         },
@@ -2755,7 +2629,7 @@
       ],
       "partners": [
         {
-          "name": "Westland Dairy",
+          "name": "Westland Co-Operative Dairy",
           "country": "新西兰",
           "type": "被收购方"
         }
@@ -2817,7 +2691,7 @@
       ],
       "partners": [
         {
-          "name": "尼日利亚铁路公司",
+          "name": "尼日利亚联邦政府交通部",
           "country": "尼日利亚",
           "type": "客户"
         }
@@ -2882,8 +2756,8 @@
       ],
       "partners": [
         {
-          "name": "沙特电力公司",
-          "country": "沙特",
+          "name": "沙特电力采购公司（SPPC）",
+          "country": "沙特阿拉伯",
           "type": "客户"
         }
       ]
@@ -4245,13 +4119,7 @@
       "location": {
         "hq": "合肥, 安徽"
       },
-      "partners": [
-        {
-          "name": "Google",
-          "country": "美国",
-          "type": "技术合作"
-        }
-      ],
+      "partners": [],
       "tags": [
         "AI",
         "语音识别",
@@ -4292,13 +4160,7 @@
       "location": {
         "hq": "北京"
       },
-      "partners": [
-        {
-          "name": "东南亚数据中心客户",
-          "country": "新加坡",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "AI芯片",
         "智能计算"
@@ -4384,13 +4246,7 @@
       "location": {
         "hq": "北京"
       },
-      "partners": [
-        {
-          "name": "BASF",
-          "country": "德国",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "科学计算",
         "AI4S"
@@ -4409,7 +4265,7 @@
       },
       "partners": [
         {
-          "name": "宝马",
+          "name": "梅赛德斯-奔驰",
           "country": "德国",
           "type": "客户"
         }
@@ -4430,13 +4286,7 @@
       "location": {
         "hq": "北京"
       },
-      "partners": [
-        {
-          "name": "丰田",
-          "country": "日本",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "企业AI",
         "决策智能"
@@ -4487,13 +4337,7 @@
       "location": {
         "hq": "上海"
       },
-      "partners": [
-        {
-          "name": "海外用户社区",
-          "country": "全球",
-          "type": "海外运营"
-        }
-      ],
+      "partners": [],
       "tags": [
         "种草",
         "社交平台"
@@ -4510,13 +4354,7 @@
       "location": {
         "hq": "杭州"
       },
-      "partners": [
-        {
-          "name": "Google",
-          "country": "美国",
-          "type": "技术合作"
-        }
-      ],
+      "partners": [],
       "tags": [
         "IoT",
         "智能家居平台"
@@ -4569,8 +4407,8 @@
       },
       "partners": [
         {
-          "name": "海外分校",
-          "country": "美国",
+          "name": "加拿大多伦多分校",
+          "country": "加拿大",
           "type": "海外运营"
         }
       ],
@@ -4676,13 +4514,7 @@
       "location": {
         "hq": "上海"
       },
-      "partners": [
-        {
-          "name": "Intel",
-          "country": "美国",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "DDR",
         "内存接口"
@@ -4699,13 +4531,7 @@
       "location": {
         "hq": "珠海"
       },
-      "partners": [
-        {
-          "name": "Google",
-          "country": "美国",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "SoC",
         "智能终端"
@@ -4745,13 +4571,7 @@
       "location": {
         "hq": "上海"
       },
-      "partners": [
-        {
-          "name": "博世",
-          "country": "德国",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "传感器",
         "信号链"
@@ -4831,13 +4651,7 @@
       "location": {
         "hq": "沈阳"
       },
-      "partners": [
-        {
-          "name": "TSMC",
-          "country": "中国台湾",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "薄膜沉积",
         "PECVD"
@@ -4871,13 +4685,7 @@
       "location": {
         "hq": "上海"
       },
-      "partners": [
-        {
-          "name": "TSMC",
-          "country": "中国台湾",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "抛光液",
         "CMP"
@@ -5003,13 +4811,7 @@
       "location": {
         "hq": "重庆"
       },
-      "partners": [
-        {
-          "name": "默沙东",
-          "country": "美国",
-          "type": "代理销售"
-        }
-      ],
+      "partners": [],
       "tags": [
         "疫苗",
         "HPV"
@@ -5026,13 +4828,7 @@
       "location": {
         "hq": "上海"
       },
-      "partners": [
-        {
-          "name": "Moderna",
-          "country": "美国",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "生物药",
         "CDMO"
@@ -5049,13 +4845,7 @@
       "location": {
         "hq": "深圳"
       },
-      "partners": [
-        {
-          "name": "Illumina",
-          "country": "美国",
-          "type": "技术合作"
-        }
-      ],
+      "partners": [],
       "tags": [
         "基因测序",
         "NGS"
@@ -5072,13 +4862,7 @@
       "location": {
         "hq": "长沙"
       },
-      "partners": [
-        {
-          "name": "Vision Foundation",
-          "country": "美国",
-          "type": "学术合作"
-        }
-      ],
+      "partners": [],
       "tags": [
         "眼科",
         "连锁医疗"
@@ -5141,13 +4925,7 @@
       "location": {
         "hq": "深圳"
       },
-      "partners": [
-        {
-          "name": "Illumina",
-          "country": "美国",
-          "type": "竞争"
-        }
-      ],
+      "partners": [],
       "tags": [
         "基因测序仪",
         "生命科学"
@@ -5238,13 +5016,7 @@
       "location": {
         "hq": "苏州"
       },
-      "partners": [
-        {
-          "name": "Amazon",
-          "country": "美国",
-          "type": "渠道"
-        }
-      ],
+      "partners": [],
       "tags": [
         "扫地机器人",
         "吸尘器"
@@ -5261,13 +5033,7 @@
       "location": {
         "hq": "苏州"
       },
-      "partners": [
-        {
-          "name": "Amazon",
-          "country": "美国",
-          "type": "渠道"
-        }
-      ],
+      "partners": [],
       "tags": [
         "扫地机器人",
         "家庭服务"
@@ -5376,13 +5142,7 @@
       "location": {
         "hq": "杭州"
       },
-      "partners": [
-        {
-          "name": "SEB集团",
-          "country": "法国",
-          "type": "控股"
-        }
-      ],
+      "partners": [],
       "tags": [
         "厨电",
         "压力锅"
@@ -5422,13 +5182,7 @@
       "location": {
         "hq": "佛山"
       },
-      "partners": [
-        {
-          "name": "SharkNinja",
-          "country": "美国",
-          "type": "ODM"
-        }
-      ],
+      "partners": [],
       "tags": [
         "厨房小家电",
         "代工"
@@ -5445,13 +5199,7 @@
       "location": {
         "hq": "佛山"
       },
-      "partners": [
-        {
-          "name": "小米",
-          "country": "中国",
-          "type": "合作"
-        }
-      ],
+      "partners": [],
       "tags": [
         "吸尘器",
         "小家电"
@@ -5468,13 +5216,7 @@
       "location": {
         "hq": "成都"
       },
-      "partners": [
-        {
-          "name": "Google",
-          "country": "美国",
-          "type": "技术合作"
-        }
-      ],
+      "partners": [],
       "tags": [
         "投影仪",
         "智能大屏"
@@ -5514,13 +5256,7 @@
       "location": {
         "hq": "深圳"
       },
-      "partners": [
-        {
-          "name": "博世",
-          "country": "德国",
-          "type": "竞争/合作"
-        }
-      ],
+      "partners": [],
       "tags": [
         "伺服",
         "变频器"
@@ -5537,18 +5273,7 @@
       "location": {
         "hq": "苏州"
       },
-      "partners": [
-        {
-          "name": "ABB",
-          "country": "瑞士",
-          "type": "客户"
-        },
-        {
-          "name": "KUKA",
-          "country": "德国",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "谐波减速器",
         "机器人"
@@ -5588,13 +5313,7 @@
       "location": {
         "hq": "深圳"
       },
-      "partners": [
-        {
-          "name": "Northvolt",
-          "country": "瑞典",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "锂电装备",
         "智能制造"
@@ -5653,8 +5372,8 @@
       },
       "partners": [
         {
-          "name": "国际品牌客户",
-          "country": "美国",
+          "name": "丰田汽车",
+          "country": "日本",
           "type": "客户"
         }
       ],
@@ -5674,13 +5393,7 @@
       "location": {
         "hq": "深圳"
       },
-      "partners": [
-        {
-          "name": "SGS",
-          "country": "瑞士",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "检测认证",
         "TIC"
@@ -5697,13 +5410,7 @@
       "location": {
         "hq": "北京"
       },
-      "partners": [
-        {
-          "name": "BHP",
-          "country": "澳大利亚",
-          "type": "工程承包"
-        }
-      ],
+      "partners": [],
       "tags": [
         "冶金",
         "工程承包"
@@ -5722,8 +5429,8 @@
       },
       "partners": [
         {
-          "name": "海外风电客户",
-          "country": "全球",
+          "name": "海外玻纤客户",
+          "country": "美国",
           "type": "客户"
         }
       ],
@@ -5766,13 +5473,7 @@
       "location": {
         "hq": "杭州"
       },
-      "partners": [
-        {
-          "name": "SAP",
-          "country": "德国",
-          "type": "技术合作"
-        }
-      ],
+      "partners": [],
       "tags": [
         "DCS",
         "工业软件"
@@ -5909,13 +5610,7 @@
       "location": {
         "hq": "杭州"
       },
-      "partners": [
-        {
-          "name": "PayPal",
-          "country": "美国",
-          "type": "技术合作"
-        }
-      ],
+      "partners": [],
       "tags": [
         "支付",
         "金融科技"
@@ -5932,13 +5627,7 @@
       "location": {
         "hq": "上海"
       },
-      "partners": [
-        {
-          "name": "平安集团",
-          "country": "中国",
-          "type": "子公司"
-        }
-      ],
+      "partners": [],
       "tags": [
         "财富管理",
         "金融科技"
@@ -5972,13 +5661,7 @@
       "location": {
         "hq": "上海"
       },
-      "partners": [
-        {
-          "name": "Varta",
-          "country": "德国",
-          "type": "合作"
-        }
-      ],
+      "partners": [],
       "tags": [
         "户用储能",
         "电池"
@@ -5995,13 +5678,7 @@
       "location": {
         "hq": "广州"
       },
-      "partners": [
-        {
-          "name": "Powin",
-          "country": "美国",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "储能",
         "电池"
@@ -6018,13 +5695,7 @@
       "location": {
         "hq": "深圳"
       },
-      "partners": [
-        {
-          "name": "Fluence",
-          "country": "美国",
-          "type": "合作"
-        }
-      ],
+      "partners": [],
       "tags": [
         "储能",
         "智能电表"
@@ -6058,13 +5729,7 @@
       "location": {
         "hq": "长沙"
       },
-      "partners": [
-        {
-          "name": "东南亚电力项目",
-          "country": "泰国",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "储能",
         "智能电网"
@@ -6104,13 +5769,7 @@
       "location": {
         "hq": "北京"
       },
-      "partners": [
-        {
-          "name": "ADNOC",
-          "country": "阿联酋",
-          "type": "合作"
-        }
-      ],
+      "partners": [],
       "tags": [
         "水泥",
         "新材料"
@@ -6127,13 +5786,7 @@
       "location": {
         "hq": "苏州"
       },
-      "partners": [
-        {
-          "name": "Wynn Resorts",
-          "country": "美国",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "装饰",
         "设计"
@@ -6167,13 +5820,7 @@
       "location": {
         "hq": "上海"
       },
-      "partners": [
-        {
-          "name": "文远知行",
-          "country": "中国",
-          "type": "合作"
-        }
-      ],
+      "partners": [],
       "tags": [
         "新能源汽车",
         "智能驾驶"
@@ -6236,13 +5883,7 @@
       "location": {
         "hq": "北京"
       },
-      "partners": [
-        {
-          "name": "一汽集团",
-          "country": "中国",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "汽车电子",
         "智能驾驶"
@@ -6444,13 +6085,7 @@
       "location": {
         "hq": "上海"
       },
-      "partners": [
-        {
-          "name": "Lyft",
-          "country": "美国",
-          "type": "投资"
-        }
-      ],
+      "partners": [],
       "tags": [
         "快递",
         "物流"
@@ -6469,8 +6104,8 @@
       },
       "partners": [
         {
-          "name": "东南亚港口合作",
-          "country": "越南",
+          "name": "中谷航运（新加坡）有限公司",
+          "country": "新加坡",
           "type": "合作"
         }
       ],
@@ -6492,8 +6127,8 @@
       },
       "partners": [
         {
-          "name": "全球供应链客户",
-          "country": "全球",
+          "name": "Continental（大陆集团）",
+          "country": "德国",
           "type": "客户"
         }
       ],
@@ -6553,13 +6188,7 @@
       "location": {
         "hq": "武汉"
       },
-      "partners": [
-        {
-          "name": "海外通信设备商",
-          "country": "全球",
-          "type": "客户"
-        }
-      ],
+      "partners": [],
       "tags": [
         "激光器",
         "光模块"

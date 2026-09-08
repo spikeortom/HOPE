@@ -39,7 +39,8 @@ HOPE/
 | founded | string | 成立年份(可选) |
 | mainBusiness | string | 主营业务(可选) |
 | products | string[] | 主要产品(可选) |
-| partners | array | 海外合作伙伴摘要:`{name, country, type}` |
+| partners | array | 海外合作伙伴摘要:`{name, country, type}`;名称应与 collaborations.json 中的 `overseas.name` 保持一致 |
+| sources | string[] | 该企业相关公开来源 URL(可选,被合并/去重条目保留的链接也存于此) |
 | tags | string[] | 标签 |
 
 ### collaborations.json 字段
@@ -57,7 +58,10 @@ HOPE/
 | status | string | 建设状态:`已投产 / 建设中 / 规划中`(工厂类) |
 | jointVenture | string | 合资公司全名(仅 joint-venture) |
 | purpose | string | 合资目的(仅 joint-venture) |
-| source | string | 该条事实的公开来源 URL(推荐填写) |
+| source | string | 该条事实的公开来源 URL(**必填**,校验脚本会强制检查) |
+| region | string \| string[] | 涉及区域(可选) |
+| purpose | string | 合作目的/说明(可选) |
+| year / function | string | 补充说明字段(可选,仅少量条目使用) |
 
 **关系类型(`type`):**
 
@@ -79,6 +83,7 @@ HOPE/
 | legalFrameworks[].name | string | 法规名称(英文) |
 | legalFrameworks[].jurisdiction | string | 适用司法辖区 |
 | legalFrameworks[].requirements | string[] | 核心要求 |
+| legalFrameworks[].url | string | 官方来源链接(校验会提示缺失) |
 | reportingChannels[].id | string | 渠道唯一标识 |
 | reportingChannels[].name | string | 渠道名称 |
 | complianceRatings[].rating | string | 评级档位(A/B/C/D/待评估) |

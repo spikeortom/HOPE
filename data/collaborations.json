@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": "0.3.0",
+    "version": "0.3.1",
     "lastUpdated": "2026-09-08",
     "description": "HOPE - 企业出海与海外合作关系详情",
     "disclaimer": "数据来源于公开渠道，仅供参考"
@@ -25,7 +25,8 @@
         "中国",
         "美国",
         "德国"
-      ]
+      ],
+      "source": "https://stcn.com/article/detail/73344.html"
     },
     {
       "id": "rel-002",
@@ -45,7 +46,8 @@
       "region": [
         "中国",
         "欧洲"
-      ]
+      ],
+      "source": "https://www.nbd.com.cn/articles/2018-07-09/1233366.html"
     },
     {
       "id": "rel-003",
@@ -64,7 +66,8 @@
       "region": [
         "中国",
         "欧洲"
-      ]
+      ],
+      "source": "https://www.catl.com/news/422.html"
     },
     {
       "id": "rel-004",
@@ -83,7 +86,9 @@
       "region": [
         "中国",
         "欧洲"
-      ]
+      ],
+      "source": "https://www.catl.com/news/10071.html",
+      "since": "2018"
     },
     {
       "id": "rel-005",
@@ -102,7 +107,9 @@
       "region": [
         "中国",
         "日本"
-      ]
+      ],
+      "source": "https://www.catl.com/news/4044.html",
+      "since": "2019"
     },
     {
       "id": "rel-006",
@@ -119,7 +126,8 @@
       "status": "已投产",
       "overseas": {
         "country": "德国"
-      }
+      },
+      "source": "https://www.catl.com/news/6883.html"
     },
     {
       "id": "rel-007",
@@ -136,7 +144,8 @@
       "status": "建设中",
       "overseas": {
         "country": "匈牙利"
-      }
+      },
+      "source": "http://www.nbd.com.cn/articles/2022-08-12/2405128.html"
     },
     {
       "id": "rel-008",
@@ -151,7 +160,8 @@
       },
       "jointVenture": "比亚迪丰田电动车科技有限公司",
       "purpose": "纯电动车研发",
-      "location": "深圳"
+      "location": "深圳",
+      "source": "https://global.toyota/en/newsroom/corporate/32126024.html"
     },
     {
       "id": "rel-009",
@@ -166,7 +176,9 @@
       },
       "jointVenture": "腾势汽车",
       "purpose": "高端电动车",
-      "location": "深圳"
+      "location": "深圳",
+      "source": "http://www.xinhuanet.com/finance/20240918/599fac232fa7461e9fc264571049e548/c.html",
+      "since": "2011"
     },
     {
       "id": "rel-010",
@@ -182,7 +194,9 @@
       "status": "已投产",
       "overseas": {
         "country": "匈牙利"
-      }
+      },
+      "source": "http://paper.people.com.cn/rmrb/pc/content/202601/09/content_30130792.html",
+      "since": "2017"
     },
     {
       "id": "rel-011",
@@ -198,7 +212,9 @@
       "status": "建设中",
       "overseas": {
         "country": "泰国"
-      }
+      },
+      "source": "http://www.jjckb.cn/2024-07/19/c_1310782046.htm",
+      "since": "2024"
     },
     {
       "id": "rel-012",
@@ -214,7 +230,9 @@
       "status": "建设中",
       "overseas": {
         "country": "巴西"
-      }
+      },
+      "source": "https://auto.gasgoo.com/news/202607/18I70466390C109.shtml",
+      "since": "2025"
     },
     {
       "id": "rel-013",
@@ -233,7 +251,8 @@
       "region": [
         "中国",
         "欧洲"
-      ]
+      ],
+      "source": "http://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601799&id=11388521"
     },
     {
       "id": "rel-014",
@@ -252,7 +271,8 @@
       "region": [
         "中国",
         "欧洲"
-      ]
+      ],
+      "source": "http://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601799&id=11388521"
     },
     {
       "id": "rel-015",
@@ -271,7 +291,8 @@
       "region": [
         "中国",
         "欧洲"
-      ]
+      ],
+      "source": "http://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601799&id=11388521"
     },
     {
       "id": "rel-016",
@@ -287,7 +308,8 @@
       "status": "已投产",
       "overseas": {
         "country": "塞尔维亚"
-      }
+      },
+      "source": "https://m.ledinside.cn/news/20260528-61765.html"
     },
     {
       "id": "rel-017",
@@ -302,7 +324,8 @@
       },
       "products": [
         "汽车玻璃"
-      ]
+      ],
+      "source": "http://www.fygi.com/content/details_518_29494.html"
     },
     {
       "id": "rel-018",
@@ -317,7 +340,8 @@
       },
       "products": [
         "汽车玻璃"
-      ]
+      ],
+      "source": "https://www.fuyaogroup.com/news_376.html"
     },
     {
       "id": "rel-019",
@@ -332,7 +356,8 @@
       },
       "products": [
         "汽车玻璃"
-      ]
+      ],
+      "source": "http://fygi.com/content/details_497_29489.html"
     },
     {
       "id": "rel-020",
@@ -347,7 +372,8 @@
       },
       "products": [
         "汽车玻璃"
-      ]
+      ],
+      "source": "https://www.fuyaogroup.com/news_362.html"
     },
     {
       "id": "rel-021",
@@ -362,7 +388,8 @@
       },
       "products": [
         "汽车玻璃"
-      ]
+      ],
+      "source": "https://www.fuyaogroup.com/news_362.html"
     },
     {
       "id": "rel-022",
@@ -379,7 +406,8 @@
       "status": "已投产",
       "overseas": {
         "country": "美国"
-      }
+      },
+      "source": "https://www.fuyaogroup.com/news_362.html"
     },
     {
       "id": "rel-023",
@@ -395,7 +423,8 @@
       "status": "已投产",
       "overseas": {
         "country": "德国"
-      }
+      },
+      "source": "https://www.fuyaogroup.com/about.php"
     },
     {
       "id": "rel-024",
@@ -410,7 +439,8 @@
       },
       "products": [
         "汽车电子"
-      ]
+      ],
+      "source": "https://www.joyson.com/index.php/about.html"
     },
     {
       "id": "rel-025",
@@ -425,7 +455,8 @@
       },
       "products": [
         "汽车电子"
-      ]
+      ],
+      "source": "http://www.jjckb.cn/20250917/846603739ae247abae4e39bb0557f40a/c.html"
     },
     {
       "id": "rel-026",
@@ -441,7 +472,8 @@
       "status": "已投产",
       "overseas": {
         "country": "德国"
-      }
+      },
+      "source": "https://news.hangzhou.com.cn/zjnews/content/2021-05/06/content_7958918_0.htm"
     },
     {
       "id": "rel-027",
@@ -457,7 +489,8 @@
       "status": "已投产",
       "overseas": {
         "country": "美国"
-      }
+      },
+      "source": "https://www.joyson.com/index.php/news/info/993.html"
     },
     {
       "id": "rel-028",
@@ -472,7 +505,8 @@
       },
       "products": [
         "车身零部件"
-      ]
+      ],
+      "source": "https://www.minthgroup.com/eng/channels/about4.html"
     },
     {
       "id": "rel-029",
@@ -487,7 +521,8 @@
       },
       "products": [
         "车身零部件"
-      ]
+      ],
+      "source": "https://www.minthgroup.com/eng/channels/about4.html"
     },
     {
       "id": "rel-030",
@@ -502,11 +537,12 @@
       },
       "products": [
         "车身零部件"
-      ]
+      ],
+      "source": "https://www.minthgroup.com/eng/channels/about4.html"
     },
     {
       "id": "rel-031",
-      "type": "overseas-factory",
+      "type": "overseas-office",
       "domestic": {
         "id": "cn-auto-006",
         "name": "敏实集团"
@@ -518,7 +554,8 @@
       "status": "已投产",
       "overseas": {
         "country": "日本"
-      }
+      },
+      "source": "https://www.minthgroup.com/eng/channels/about4.html"
     },
     {
       "id": "rel-032",
@@ -534,7 +571,8 @@
       "status": "已投产",
       "overseas": {
         "country": "美国"
-      }
+      },
+      "source": "https://m.gasgoo.com/news/70333327.html"
     },
     {
       "id": "rel-033",
@@ -549,7 +587,8 @@
       },
       "products": [
         "热管理系统"
-      ]
+      ],
+      "source": "https://www2.yicaiglobal.com/news/sanhua-gains-after-chinese-auto-parts-supplier-says-tesla-recall-isnt-linked-to-its-products"
     },
     {
       "id": "rel-034",
@@ -564,7 +603,8 @@
       },
       "products": [
         "热管理系统"
-      ]
+      ],
+      "source": "https://m.yicai.com/livetv/101957321.html"
     },
     {
       "id": "rel-035",
@@ -580,7 +620,8 @@
       "status": "已投产",
       "overseas": {
         "country": "墨西哥"
-      }
+      },
+      "source": "http://m.zqrb.cn/gscy/ggkx/2026-03-25/A1774402553228.html"
     },
     {
       "id": "rel-036",
@@ -596,7 +637,8 @@
       "status": "已投产",
       "overseas": {
         "country": "波兰"
-      }
+      },
+      "source": "http://m.zqrb.cn/gscy/ggkx/2026-03-25/A1774402553228.html"
     },
     {
       "id": "rel-037",
@@ -611,7 +653,8 @@
       },
       "products": [
         "万向节"
-      ]
+      ],
+      "source": "https://www.wxqc.com.cn/about.html"
     },
     {
       "id": "rel-038",
@@ -626,23 +669,8 @@
       },
       "products": [
         "万向节"
-      ]
-    },
-    {
-      "id": "rel-039",
-      "type": "overseas-factory",
-      "domestic": {
-        "id": "cn-auto-009",
-        "name": "万向钱潮"
-      },
-      "location": "美国",
-      "products": [
-        "万向节"
       ],
-      "status": "已投产",
-      "overseas": {
-        "country": "美国"
-      }
+      "source": "https://www.wxqc.com.cn/about.html"
     },
     {
       "id": "rel-040",
@@ -653,26 +681,12 @@
       },
       "overseas": {
         "name": "富士康",
-        "country": "台湾"
+        "country": "中国台湾"
       },
       "products": [
         "智能手机组装"
-      ]
-    },
-    {
-      "id": "rel-041",
-      "type": "supplier-customer",
-      "domestic": {
-        "id": "cn-tech-005",
-        "name": "小米"
-      },
-      "overseas": {
-        "name": "高通",
-        "country": "美国"
-      },
-      "products": [
-        "移动芯片"
-      ]
+      ],
+      "source": "http://m.eeo.com.cn/2019/0403/352465.shtml"
     },
     {
       "id": "rel-042",
@@ -682,8 +696,8 @@
         "name": "华为"
       },
       "overseas": {
-        "name": "欧洲运营商",
-        "country": "欧洲"
+        "name": "德国电信（Deutsche Telekom）",
+        "country": "德国"
       },
       "products": [
         "5G设备",
@@ -692,7 +706,8 @@
       "region": [
         "中国",
         "欧洲"
-      ]
+      ],
+      "source": "https://cww.net.cn/article?id=579043"
     },
     {
       "id": "rel-043",
@@ -702,8 +717,8 @@
         "name": "华为"
       },
       "overseas": {
-        "name": "中东运营商",
-        "country": "中东"
+        "name": "沙特电信（stc）",
+        "country": "沙特阿拉伯"
       },
       "products": [
         "通信设备"
@@ -711,7 +726,8 @@
       "region": [
         "中国",
         "中东"
-      ]
+      ],
+      "source": "https://www.huawei.com/cn/news/2026/8/microwave-magicswave-mb2-antenna"
     },
     {
       "id": "rel-044",
@@ -727,7 +743,9 @@
       "products": [
         "家电业务"
       ],
-      "year": "2016"
+      "year": "2016",
+      "source": "http://epaper.stcn.com/paper/zqsb/html/2016-07/01/content_844425.htm",
+      "since": "2016"
     },
     {
       "id": "rel-045",
@@ -743,7 +761,8 @@
       "status": "已投产",
       "overseas": {
         "country": "越南"
-      }
+      },
+      "source": "https://m.cls.cn/detail/1616456"
     },
     {
       "id": "rel-046",
@@ -759,7 +778,8 @@
       "status": "已投产",
       "overseas": {
         "country": "泰国"
-      }
+      },
+      "source": "https://finance.sina.com.cn/jjxw/2026-06-09/doc-iniavmyr1772523.shtml"
     },
     {
       "id": "rel-047",
@@ -775,7 +795,8 @@
       "status": "已投产",
       "overseas": {
         "country": "德国"
-      }
+      },
+      "source": "https://stcn.com/article/detail/732735.html"
     },
     {
       "id": "rel-048",
@@ -791,7 +812,9 @@
       "products": [
         "家电业务"
       ],
-      "year": "2016"
+      "year": "2016",
+      "source": "http://www.bjnews.com.cn/detail/155150554514032.html",
+      "since": "2016"
     },
     {
       "id": "rel-049",
@@ -807,7 +830,8 @@
       "status": "已投产",
       "overseas": {
         "country": "美国"
-      }
+      },
+      "source": "https://www.guanhai.com.cn/p/394311.html"
     },
     {
       "id": "rel-050",
@@ -823,7 +847,8 @@
       "status": "已投产",
       "overseas": {
         "country": "意大利"
-      }
+      },
+      "source": "https://www.haier.com/press-events/news/20110930_138605.shtml"
     },
     {
       "id": "rel-051",
@@ -839,7 +864,9 @@
       "status": "已投产",
       "overseas": {
         "country": "德国"
-      }
+      },
+      "source": "https://news.caijingmobile.com/article/detail/535592?source_id=40",
+      "since": "2009"
     },
     {
       "id": "rel-052",
@@ -855,7 +882,8 @@
       "status": "已投产",
       "overseas": {
         "country": "美国"
-      }
+      },
+      "source": "https://www.cgccusa.org/zh/past-events/china-general-chamber-of-commerce-usa-visits-georgia-for-member-company-visits-program"
     },
     {
       "id": "rel-053",
@@ -871,7 +899,8 @@
       "status": "已投产",
       "overseas": {
         "country": "巴西"
-      }
+      },
+      "source": "http://www.chexun.com/2026-07-15/114414217.html"
     },
     {
       "id": "rel-054",
@@ -887,7 +916,8 @@
       "status": "已投产",
       "overseas": {
         "country": "印度"
-      }
+      },
+      "source": "https://www.sany.in/news/sany-india-inaugurates-state-of-the-art-factory-expansion-to-maximize-production-accuracy/"
     },
     {
       "id": "rel-055",
@@ -903,7 +933,8 @@
       "status": "已投产",
       "overseas": {
         "country": "巴西"
-      }
+      },
+      "source": "http://world.people.com.cn/n1/2026/0726/c1002-40767924.html"
     },
     {
       "id": "rel-056",
@@ -919,7 +950,8 @@
       "status": "已投产",
       "overseas": {
         "country": "德国"
-      }
+      },
+      "source": "http://www.cnrmc.com/news/show.php?itemid=107461"
     },
     {
       "id": "rel-057",
@@ -935,7 +967,8 @@
       "status": "已投产",
       "overseas": {
         "country": "印度"
-      }
+      },
+      "source": "https://stock.stockstar.com/notice/JC2016061300005085.shtml"
     },
     {
       "id": "rel-058",
@@ -945,12 +978,13 @@
         "name": "药明康德"
       },
       "overseas": {
-        "name": "全球药企",
-        "country": "全球"
+        "name": "TESARO",
+        "country": "美国"
       },
       "products": [
         "CRO/CDMO服务"
-      ]
+      ],
+      "source": "https://www.outsourcedpharma.com/doc/sta-signs-year-supply-agreement-with-tesaro-0001"
     },
     {
       "id": "rel-059",
@@ -963,7 +997,8 @@
       "function": "研发/销售",
       "overseas": {
         "country": "美国"
-      }
+      },
+      "source": "https://m.163.com/dy/article/KADIB5E005349C3E.html"
     },
     {
       "id": "rel-060",
@@ -972,27 +1007,12 @@
         "id": "cn-pharma-001",
         "name": "药明康德"
       },
-      "location": "欧洲",
+      "location": "慕尼黑",
       "function": "研发/销售",
       "overseas": {
-        "country": "欧洲"
-      }
-    },
-    {
-      "id": "rel-061",
-      "type": "acquisition",
-      "domestic": {
-        "id": "cn-consumer-001",
-        "name": "安踏体育"
+        "country": "德国"
       },
-      "overseas": {
-        "name": "FILA",
-        "country": "意大利"
-      },
-      "products": [
-        "运动品牌"
-      ],
-      "year": "2009"
+      "source": "https://www.163.com/dy/article/L407CN0305349C3G.html"
     },
     {
       "id": "rel-062",
@@ -1008,7 +1028,9 @@
       "products": [
         "液压技术"
       ],
-      "year": "2012"
+      "year": "2012",
+      "source": "http://paper.ce.cn/jjrb/html/2012-12/29/content_139438.htm",
+      "since": "2012"
     },
     {
       "id": "rel-063",
@@ -1019,12 +1041,13 @@
       },
       "location": "德国",
       "products": [
-        "发动机"
+        "液压产品"
       ],
       "status": "已投产",
       "overseas": {
         "country": "德国"
-      }
+      },
+      "source": "https://finance.sina.com.cn/jjxw/2025-11-13/doc-infxftfz2632766.shtml"
     },
     {
       "id": "rel-064",
@@ -1040,7 +1063,8 @@
       "status": "已投产",
       "overseas": {
         "country": "美国"
-      }
+      },
+      "source": "https://www.weichaiamerica.com/"
     },
     {
       "id": "rel-065",
@@ -1055,7 +1079,9 @@
       },
       "products": [
         "替雷利珠单抗海外权益"
-      ]
+      ],
+      "source": "http://www.cnpharm.com/c/2021-01-13/772103.shtml",
+      "since": "2021"
     },
     {
       "id": "rel-066",
@@ -1065,7 +1091,8 @@
         "name": "长城汽车"
       },
       "overseas": {
-        "country": "俄罗斯"
+        "country": "俄罗斯",
+        "name": "哈弗俄罗斯图拉工厂"
       },
       "products": [
         "SUV"
@@ -1074,7 +1101,8 @@
       "location": "俄罗斯图拉州",
       "status": "已投产",
       "source": "http://auto.cnr.cn/gdzx/20190605/t20190605_524640629.shtml",
-      "capacity": "15万辆/年"
+      "capacity": "15万辆/年",
+      "purpose": "长城汽车俄罗斯图拉工厂2019年正式投产"
     },
     {
       "id": "rel-067",
@@ -1084,7 +1112,8 @@
         "name": "长城汽车"
       },
       "overseas": {
-        "country": "巴西"
+        "country": "巴西",
+        "name": "戴姆勒巴西伊拉塞马波利斯工厂(现为长城巴西工厂)"
       },
       "products": [
         "汽车"
@@ -1092,7 +1121,8 @@
       "since": "2025",
       "location": "巴西圣保罗州伊拉塞马波利斯",
       "status": "已投产",
-      "source": "https://finance.eastmoney.com/a/202508173486190593.html"
+      "source": "https://finance.eastmoney.com/a/202508173486190593.html",
+      "purpose": "2021年8月长城汽车与戴姆勒签署协议收购其巴西工厂,年内完成交接,改造后规划年产能10万辆、创造近2000个就业岗位"
     },
     {
       "id": "rel-068",
@@ -1136,7 +1166,7 @@
         "name": "天合光能"
       },
       "overseas": {
-        "country": "印尼"
+        "country": "印度尼西亚"
       },
       "products": [
         "光伏电池",
@@ -1276,13 +1306,15 @@
         "name": "传音"
       },
       "overseas": {
-        "country": "印度"
+        "country": "印度",
+        "name": "传音印度生产业务"
       },
       "products": [
         "手机"
       ],
       "location": "印度",
-      "source": "https://www.moneycontrol.com/news/business/transsion-taps-india-as-export-hub-for-africa-eyes-rural-5g-market-with-tecno-brand-push-13045574.html"
+      "source": "https://www.moneycontrol.com/news/business/transsion-taps-india-as-export-hub-for-africa-eyes-rural-5g-market-with-tecno-brand-push-13045574.html",
+      "purpose": "传音控股回应称其印度手机业务保持本地生产与销售;2024年4月另有报道印度代工大厂Dixon有意洽购传音印度业务"
     },
     {
       "id": "rel-079",
@@ -1422,7 +1454,7 @@
         "CPU/GPU 封测服务"
       ],
       "since": "2016",
-      "source": "https://yuanchuang.10jqka.com.cn/20230216/c644911229.shtml"
+      "source": "https://stcn.com/article/detail/3760924.html"
     },
     {
       "id": "rel-087",
@@ -1645,7 +1677,8 @@
         "name": "荣耀"
       },
       "overseas": {
-        "country": "孟加拉国"
+        "country": "孟加拉国",
+        "name": "Honor孟加拉首家工厂"
       },
       "products": [
         "智能手机"
@@ -1654,7 +1687,8 @@
       "location": "孟加拉国",
       "capacity": "约100万台/年(预计)",
       "status": "已投产",
-      "source": "http://sz.people.com.cn/n2/2025/1205/c202846-41433896.html"
+      "source": "http://sz.people.com.cn/n2/2025/1205/c202846-41433896.html",
+      "purpose": "2025年12月荣耀在孟加拉国首家工厂投产,年产能预计100万台,同期第120家海外体验店落成"
     },
     {
       "id": "rel-100",
@@ -1983,7 +2017,8 @@
       ],
       "location": "埃塞俄比亚亚的斯亚贝巴",
       "status": "已投产",
-      "source": "https://www.thereporterethiopia.com/1057/"
+      "source": "https://www.thereporterethiopia.com/1057/",
+      "purpose": "传音在埃塞俄比亚设厂开展手机本地化生产,2025年5月携本地制造产品亮相埃塞制造国家博览会"
     },
     {
       "id": "rel-119",
@@ -2083,7 +2118,7 @@
         "银行并购"
       ],
       "since": "2008",
-      "source": "https://paper.cnstock.com/html/2008-06/03/content_61903716.htm"
+      "source": "https://ac.cmbwinglungbank.com/wlb_corporate/cn/about-us/corporate-information/company-history.html"
     },
     {
       "id": "rel-125",
@@ -2245,7 +2280,8 @@
         "name": "长城汽车"
       },
       "overseas": {
-        "country": "泰国"
+        "country": "泰国",
+        "name": "通用汽车泰国罗勇府工厂(现为长城罗勇工厂)"
       },
       "products": [
         "哈弗H6 HEV",
@@ -2254,7 +2290,8 @@
       "since": "2021",
       "location": "泰国罗勇府",
       "status": "已投产",
-      "source": "https://wap.stockstar.com/detail/IG2025092400029474"
+      "source": "https://wap.stockstar.com/detail/IG2025092400029474",
+      "purpose": "2020年2月17日长城汽车宣布收购通用汽车位于泰国罗勇府的制造工厂,作为进军东盟市场的布局"
     },
     {
       "id": "rel-135",
@@ -2999,7 +3036,7 @@
       "since": "2014",
       "location": "尼日利亚",
       "status": "已投产",
-      "source": "http://www.chinadaily.com.cn/cndy/2019-04/26/content_37462607.htm"
+      "source": "https://m.thepaper.cn/baijiahao_11253980"
     },
     {
       "id": "rel-177",
@@ -3018,7 +3055,7 @@
       "since": "2016",
       "location": "巴基斯坦",
       "status": "已投产",
-      "source": "http://www.chinadaily.com.cn/cndy/2019-04/26/content_37462607.htm"
+      "source": "https://v.iqilu.com/sdws/sdxwlb/2017/0414/4418165.html"
     },
     {
       "id": "rel-178",
@@ -3037,7 +3074,7 @@
       "since": "2017",
       "location": "埃塞俄比亚",
       "status": "已投产",
-      "source": "http://www.chinadaily.com.cn/cndy/2019-04/26/content_37462607.htm"
+      "source": "https://www.cvworld.cn/news/sycnews/etpse/171129/141051.html"
     },
     {
       "id": "rel-179",
@@ -3346,7 +3383,7 @@
       },
       "since": "2009",
       "purpose": "双方互购对方10亿美元股权，西班牙电信增持联通至约8%股份，结成战略联盟",
-      "source": "http://www.chinadaily.com.cn/hqcj/2009-09/07/content_8662076.htm"
+      "source": "https://epaper.cs.com.cn/zgzqb/html/2009-09/07/nw.D110000zgzqb_20090907_4-C004.htm?div=-1"
     },
     {
       "id": "rel-197",
@@ -3784,7 +3821,7 @@
       },
       "since": "2007",
       "purpose": "2007年中铝以约8.6亿美元全面收购在多伦多、纽约、利马三地上市的秘鲁铜业公司,开发特罗莫科铜矿。",
-      "source": "http://paper.cnstock.com/html/2007-08/16/content_58946660.htm"
+      "source": "http://paper.people.com.cn/rmrbhwb/html/2013-12/12/content_1360702.htm"
     },
     {
       "id": "rel-226",
@@ -3903,7 +3940,7 @@
       },
       "since": "2010",
       "purpose": "2010年12月与2012年12月分两次收购12家输电特许权公司100%股权,正式进入南美电力市场",
-      "source": "https://fdi.mofcom.gov.cn/resource/pdf/2020/06/02/f8713ab0b4cc4db8ae1c5cc15bf02a8a.pdf"
+      "source": "https://www.jiemian.com/article/726155_foxit.html"
     },
     {
       "id": "rel-234",
@@ -4444,7 +4481,7 @@
       "location": "北方邦大诺伊达(Greater Noida)",
       "since": "2016",
       "purpose": "2016年OPPO在印度北方邦大诺伊达启动本地手机制造,同年12月宣布投资约2.16亿美元建设工业园,月产能规划达百万台级",
-      "source": "http://www.chinadaily.com.cn/bizchina/tech/2016-12/28/content_27798623.htm"
+      "source": "https://www.cena.com.cn/cellphone/20161228/83887.html"
     },
     {
       "id": "rel-270",
@@ -4556,37 +4593,6 @@
       "source": "https://www.ecofinagency.com/news-digital/2104-54870-chinese-smartphone-maker-honor-expands-production-in-egypt-positions-country-as-regional-hub"
     },
     {
-      "id": "rel-277",
-      "type": "overseas-factory",
-      "domestic": {
-        "id": "cn-tech-012",
-        "name": "荣耀"
-      },
-      "overseas": {
-        "country": "孟加拉国",
-        "name": "Honor孟加拉首家工厂"
-      },
-      "location": "孟加拉国",
-      "since": "2025",
-      "purpose": "2025年12月荣耀在孟加拉国首家工厂投产,年产能预计100万台,同期第120家海外体验店落成",
-      "source": "http://sz.people.com.cn/n2/2025/1205/c202846-41433896.html"
-    },
-    {
-      "id": "rel-278",
-      "type": "overseas-factory",
-      "domestic": {
-        "id": "cn-tech-008",
-        "name": "传音"
-      },
-      "overseas": {
-        "country": "埃塞俄比亚",
-        "name": "传音埃塞俄比亚工厂"
-      },
-      "location": "埃塞俄比亚",
-      "purpose": "传音在埃塞俄比亚设厂开展手机本地化生产,2025年5月携本地制造产品亮相埃塞制造国家博览会",
-      "source": "https://stcn.com/article/detail/1839623.html"
-    },
-    {
       "id": "rel-279",
       "type": "overseas-factory",
       "domestic": {
@@ -4600,21 +4606,6 @@
       "location": "孟加拉国",
       "purpose": "中国日报2023年6月报道传音在孟加拉国本地化生产手机并培养当地产业工人",
       "source": "http://epaper.chinadaily.com.cn/a/202306/05/WS647d034da3106e73106c42a3.html"
-    },
-    {
-      "id": "rel-280",
-      "type": "overseas-factory",
-      "domestic": {
-        "id": "cn-tech-008",
-        "name": "传音"
-      },
-      "overseas": {
-        "country": "印度",
-        "name": "传音印度生产业务"
-      },
-      "location": "印度",
-      "purpose": "传音控股回应称其印度手机业务保持本地生产与销售;2024年4月另有报道印度代工大厂Dixon有意洽购传音印度业务",
-      "source": "https://m.cls.cn/detail/743859"
     },
     {
       "id": "rel-281",
@@ -4936,54 +4927,6 @@
       "source": "https://www.sohu.com/a/992388433_100116740"
     },
     {
-      "id": "rel-302",
-      "type": "overseas-factory",
-      "domestic": {
-        "id": "cn-auto-011",
-        "name": "长城汽车"
-      },
-      "overseas": {
-        "country": "俄罗斯",
-        "name": "哈弗俄罗斯图拉工厂"
-      },
-      "location": "图拉州",
-      "since": "2019",
-      "purpose": "长城汽车俄罗斯图拉工厂2019年正式投产",
-      "source": "https://cinic.org.cn/zgzz/pp/745410.html"
-    },
-    {
-      "id": "rel-303",
-      "type": "overseas-factory",
-      "domestic": {
-        "id": "cn-auto-011",
-        "name": "长城汽车"
-      },
-      "overseas": {
-        "country": "泰国",
-        "name": "通用汽车泰国罗勇府工厂(现为长城罗勇工厂)"
-      },
-      "location": "罗勇府(Rayong)",
-      "since": "2020",
-      "purpose": "2020年2月17日长城汽车宣布收购通用汽车位于泰国罗勇府的制造工厂,作为进军东盟市场的布局",
-      "source": "https://m.jiemian.com/article/3994693.html"
-    },
-    {
-      "id": "rel-304",
-      "type": "overseas-factory",
-      "domestic": {
-        "id": "cn-auto-011",
-        "name": "长城汽车"
-      },
-      "overseas": {
-        "country": "巴西",
-        "name": "戴姆勒巴西伊拉塞马波利斯工厂(现为长城巴西工厂)"
-      },
-      "location": "伊拉塞马波利斯(Iracemápolis)",
-      "since": "2021",
-      "purpose": "2021年8月长城汽车与戴姆勒签署协议收购其巴西工厂,年内完成交接,改造后规划年产能10万辆、创造近2000个就业岗位",
-      "source": "http://www.ecns.cn/m/business/2021-08-23/detail-ihaqkfpn8668171.shtml"
-    },
-    {
       "id": "rel-305",
       "type": "supplier-customer",
       "domestic": {
@@ -5216,12 +5159,13 @@
         "name": "中国中铁"
       },
       "overseas": {
-        "name": "匈塞铁路贝尔格莱德—诺维萨德段(贝诺段)",
-        "country": "塞尔维亚"
+        "name": "匈塞铁路匈牙利段(绍鲍德莎拉什牵引变电所等四电工程)",
+        "country": "匈牙利"
       },
-      "since": "2022",
-      "purpose": "中国中铁牵头承建塞尔维亚贝尔格莱德至诺维萨德高速铁路(匈塞铁路贝诺段),2022年3月开通运营",
-      "source": "https://m.thepaper.cn/kuaibao_detail.jsp?contid=17190566"
+      "since": "2025",
+      "purpose": "中国中铁承建匈塞铁路匈牙利段绍鲍德莎拉什牵引变电所等\"四电\"工程,2025年送电成功",
+      "source": "https://www.crec.cn//web/xwzx61/gsyw87/2025101015180928907/index.html",
+      "location": "匈牙利, 绍鲍德莎拉什"
     },
     {
       "id": "rel-321",
@@ -5403,7 +5347,7 @@
       "location": "卡拉巴德, 吉尔吉斯斯坦",
       "since": "2014",
       "purpose": "陕煤集团控股的中亚能源在吉尔吉斯斯坦楚河州卡拉巴德市运营中大石油炼油项目,系中企在吉投资规模最大的工业项目,已复产并连续盈利",
-      "source": "https://shccig.com/detail/1421471"
+      "source": "http://paper.people.com.cn/rmrb/pc/content/202608/07/content_30173566.html"
     },
     {
       "id": "rel-333",
@@ -5838,7 +5782,7 @@
       },
       "since": "2025",
       "purpose": "DeepSeek-R1于2025年1月上线微软Azure AI Foundry和GitHub,面向海外开发者提供",
-      "source": "https://azure.microsoft.com/en-us/blog/deepseek-r1-now-available-on-azure-ai-foundry-and-github/"
+      "source": "https://news.microsoft.com/ja-jp/features/250130-deepseek-r1-is-now-available-on-azure-ai-foundry-and-github/"
     },
     {
       "id": "rel-361",
@@ -6050,7 +5994,7 @@
       },
       "since": "2015",
       "purpose": "2015年起与艾芬豪矿业合资开发卡莫阿-卡库拉铜矿,全球最大级铜矿项目之一",
-      "source": "https://www.ivanhoemines.com/what-we-do/operations-projects/kamoa-kakula-mining-complex/"
+      "source": "http://my.fjsen.com/2021-05/31/content_30742656.htm"
     },
     {
       "id": "rel-375",
@@ -6255,27 +6199,6 @@
       "source": "https://www.foodbusinessmea.com/chinas-chagee-enters-u-s-market-with-first-store-in-los-angeles/"
     },
     {
-      "id": "rel-388",
-      "type": "joint-venture",
-      "domestic": {
-        "id": "cn-tech-032",
-        "name": "科大讯飞"
-      },
-      "overseas": {
-        "name": "Google",
-        "country": "美国"
-      },
-      "products": [
-        "AI语音",
-        "翻译引擎"
-      ],
-      "since": "2019",
-      "region": [
-        "中国",
-        "北美"
-      ]
-    },
-    {
       "id": "rel-389",
       "type": "supplier-customer",
       "domestic": {
@@ -6290,11 +6213,12 @@
         "AI视觉",
         "自动驾驶感知"
       ],
-      "since": "2020",
+      "since": "2017",
       "region": [
         "中国",
         "亚太"
-      ]
+      ],
+      "source": "https://tech.huanqiu.com/article/9CaKrnK60ua"
     },
     {
       "id": "rel-390",
@@ -6314,7 +6238,8 @@
       "region": [
         "中国",
         "欧洲"
-      ]
+      ],
+      "source": "https://volkswagengroupchina.com.cn/MediaCenter/News/Detail?itemid=d5c83a3e-afc2-46c7-b9e7-c77326260cce"
     },
     {
       "id": "rel-391",
@@ -6334,7 +6259,8 @@
       "region": [
         "中国",
         "亚太"
-      ]
+      ],
+      "source": "https://stcn.com/article/detail/1256355.html"
     },
     {
       "id": "rel-392",
@@ -6354,27 +6280,8 @@
       "region": [
         "中国",
         "北美"
-      ]
-    },
-    {
-      "id": "rel-393",
-      "type": "supplier-customer",
-      "domestic": {
-        "id": "cn-tech-038",
-        "name": "深势科技"
-      },
-      "overseas": {
-        "name": "BASF",
-        "country": "德国"
-      },
-      "products": [
-        "AI分子模拟"
       ],
-      "since": "2022",
-      "region": [
-        "中国",
-        "欧洲"
-      ]
+      "source": "https://stcn.com/article/detail/3324432.html"
     },
     {
       "id": "rel-394",
@@ -6384,7 +6291,7 @@
         "name": "思必驰"
       },
       "overseas": {
-        "name": "宝马",
+        "name": "梅赛德斯-奔驰",
         "country": "德国"
       },
       "products": [
@@ -6394,48 +6301,8 @@
       "region": [
         "中国",
         "欧洲"
-      ]
-    },
-    {
-      "id": "rel-395",
-      "type": "supplier-customer",
-      "domestic": {
-        "id": "cn-tech-040",
-        "name": "第四范式"
-      },
-      "overseas": {
-        "name": "丰田",
-        "country": "日本"
-      },
-      "products": [
-        "企业AI平台"
       ],
-      "since": "2022",
-      "region": [
-        "中国",
-        "亚太"
-      ]
-    },
-    {
-      "id": "rel-396",
-      "type": "joint-venture",
-      "domestic": {
-        "id": "cn-tech-044",
-        "name": "涂鸦智能"
-      },
-      "overseas": {
-        "name": "Google",
-        "country": "美国"
-      },
-      "products": [
-        "IoT平台",
-        "智能家居"
-      ],
-      "since": "2019",
-      "region": [
-        "中国",
-        "北美"
-      ]
+      "source": "https://auto.gasgoo.com/news/202512/5I70438426C501.shtml"
     },
     {
       "id": "rel-397",
@@ -6456,7 +6323,8 @@
       "region": [
         "中国",
         "北美"
-      ]
+      ],
+      "source": "https://stcn.com/article/detail/4170603.html"
     },
     {
       "id": "rel-398",
@@ -6477,7 +6345,8 @@
       "region": [
         "中国",
         "亚太"
-      ]
+      ],
+      "source": "http://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603986&id=5970876"
     },
     {
       "id": "rel-399",
@@ -6493,51 +6362,12 @@
       "products": [
         "射频芯片"
       ],
-      "since": "2020",
+      "since": "2015",
       "region": [
         "中国",
         "亚太"
-      ]
-    },
-    {
-      "id": "rel-400",
-      "type": "supplier-customer",
-      "domestic": {
-        "id": "cn-semi-012",
-        "name": "澜起科技"
-      },
-      "overseas": {
-        "name": "Intel",
-        "country": "美国"
-      },
-      "products": [
-        "内存接口芯片"
       ],
-      "since": "2018",
-      "region": [
-        "中国",
-        "北美"
-      ]
-    },
-    {
-      "id": "rel-401",
-      "type": "supplier-customer",
-      "domestic": {
-        "id": "cn-semi-013",
-        "name": "全志科技"
-      },
-      "overseas": {
-        "name": "Google",
-        "country": "美国"
-      },
-      "products": [
-        "SoC芯片"
-      ],
-      "since": "2016",
-      "region": [
-        "中国",
-        "北美"
-      ]
+      "source": "https://finance.jrj.com.cn/2019/05/15220427575171.shtml"
     },
     {
       "id": "rel-402",
@@ -6557,31 +6387,12 @@
       "region": [
         "中国",
         "北美"
-      ]
-    },
-    {
-      "id": "rel-403",
-      "type": "supplier-customer",
-      "domestic": {
-        "id": "cn-semi-015",
-        "name": "纳芯微"
-      },
-      "overseas": {
-        "name": "博世",
-        "country": "德国"
-      },
-      "products": [
-        "传感器信号链芯片"
       ],
-      "since": "2021",
-      "region": [
-        "中国",
-        "欧洲"
-      ]
+      "source": "https://www.rock-chips.com/a/en/News/Press_Releases/2018/0328/895.html"
     },
     {
       "id": "rel-404",
-      "type": "joint-venture",
+      "type": "licensing",
       "domestic": {
         "id": "cn-semi-016",
         "name": "芯原股份"
@@ -6597,7 +6408,8 @@
       "region": [
         "中国",
         "北美"
-      ]
+      ],
+      "source": "https://wap.stockstar.com/detail/SS2019092300000176"
     },
     {
       "id": "rel-405",
@@ -6617,47 +6429,8 @@
       "region": [
         "中国",
         "北美"
-      ]
-    },
-    {
-      "id": "rel-406",
-      "type": "supplier-customer",
-      "domestic": {
-        "id": "cn-semi-019",
-        "name": "拓荆科技"
-      },
-      "overseas": {
-        "name": "TSMC",
-        "country": "中国台湾"
-      },
-      "products": [
-        "PECVD设备"
       ],
-      "since": "2020",
-      "region": [
-        "中国",
-        "亚太"
-      ]
-    },
-    {
-      "id": "rel-407",
-      "type": "supplier-customer",
-      "domestic": {
-        "id": "cn-semi-021",
-        "name": "安集科技"
-      },
-      "overseas": {
-        "name": "TSMC",
-        "country": "中国台湾"
-      },
-      "products": [
-        "CMP抛光液"
-      ],
-      "since": "2019",
-      "region": [
-        "中国",
-        "亚太"
-      ]
+      "source": "https://finance.ifeng.com/c/7nsh0y4fj4f"
     },
     {
       "id": "rel-408",
@@ -6678,7 +6451,8 @@
       "region": [
         "中国",
         "北美"
-      ]
+      ],
+      "source": "http://www.xinhuanet.com//world/2015-10/12/c_1116794393.htm"
     },
     {
       "id": "rel-409",
@@ -6699,7 +6473,8 @@
       "region": [
         "中国",
         "北美"
-      ]
+      ],
+      "source": "https://epaper.cs.com.cn/zgzqb/html/2021-02/02/nw.D110000zgzqb_20210202_6-B062.htm"
     },
     {
       "id": "rel-410",
@@ -6720,7 +6495,8 @@
       "region": [
         "中国",
         "欧洲"
-      ]
+      ],
+      "source": "http://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300759&id=4975054"
     },
     {
       "id": "rel-411",
@@ -6741,91 +6517,8 @@
       "region": [
         "中国",
         "北美"
-      ]
-    },
-    {
-      "id": "rel-412",
-      "type": "outsourcing",
-      "domestic": {
-        "id": "cn-pharma-011",
-        "name": "智飞生物"
-      },
-      "overseas": {
-        "name": "默沙东",
-        "country": "美国"
-      },
-      "products": [
-        "HPV疫苗",
-        "五价轮状疫苗"
       ],
-      "since": "2011",
-      "region": [
-        "中国",
-        "北美"
-      ]
-    },
-    {
-      "id": "rel-413",
-      "type": "supplier-customer",
-      "domestic": {
-        "id": "cn-pharma-012",
-        "name": "药明生物"
-      },
-      "overseas": {
-        "name": "Moderna",
-        "country": "美国"
-      },
-      "products": [
-        "生物药CDMO",
-        "mRNA生产"
-      ],
-      "since": "2020",
-      "region": [
-        "中国",
-        "北美"
-      ]
-    },
-    {
-      "id": "rel-414",
-      "type": "joint-venture",
-      "domestic": {
-        "id": "cn-pharma-013",
-        "name": "华大基因"
-      },
-      "overseas": {
-        "name": "Illumina",
-        "country": "美国"
-      },
-      "products": [
-        "基因测序",
-        "NGS平台"
-      ],
-      "since": "2010",
-      "region": [
-        "中国",
-        "北美"
-      ]
-    },
-    {
-      "id": "rel-415",
-      "type": "licensing",
-      "domestic": {
-        "id": "cn-pharma-014",
-        "name": "爱尔眼科"
-      },
-      "overseas": {
-        "name": "Vision Foundation",
-        "country": "美国"
-      },
-      "products": [
-        "眼科技术",
-        "学术研究"
-      ],
-      "since": "2019",
-      "region": [
-        "中国",
-        "北美"
-      ]
+      "source": "https://caifuhao.eastmoney.com/news/20240223195008465315370"
     },
     {
       "id": "rel-416",
@@ -6846,7 +6539,8 @@
       "region": [
         "中国",
         "欧洲"
-      ]
+      ],
+      "source": "https://finance.sina.cn/stock/ssgs/2018-08-30/detail-ihikcahf7538227.d.html"
     },
     {
       "id": "rel-417",
@@ -6867,70 +6561,8 @@
       "region": [
         "中国",
         "北美"
-      ]
-    },
-    {
-      "id": "rel-418",
-      "type": "supplier-customer",
-      "domestic": {
-        "id": "cn-pharma-017",
-        "name": "华大智造"
-      },
-      "overseas": {
-        "name": "Illumina",
-        "country": "美国"
-      },
-      "products": [
-        "基因测序仪",
-        "DNBSEQ"
       ],
-      "since": "2016",
-      "region": [
-        "中国",
-        "北美"
-      ]
-    },
-    {
-      "id": "rel-419",
-      "type": "outsourcing",
-      "domestic": {
-        "id": "cn-consumer-017",
-        "name": "追觅科技"
-      },
-      "overseas": {
-        "name": "Amazon",
-        "country": "美国"
-      },
-      "products": [
-        "扫地机器人",
-        "吸尘器"
-      ],
-      "since": "2017",
-      "region": [
-        "中国",
-        "北美"
-      ]
-    },
-    {
-      "id": "rel-420",
-      "type": "outsourcing",
-      "domestic": {
-        "id": "cn-consumer-018",
-        "name": "科沃斯"
-      },
-      "overseas": {
-        "name": "Amazon",
-        "country": "美国"
-      },
-      "products": [
-        "扫地机器人",
-        "智能家居"
-      ],
-      "since": "2015",
-      "region": [
-        "中国",
-        "北美"
-      ]
+      "source": "https://www.merck.com/news/merck-and-kelun-biotech-announce-exclusive-license-and-collaboration-agreement-for-seven-investigational-antibody-drug-conjugate-candidates-for-the-treatment-of-cancer/"
     },
     {
       "id": "rel-421",
@@ -6951,88 +6583,8 @@
       "region": [
         "中国",
         "北美"
-      ]
-    },
-    {
-      "id": "rel-422",
-      "type": "acquisition",
-      "domestic": {
-        "id": "cn-home-005",
-        "name": "苏泊尔"
-      },
-      "overseas": {
-        "name": "SEB集团",
-        "country": "法国"
-      },
-      "products": [
-        "厨电",
-        "小家电"
       ],
-      "since": "2007",
-      "region": [
-        "中国",
-        "欧洲"
-      ]
-    },
-    {
-      "id": "rel-423",
-      "type": "outsourcing",
-      "domestic": {
-        "id": "cn-home-007",
-        "name": "新宝股份"
-      },
-      "overseas": {
-        "name": "SharkNinja",
-        "country": "美国"
-      },
-      "products": [
-        "厨房小家电",
-        "清洁电器"
-      ],
-      "since": "2018",
-      "region": [
-        "中国",
-        "北美"
-      ]
-    },
-    {
-      "id": "rel-424",
-      "type": "joint-venture",
-      "domestic": {
-        "id": "cn-home-008",
-        "name": "德尔玛"
-      },
-      "overseas": {
-        "name": "小米",
-        "country": "中国"
-      },
-      "products": [
-        "吸尘器",
-        "小家电"
-      ],
-      "since": "2016",
-      "region": "中国"
-    },
-    {
-      "id": "rel-425",
-      "type": "joint-venture",
-      "domestic": {
-        "id": "cn-home-009",
-        "name": "极米科技"
-      },
-      "overseas": {
-        "name": "Google",
-        "country": "美国"
-      },
-      "products": [
-        "智能投影",
-        "Android TV"
-      ],
-      "since": "2019",
-      "region": [
-        "中国",
-        "北美"
-      ]
+      "source": "http://politics.people.com.cn/BIG5/n/2015/0506/c70731-26954046.html"
     },
     {
       "id": "rel-426",
@@ -7052,28 +6604,8 @@
       "region": [
         "中国",
         "欧洲"
-      ]
-    },
-    {
-      "id": "rel-427",
-      "type": "joint-venture",
-      "domestic": {
-        "id": "cn-other-022",
-        "name": "汇川技术"
-      },
-      "overseas": {
-        "name": "博世",
-        "country": "德国"
-      },
-      "products": [
-        "伺服系统",
-        "工业自动化"
       ],
-      "since": "2015",
-      "region": [
-        "中国",
-        "欧洲"
-      ]
+      "source": "https://epaper.cs.com.cn/zgzqb/html/2019-11/01/nw.D110000zgzqb_20191101_5-B045.htm"
     },
     {
       "id": "rel-428",
@@ -7094,28 +6626,8 @@
       "region": [
         "中国",
         "北美"
-      ]
-    },
-    {
-      "id": "rel-429",
-      "type": "supplier-customer",
-      "domestic": {
-        "id": "cn-other-025",
-        "name": "利元亨"
-      },
-      "overseas": {
-        "name": "Northvolt",
-        "country": "瑞典"
-      },
-      "products": [
-        "锂电池装备",
-        "智能制造"
       ],
-      "since": "2021",
-      "region": [
-        "中国",
-        "欧洲"
-      ]
+      "source": "https://finance.eastmoney.com/a/202601193623505887.html"
     },
     {
       "id": "rel-430",
@@ -7129,35 +6641,15 @@
         "country": "荷兰"
       },
       "products": [
-        "维生素",
-        "营养配料"
+        "工程塑料",
+        "PPS改性材料"
       ],
-      "since": "2010",
+      "since": "2015",
       "region": [
         "中国",
         "欧洲"
-      ]
-    },
-    {
-      "id": "rel-431",
-      "type": "supplier-customer",
-      "domestic": {
-        "id": "cn-other-030",
-        "name": "中国中冶"
-      },
-      "overseas": {
-        "name": "BHP",
-        "country": "澳大利亚"
-      },
-      "products": [
-        "矿业工程",
-        "冶金建设"
       ],
-      "since": "2010",
-      "region": [
-        "中国",
-        "大洋洲"
-      ]
+      "source": "http://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002001&id=1799523"
     },
     {
       "id": "rel-432",
@@ -7178,28 +6670,8 @@
       "region": [
         "中国",
         "北美"
-      ]
-    },
-    {
-      "id": "rel-433",
-      "type": "joint-venture",
-      "domestic": {
-        "id": "cn-other-033",
-        "name": "中控技术"
-      },
-      "overseas": {
-        "name": "SAP",
-        "country": "德国"
-      },
-      "products": [
-        "工业软件",
-        "DCS系统"
       ],
-      "since": "2018",
-      "region": [
-        "中国",
-        "欧洲"
-      ]
+      "source": "https://finance.sina.com.cn/roll/2021-08-20/doc-ikqciyzm2662324.shtml"
     },
     {
       "id": "rel-434",
@@ -7220,7 +6692,8 @@
       "region": [
         "中国",
         "亚太"
-      ]
+      ],
+      "source": "https://epaper.cs.com.cn/zgzqb/html/2013-08/01/nw.D110000zgzqb_20130801_4-B006.htm?div=-1"
     },
     {
       "id": "rel-435",
@@ -7237,111 +6710,12 @@
         "财富管理",
         "资产配置"
       ],
-      "since": "2019",
-      "region": [
-        "中国",
-        "北美"
-      ]
-    },
-    {
-      "id": "rel-436",
-      "type": "joint-venture",
-      "domestic": {
-        "id": "cn-fin-017",
-        "name": "蚂蚁集团"
-      },
-      "overseas": {
-        "name": "PayPal",
-        "country": "美国"
-      },
-      "products": [
-        "移动支付",
-        "跨境支付"
-      ],
       "since": "2016",
       "region": [
         "中国",
         "北美"
-      ]
-    },
-    {
-      "id": "rel-437",
-      "type": "acquisition",
-      "domestic": {
-        "id": "cn-fin-018",
-        "name": "陆金所"
-      },
-      "overseas": {
-        "name": "平安集团",
-        "country": "中国"
-      },
-      "products": [
-        "财富管理",
-        "金融科技"
       ],
-      "since": "2011",
-      "region": "中国"
-    },
-    {
-      "id": "rel-438",
-      "type": "joint-venture",
-      "domestic": {
-        "id": "cn-energy-031",
-        "name": "派能科技"
-      },
-      "overseas": {
-        "name": "Varta",
-        "country": "德国"
-      },
-      "products": [
-        "户用储能电池"
-      ],
-      "since": "2019",
-      "region": [
-        "中国",
-        "欧洲"
-      ]
-    },
-    {
-      "id": "rel-439",
-      "type": "supplier-customer",
-      "domestic": {
-        "id": "cn-energy-032",
-        "name": "鹏辉能源"
-      },
-      "overseas": {
-        "name": "Powin",
-        "country": "美国"
-      },
-      "products": [
-        "储能电池"
-      ],
-      "since": "2020",
-      "region": [
-        "中国",
-        "北美"
-      ]
-    },
-    {
-      "id": "rel-440",
-      "type": "joint-venture",
-      "domestic": {
-        "id": "cn-energy-033",
-        "name": "科陆电子"
-      },
-      "overseas": {
-        "name": "Fluence",
-        "country": "美国"
-      },
-      "products": [
-        "储能系统",
-        "智能电网"
-      ],
-      "since": "2019",
-      "region": [
-        "中国",
-        "北美"
-      ]
+      "source": "https://epaper.cs.com.cn/zgzqb/html/2016-11/02/nw.D110000zgzqb_20161102_8-B006.htm?div=-1"
     },
     {
       "id": "rel-441",
@@ -7352,7 +6726,7 @@
       },
       "overseas": {
         "name": "SABIC",
-        "country": "沙特"
+        "country": "沙特阿拉伯"
       },
       "products": [
         "化工工程",
@@ -7362,67 +6736,8 @@
       "region": [
         "中国",
         "中东"
-      ]
-    },
-    {
-      "id": "rel-442",
-      "type": "supplier-customer",
-      "domestic": {
-        "id": "cn-build-008",
-        "name": "中国建材"
-      },
-      "overseas": {
-        "name": "ADNOC",
-        "country": "阿联酋"
-      },
-      "products": [
-        "建材项目",
-        "水泥工程"
       ],
-      "since": "2018",
-      "region": [
-        "中国",
-        "中东"
-      ]
-    },
-    {
-      "id": "rel-443",
-      "type": "supplier-customer",
-      "domestic": {
-        "id": "cn-build-009",
-        "name": "金螳螂"
-      },
-      "overseas": {
-        "name": "Wynn Resorts",
-        "country": "美国"
-      },
-      "products": [
-        "酒店装饰",
-        "室内设计"
-      ],
-      "since": "2015",
-      "region": [
-        "中国",
-        "北美"
-      ]
-    },
-    {
-      "id": "rel-444",
-      "type": "joint-venture",
-      "domestic": {
-        "id": "cn-auto-027",
-        "name": "哪吒汽车"
-      },
-      "overseas": {
-        "name": "文远知行",
-        "country": "中国"
-      },
-      "products": [
-        "智能驾驶",
-        "Robotaxi"
-      ],
-      "since": "2023",
-      "region": "中国"
+      "source": "https://chem.jgvogel.cn/c1568460.shtml"
     },
     {
       "id": "rel-445",
@@ -7439,11 +6754,13 @@
         "智能座舱",
         "车载系统"
       ],
-      "since": "2019",
+      "since": "2021",
       "region": [
         "中国",
         "欧洲"
-      ]
+      ],
+      "source": "https://www.chinanews.com.cn/auto/2021/03-23/9438814.shtml",
+      "location": "瑞典哥德堡"
     },
     {
       "id": "rel-446",
@@ -7464,7 +6781,8 @@
       "region": [
         "中国",
         "欧洲"
-      ]
+      ],
+      "source": "https://company.cnstock.com/company/scp_gsxw/202209/4960112.htm"
     },
     {
       "id": "rel-447",
@@ -7485,11 +6803,12 @@
       "region": [
         "中国",
         "欧洲"
-      ]
+      ],
+      "source": "https://www.9fzt.com/detail/sz_000887_10_834835240603.html"
     },
     {
       "id": "rel-448",
-      "type": "joint-venture",
+      "type": "supplier-customer",
       "domestic": {
         "id": "cn-auto-032",
         "name": "精锻科技"
@@ -7506,7 +6825,8 @@
       "region": [
         "中国",
         "欧洲"
-      ]
+      ],
+      "source": "https://www.ppforging.com/index.php/about_detail.html"
     },
     {
       "id": "rel-449",
@@ -7527,7 +6847,8 @@
       "region": [
         "中国",
         "南美"
-      ]
+      ],
+      "source": "https://news.sina.cn/2018-12-05/detail-ihmutuec6245456.d.html"
     },
     {
       "id": "rel-450",
@@ -7541,18 +6862,18 @@
         "country": "美国"
       },
       "products": [
-        "锂矿",
-        "电池级碳酸锂"
+        "电池级氢氧化锂"
       ],
       "since": "2022",
       "region": [
         "中国",
         "北美"
-      ]
+      ],
+      "source": "https://ggjd.cnstock.com/company/scp_ggjd/tjd_ggkx/202111/4776050.htm"
     },
     {
       "id": "rel-451",
-      "type": "joint-venture",
+      "type": "acquisition",
       "domestic": {
         "id": "cn-metal-015",
         "name": "洛阳钼业"
@@ -7565,15 +6886,16 @@
         "铜矿",
         "钴矿"
       ],
-      "since": "2013",
+      "since": "2016",
       "region": [
         "中国",
         "北美"
-      ]
+      ],
+      "source": "http://finance.china.com.cn/roll/20160516/3723695.shtml"
     },
     {
       "id": "rel-452",
-      "type": "joint-venture",
+      "type": "supplier-customer",
       "domestic": {
         "id": "cn-logi-006",
         "name": "极兔速递"
@@ -7586,15 +6908,16 @@
         "快递物流",
         "电商配送"
       ],
-      "since": "2015",
+      "since": "2017",
       "region": [
         "中国",
         "亚太"
-      ]
+      ],
+      "source": "https://news.qq.com/rain/a/20230719A04UA700"
     },
     {
       "id": "rel-453",
-      "type": "joint-venture",
+      "type": "supplier-customer",
       "domestic": {
         "id": "cn-logi-007",
         "name": "纵腾集团"
@@ -7611,28 +6934,8 @@
       "region": [
         "中国",
         "北美"
-      ]
-    },
-    {
-      "id": "rel-454",
-      "type": "acquisition",
-      "domestic": {
-        "id": "cn-logi-008",
-        "name": "中通快递"
-      },
-      "overseas": {
-        "name": "Lyft",
-        "country": "美国"
-      },
-      "products": [
-        "物流科技",
-        "最后一公里"
       ],
-      "since": "2019",
-      "region": [
-        "中国",
-        "北美"
-      ]
+      "source": "https://www.goodcang.com/news/details?newsId=987"
     },
     {
       "id": "rel-455",
@@ -7653,17 +6956,18 @@
       "region": [
         "中国",
         "北美"
-      ]
+      ],
+      "source": "https://finance.sina.com.cn/stock/relnews/cn/2019-07-15/doc-ihytcitm2127022.shtml"
     },
     {
       "id": "rel-456",
-      "type": "overseas-factory",
+      "type": "supplier-customer",
       "domestic": {
         "id": "cn-build-003",
         "name": "中国铁建"
       },
       "overseas": {
-        "name": "尼日利亚铁路公司",
+        "name": "尼日利亚联邦政府交通部",
         "country": "尼日利亚"
       },
       "products": [
@@ -7675,11 +6979,12 @@
         "中国",
         "非洲"
       ],
-      "location": "尼日利亚, 尼日利亚铁路公司"
+      "location": "尼日利亚, 阿布贾—卡杜纳",
+      "source": "https://news.cri.cn/20160727/f3eda9ab-ec95-94b3-1800-78e9b0b86053.html"
     },
     {
       "id": "rel-457",
-      "type": "overseas-factory",
+      "type": "supplier-customer",
       "domestic": {
         "id": "cn-build-005",
         "name": "中国电建"
@@ -7697,151 +7002,31 @@
         "中国",
         "南亚"
       ],
-      "location": "巴基斯坦, 巴基斯坦水电开发局"
+      "location": "巴基斯坦, 巴基斯坦水电开发局",
+      "source": "https://www.powerchina-intl.com/show/9/4796.html"
     },
     {
       "id": "rel-458",
-      "type": "overseas-factory",
+      "type": "supplier-customer",
       "domestic": {
         "id": "cn-build-006",
         "name": "中国能建"
       },
       "overseas": {
-        "name": "沙特电力公司",
-        "country": "沙特"
+        "name": "沙特电力采购公司（SPPC）",
+        "country": "沙特阿拉伯"
       },
       "products": [
         "电站建设",
         "EPC"
       ],
-      "since": "2015",
+      "since": "2025",
       "region": [
         "中国",
         "中东"
       ],
-      "location": "沙特, 沙特电力公司"
-    },
-    {
-      "id": "rel-459",
-      "type": "supplier-customer",
-      "domestic": {
-        "id": "cn-other-029",
-        "name": "华测检测"
-      },
-      "overseas": {
-        "name": "SGS",
-        "country": "瑞士"
-      },
-      "products": [
-        "检测认证",
-        "质量服务"
-      ],
-      "since": "2015",
-      "region": [
-        "中国",
-        "欧洲"
-      ]
-    },
-    {
-      "id": "rel-460",
-      "type": "supplier-customer",
-      "domestic": {
-        "id": "med-008",
-        "name": "安图生物"
-      },
-      "overseas": {
-        "name": "海外医院及实验室",
-        "country": "全球"
-      },
-      "products": [
-        "体外诊断试剂",
-        "生化分析仪"
-      ],
-      "since": "2018",
-      "region": [
-        "中国",
-        "海外"
-      ]
-    },
-    {
-      "id": "rel-461",
-      "type": "supplier-customer",
-      "domestic": {
-        "id": "cn-semi-002",
-        "name": "长江存储"
-      },
-      "overseas": {
-        "name": "联想集团",
-        "country": "中国"
-      },
-      "products": [
-        "3D NAND闪存"
-      ],
-      "since": "2020",
-      "region": [
-        "中国"
-      ]
-    },
-    {
-      "id": "rel-462",
-      "type": "supplier-customer",
-      "domestic": {
-        "id": "cn-other-023",
-        "name": "绿的谐波"
-      },
-      "overseas": {
-        "name": "ABB",
-        "country": "瑞士"
-      },
-      "products": [
-        "谐波减速器"
-      ],
-      "since": "2019",
-      "region": [
-        "中国",
-        "欧洲"
-      ]
-    },
-    {
-      "id": "rel-463",
-      "type": "supplier-customer",
-      "domestic": {
-        "id": "cn-other-023",
-        "name": "绿的谐波"
-      },
-      "overseas": {
-        "name": "KUKA",
-        "country": "德国"
-      },
-      "products": [
-        "谐波减速器"
-      ],
-      "since": "2018",
-      "region": [
-        "中国",
-        "欧洲"
-      ]
-    },
-    {
-      "id": "rel-464",
-      "type": "supplier-customer",
-      "domestic": {
-        "id": "cn-machine-008",
-        "name": "华工科技"
-      },
-      "overseas": {
-        "name": "海外通信设备商",
-        "country": "全球"
-      },
-      "products": [
-        "光模块",
-        "激光器"
-      ],
-      "since": "2018",
-      "region": [
-        "中国",
-        "海外"
-      ]
+      "location": "沙特, 沙特电力公司",
+      "source": "https://finance.sina.com.cn/jjxw/2025-12-22/doc-inhcsrpa9080661.shtml"
     },
     {
       "id": "rel-465",
@@ -7863,7 +7048,8 @@
         "中国",
         "亚太"
       ],
-      "location": "新加坡, 新加坡零售网络"
+      "location": "新加坡, 新加坡零售网络",
+      "source": "https://m.senatus.net/album/view/12658/"
     },
     {
       "id": "rel-466",
@@ -7885,7 +7071,8 @@
         "中国",
         "欧洲"
       ],
-      "location": "英国, 伦敦旗舰店"
+      "location": "英国, 伦敦旗舰店",
+      "source": "https://m.huanqiu.com/article/9CaKrnK0voj"
     },
     {
       "id": "rel-467",
@@ -7907,7 +7094,8 @@
         "中国",
         "亚太"
       ],
-      "location": "新加坡, 东南亚零售合作"
+      "location": "新加坡, 东南亚零售合作",
+      "source": "https://www.jiemian.com/article/12437699.html"
     },
     {
       "id": "rel-468",
@@ -7928,7 +7116,8 @@
       "region": [
         "中国",
         "北美"
-      ]
+      ],
+      "source": "https://finance.sina.cn/2024-03-04/detail-inamckxw8250222.d.html"
     },
     {
       "id": "rel-469",
@@ -7949,7 +7138,8 @@
       "region": [
         "中国",
         "亚太"
-      ]
+      ],
+      "source": "https://www.cnenergynews.cn/article/4O9I2J2kt39"
     },
     {
       "id": "rel-470",
@@ -7959,8 +7149,8 @@
         "name": "嘉里物流"
       },
       "overseas": {
-        "name": "全球供应链客户",
-        "country": "全球"
+        "name": "Continental（大陆集团）",
+        "country": "德国"
       },
       "products": [
         "综合物流",
@@ -7970,7 +7160,8 @@
       "region": [
         "中国",
         "亚太"
-      ]
+      ],
+      "source": "https://www.cinic.org.cn/hy/zh/432972.html"
     },
     {
       "id": "rel-471",
@@ -7980,8 +7171,8 @@
         "name": "谱尼测试"
       },
       "overseas": {
-        "name": "国际品牌客户",
-        "country": "美国"
+        "name": "丰田汽车",
+        "country": "日本"
       },
       "products": [
         "检测认证",
@@ -7991,7 +7182,8 @@
       "region": [
         "中国",
         "北美"
-      ]
+      ],
+      "source": "https://www.163.com/dy/article/JU7HE1HG053469RG.html"
     },
     {
       "id": "rel-472",
@@ -8001,8 +7193,8 @@
         "name": "中谷物流"
       },
       "overseas": {
-        "name": "东南亚港口合作",
-        "country": "越南"
+        "name": "中谷航运（新加坡）有限公司",
+        "country": "新加坡"
       },
       "products": [
         "集装箱航运",
@@ -8013,7 +7205,8 @@
         "中国",
         "亚太"
       ],
-      "location": "越南, 东南亚港口合作"
+      "location": "新加坡",
+      "source": "http://www.zhonggushipping.com/News/News_content?id=36a86d59-19d6-42af-aa5b-0293f95a093f"
     },
     {
       "id": "rel-473",
@@ -8034,7 +7227,8 @@
       "region": [
         "中国",
         "北美"
-      ]
+      ],
+      "source": "https://m.nbd.com.cn/articles/2022-02-18/2130464.html"
     },
     {
       "id": "rel-474",
@@ -8055,28 +7249,8 @@
       "region": [
         "中国",
         "亚太"
-      ]
-    },
-    {
-      "id": "rel-475",
-      "type": "supplier-customer",
-      "domestic": {
-        "id": "cn-tech-034",
-        "name": "寒武纪"
-      },
-      "overseas": {
-        "name": "东南亚数据中心客户",
-        "country": "新加坡"
-      },
-      "products": [
-        "AI加速芯片",
-        "智能计算"
       ],
-      "since": "2022",
-      "region": [
-        "中国",
-        "亚太"
-      ]
+      "source": "http://g60.chinadevelopment.com.cn/zcfw/2025/0417/1940483.shtml"
     },
     {
       "id": "rel-476",
@@ -8098,29 +7272,8 @@
         "中国",
         "亚太"
       ],
-      "location": "中国香港, 香港子公司"
-    },
-    {
-      "id": "rel-477",
-      "type": "overseas-office",
-      "domestic": {
-        "id": "cn-tech-043",
-        "name": "小红书"
-      },
-      "overseas": {
-        "name": "海外用户社区",
-        "country": "全球"
-      },
-      "products": [
-        "社交电商",
-        "内容平台"
-      ],
-      "since": "2021",
-      "region": [
-        "中国",
-        "海外"
-      ],
-      "location": "全球, 海外用户社区"
+      "location": "中国香港, 香港子公司",
+      "source": "https://www.stcn.com/article/detail/2543363.html"
     },
     {
       "id": "rel-478",
@@ -8130,8 +7283,8 @@
         "name": "新东方"
       },
       "overseas": {
-        "name": "海外分校",
-        "country": "美国"
+        "name": "加拿大多伦多分校",
+        "country": "加拿大"
       },
       "products": [
         "教育培训",
@@ -8142,27 +7295,8 @@
         "中国",
         "北美"
       ],
-      "location": "美国, 海外分校"
-    },
-    {
-      "id": "rel-479",
-      "type": "supplier-customer",
-      "domestic": {
-        "id": "cn-auto-030",
-        "name": "经纬恒润"
-      },
-      "overseas": {
-        "name": "一汽集团",
-        "country": "中国"
-      },
-      "products": [
-        "汽车电子",
-        "智能驾驶"
-      ],
-      "since": "2015",
-      "region": [
-        "中国"
-      ]
+      "location": "加拿大, 多伦多",
+      "source": "https://www.edu.cn/zhong_guo_jiao_yu/min_ban/min_ban_news/200603/t20060323_23222.shtml"
     },
     {
       "id": "rel-480",
@@ -8172,8 +7306,8 @@
         "name": "中材科技"
       },
       "overseas": {
-        "name": "海外风电客户",
-        "country": "全球"
+        "name": "海外玻纤客户",
+        "country": "美国"
       },
       "products": [
         "风电叶片",
@@ -8183,29 +7317,203 @@
       "region": [
         "中国",
         "海外"
-      ]
+      ],
+      "source": "https://epaper.cs.com.cn/zgzqb/html/2026-03/20/nw.D110000zgzqb_20260320_1-A15.htm"
     },
     {
       "id": "rel-481",
-      "type": "overseas-factory",
+      "type": "supplier-customer",
       "domestic": {
-        "id": "cn-energy-035",
-        "name": "华自科技"
+        "id": "cn-auto-005",
+        "name": "均胜电子"
       },
       "overseas": {
-        "name": "东南亚电力项目",
-        "country": "泰国"
+        "name": "奥迪(Audi)",
+        "country": "德国"
       },
       "products": [
-        "储能系统",
-        "智能电网"
+        "汽车人机交互系统(HMI)",
+        "空调控制面板",
+        "座椅调节控制器"
       ],
-      "since": "2019",
-      "region": [
-        "中国",
-        "亚太"
+      "since": "2020",
+      "source": "https://www.yicai.com/news/100773968.html"
+    },
+    {
+      "id": "rel-482",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-008",
+        "name": "拓普集团"
+      },
+      "overseas": {
+        "name": "特斯拉(Tesla)",
+        "country": "美国"
+      },
+      "products": [
+        "轻量化底盘系统",
+        "NVH减震系统"
       ],
-      "location": "泰国, 东南亚电力项目"
+      "since": "2016",
+      "source": "https://news.10jqka.com.cn/20260509/c676564016.shtml"
+    },
+    {
+      "id": "rel-483",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-010",
+        "name": "华域汽车"
+      },
+      "overseas": {
+        "name": "大众(Volkswagen)",
+        "country": "德国"
+      },
+      "products": [
+        "汽车内饰及座椅系统",
+        "汽车被动安全系统",
+        "电动压缩机"
+      ],
+      "source": "http://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600741&id=11384725"
+    },
+    {
+      "id": "rel-484",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-auto-010",
+        "name": "华域汽车"
+      },
+      "overseas": {
+        "name": "通用汽车(General Motors)",
+        "country": "美国"
+      },
+      "products": [
+        "汽车内饰及座椅系统",
+        "汽车被动安全系统",
+        "汽车外饰件"
+      ],
+      "source": "http://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=600741&id=11384725"
+    },
+    {
+      "id": "rel-485",
+      "type": "licensing",
+      "domestic": {
+        "id": "cn-pharma-004",
+        "name": "复星医药"
+      },
+      "overseas": {
+        "name": "BioNTech SE(德国生物新技术公司)",
+        "country": "德国"
+      },
+      "products": [
+        "mRNA新冠疫苗(BNT162b2)"
+      ],
+      "since": "2020",
+      "source": "https://ggjd.cnstock.com/company/scp_ggjd/tjd_ggkx/202003/4504009.htm"
+    },
+    {
+      "id": "rel-486",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-003",
+        "name": "京东方"
+      },
+      "overseas": {
+        "name": "苹果(Apple)",
+        "country": "美国"
+      },
+      "products": [
+        "柔性OLED手机显示屏(iPhone面板)"
+      ],
+      "since": "2020",
+      "source": "https://www.21jingji.com/article/20220304/herald/b0be6357b1b31c3636b3a3b175f1fb4d.html"
+    },
+    {
+      "id": "rel-487",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-004",
+        "name": "歌尔股份"
+      },
+      "overseas": {
+        "name": "苹果(Apple)",
+        "country": "美国"
+      },
+      "products": [
+        "麦克风/扬声器/受话器等声学器件",
+        "精密结构件",
+        "AirPods、HomePod整机组装"
+      ],
+      "since": "2010",
+      "source": "https://finance.sina.com.cn/jjxw/2025-03-26/doc-ineqxyiv9134701.shtml"
+    },
+    {
+      "id": "rel-488",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-004",
+        "name": "歌尔股份"
+      },
+      "overseas": {
+        "name": "Meta(Facebook)",
+        "country": "美国"
+      },
+      "products": [
+        "VR头显整机代工(Quest/Oculus系列)"
+      ],
+      "since": "2020",
+      "source": "https://www.caixin.com/hot/oculus.html"
+    },
+    {
+      "id": "rel-489",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-005",
+        "name": "舜宇光学"
+      },
+      "overseas": {
+        "name": "苹果(Apple)",
+        "country": "美国"
+      },
+      "products": [
+        "智能手机相机镜头"
+      ],
+      "since": "2022",
+      "source": "http://app.cb.com.cn/share/article/234044"
+    },
+    {
+      "id": "rel-490",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-005",
+        "name": "舜宇光学"
+      },
+      "overseas": {
+        "name": "三星电子(Samsung Electronics)",
+        "country": "韩国"
+      },
+      "products": [
+        "手机光学镜头",
+        "手机摄像头模组"
+      ],
+      "since": "2018",
+      "source": "http://m.eepw.com.cn/article/201807/389365.html"
+    },
+    {
+      "id": "rel-491",
+      "type": "supplier-customer",
+      "domestic": {
+        "id": "cn-other-008",
+        "name": "中国中车"
+      },
+      "overseas": {
+        "name": "马萨诸塞湾交通局(MBTA)",
+        "country": "美国"
+      },
+      "products": [
+        "地铁车辆(红线/橙线)"
+      ],
+      "since": "2014",
+      "source": "https://m.thepaper.cn/newsDetail_forward_1601449"
     }
   ],
   "summary": {
@@ -8223,12 +7531,12 @@
       "星宇股份": 4,
       "福耀玻璃": 7,
       "比亚迪": 5,
-      "均胜电子": 4,
+      "均胜电子": 5,
       "敏实集团": 5,
       "三花智控": 4,
-      "万向钱潮": 3,
-      "美的集团": 4,
-      "海尔智家": 3,
+      "万向钱潮": 2,
+      "美的集团": 5,
+      "海尔智家": 4,
       "三一重工": 4,
       "其他": "见详细数据"
     }

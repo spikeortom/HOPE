@@ -2,7 +2,7 @@
 
 > **HOPE** = Haphazard Overview of Partner Enterprises — an open dataset of companies going global and their cross-border partnerships, aggregated, structured and fully sourced.
 
-> 🤖 **This project was created with AI.** All data is compiled from publicly available internet sources (company announcements, annual reports, official websites and reputable media), and most entries carry a source link. For reference only — where discrepancies exist, official sources prevail.
+> 🤖 **This project was created with AI.** All data is compiled from publicly available internet sources (company announcements, annual reports, official websites and reputable media), and every entry carries a public source link. For reference only — where discrepancies exist, official sources prevail.
 
 > 🇨🇳 中文版 README: [README.md](README.md) · 中文指南: ["出海"走向世界](企业出海观察.md)
 
@@ -19,7 +19,7 @@ HOPE is an open dataset of **companies going global — their overseas expansion
 ## 📊 Scale
 
 - **Companies**: <!-- AUTO:en-count-companies:BEGIN -->300<!-- AUTO:en-count-companies:END -->
-- **Overseas relationships**: <!-- AUTO:en-count-rels:BEGIN -->481<!-- AUTO:en-count-rels:END -->
+- **Overseas relationships**: <!-- AUTO:en-count-rels:BEGIN -->440<!-- AUTO:en-count-rels:END -->
 - **Industries**: automotive, tech/AI, semiconductors, pharma, new energy, home appliances, finance, engineering, metals/mining, consumer goods and 70+ sectors
 
 ## 📖 Explore (no code needed)
@@ -107,10 +107,10 @@ All data comes from public channels and is for reference only — not legal or i
 |------|-------------|
 | Xingyu | BMW (supply), Mercedes-Benz (supply), Volkswagen (supply), Serbia (overseas plant) |
 | Fuyao Glass | BMW (supply), Mercedes-Benz (supply), Volkswagen (supply), Toyota (supply), General Motors (supply) |
-| Great Wall Motor | 俄罗斯图拉州 (overseas plant), 巴西圣保罗州伊拉塞马波利斯 (overseas plant), 泰国罗勇府 (overseas plant), 哈弗俄罗斯图拉工厂 (overseas plant), 通用汽车泰国罗勇府工厂(现为长城罗勇工厂) (overseas plant) |
 | BYD | Toyota (JV), Daimler (JV), Hungary (overseas plant), Thailand (overseas plant), Brazil (overseas plant) |
-| MINTH Group | Toyota (supply), Honda (supply), Nissan (supply), Japan (overseas plant), United States (overseas plant) |
-| Joyson Electronics | BMW (supply), Volkswagen (supply), Germany (overseas plant), United States (overseas plant) |
+| Joyson Electronics | BMW (supply), Volkswagen (supply), Germany (overseas plant), United States (overseas plant), 奥迪(Audi) (supply) |
+| MINTH Group | Toyota (supply), Honda (supply), Nissan (supply), Japan (overseas office), United States (overseas plant) |
+| Sanhua | Tesla (supply), BMW (supply), Mexico (overseas plant), Poland (overseas plant) |
 
 ### Home Appliances · 家电
 
@@ -136,12 +136,12 @@ All data comes from public channels and is for reference only — not legal or i
 
 | Company | Key overseas relationships |
 |------|-------------|
-| Xiaomi | 富士康 (OEM), Qualcomm (supply), DBG / 比亚迪(BYD)等印度EMS代工厂 (OEM), Erajaya / PT Sat Nusapersada / TSM Technologies (overseas plant), Salcomp(联合运营方) (overseas plant) |
-| Huawei | 欧洲运营商 (supply), 中东运营商 (supply), Ethio Telecom (supply), Ooredoo (supply), Huawei Enterprise 全球分支办公室网络 (overseas office) |
-| Transsion | India (overseas plant), 埃塞俄比亚手机组装厂 (overseas plant), 传音埃塞俄比亚工厂 (overseas plant), 传音孟加拉工厂 (overseas plant), 传音印度生产业务 (overseas plant) |
+| Xiaomi | 富士康 (OEM), DBG / 比亚迪(BYD)等印度EMS代工厂 (OEM), Erajaya / PT Sat Nusapersada / TSM Technologies (overseas plant), Salcomp(联合运营方) (overseas plant), 富士康(Foxconn) (OEM) |
+| Huawei | 德国电信（Deutsche Telekom） (supply), 沙特电信（stc） (supply), Ethio Telecom (supply), Ooredoo (supply), Huawei Enterprise 全球分支办公室网络 (overseas office) |
 | Anker Innovations | Amazon (supply), Walmart (supply), Best Buy (supply), Target (supply), 7-Eleven (supply) |
 | TCL Electronics | Vietnam (overseas plant), Mexico (overseas plant), Poland (overseas plant), Pakistan (overseas plant), SEMP (JV) |
 | Tencent | Supercell (M&A), Riot Games(《英雄联盟》开发商) (M&A), Techland (M&A), Sumo Group (M&A), 腾讯云法兰克福可用区(第三个) (overseas office) |
+| vivo | vivo-迪克森(Dixon Technologies)合资公司 (JV), vivo土耳其智能制造中心 (overseas plant), vivo巴基斯坦智能制造中心 (overseas plant), vivo马德里办公室 (overseas office) |
 
 ### Semiconductors · 半导体
 
@@ -150,9 +150,9 @@ All data comes from public channels and is for reference only — not legal or i
 | Tongfu Microelectronics | AMD(苏州及槟城封测厂各85%股权) (M&A), AMD (JV), 通富超威槟城(TF-AMD Penang) (overseas plant) |
 | JCET Group | STATS ChipPAC(星科金朋) (M&A), 星科金朋新加坡封测基地 (overseas plant) |
 | SMIC | Qualcomm(高通) (supply) |
-| YMTC | 联想集团 (supply) |
 | Will Semiconductor | 豪威科技(OmniVision Technologies) (M&A) |
 | NAURA Technology | Akrion Systems LLC (M&A) |
+| AMEC | 中微北美(AMEC North America) (overseas office) |
 
 ### Medical Devices & IVD · 医疗器械与IVD
 

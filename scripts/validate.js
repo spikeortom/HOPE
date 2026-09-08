@@ -44,6 +44,17 @@ const REL_TYPES = [
   'overseas-office'
 ];
 
+// 国家/地区字段规范:别名应统一为规范写法
+const COUNTRY_ALIASES = {
+  '沙特': '沙特阿拉伯',
+  '印尼': '印度尼西亚',
+  '台湾': '中国台湾',
+  '中国台湾省': '中国台湾'
+};
+
+// 允许的聚合型"国家"取值(非单一国家,但属于有意的聚合口径)
+const AGGREGATE_COUNTRIES = ['全球', '多国', '东南亚', '欧洲', '中东', '南亚', '海外'];
+
 console.log('🔍 开始验证数据文件...\n');
 
 /* ---------------- companies.json ---------------- */
@@ -121,6 +132,27 @@ if (collabData) {
         typesPresent.add(r.type);
       }
 
+      // 每条关系必须附一个可公开访问的来源链接
+      if (!r.source) {
+        err('collaborations.json', `关系 ${label} 缺少 source(每条关系必须附来源)`);
+      } else if (!/^https?:\/\/\S+$/.test(r.source)) {
+        err('collaborations.json', `关系 ${label} 的 source 不是合法 URL: ${r.source}`);
+      }
+
+      // 起始年份应为四位年份
+      if (r.since !== undefined && !/^\d{4}$/.test(String(r.since))) {
+        warn('collaborations.json', `关系 ${label} 的 since 不是四位年份: ${r.since}`);
+      }
+
+      // 国家/地区写法规范
+      if (r.overseas?.country && COUNTRY_ALIASES[r.overseas.country]) {
+        err('collaborations.json', `关系 ${label} 的国家应写作"${COUNTRY_ALIASES[r.overseas.country]}"(当前为"${r.overseas.country}")`);
+      }
+      // 本数据集只收录跨境关系
+      if (r.overseas?.country === '中国') {
+        err('collaborations.json', `关系 ${label} 的海外国家为"中国",属于国内关系,不应收录`);
+      }
+
       // 交叉引用: domestic.id 必须存在于 companies.json,且名称一致
       if (!r.domestic?.id) {
         err('collaborations.json', `关系 ${label} 缺少 domestic.id`);
@@ -144,13 +176,60 @@ if (collabData) {
       }
     }
 
+    // 语义重复:同企业 + 同类型 + 同对手方/地点
+    const semanticSeen = new Map();
+    for (const r of rels) {
+      const key = [r.type, r.domestic?.id, r.overseas?.name || r.location || r.overseas?.country].join('|');
+      if (semanticSeen.has(key)) {
+        err('collaborations.json', `关系 ${r.id} 与 ${semanticSeen.get(key)} 疑似重复: ${key}`);
+      } else {
+        semanticSeen.set(key, r.id);
+      }
+    }
+
+    // 字段覆盖率提示(聚合为一条警告,避免刷屏)
+    const noSince = rels.filter(r => !r.since).length;
+    const noProducts = rels.filter(r => !r.products || !r.products.length).length;
+    if (noSince > 0) warn('collaborations.json', `${noSince}/${rels.length} 条关系缺少起始年份 since`);
+    if (noProducts > 0) warn('collaborations.json', `${noProducts}/${rels.length} 条关系缺少 products 字段`);
+
     // summary.byType 应覆盖实际出现的所有类型
     const byType = collabData.summary?.byType || {};
     for (const t of typesPresent) {
       if (!(t in byType)) warn('collaborations.json', `summary.byType 缺少类型 "${t}" 的说明`);
     }
+
+    // summary.byDomesticCompany 的数值必须与实际条数一致
+    const actualCounts = {};
+    for (const r of rels) actualCounts[r.domestic.name] = (actualCounts[r.domestic.name] || 0) + 1;
+    for (const [name, n] of Object.entries(collabData.summary?.byDomesticCompany || {})) {
+      if (typeof n !== 'number') continue;
+      if ((actualCounts[name] || 0) !== n) {
+        err('collaborations.json', `summary.byDomesticCompany["${name}"] = ${n},实际为 ${actualCounts[name] || 0}`);
+      }
+    }
   }
   console.log('');
+}
+
+/* ---------------- companies.partners 与 relationships 交叉校验 ---------------- */
+if (companiesData && Array.isArray(companiesData.companies) && collabData && Array.isArray(collabData.relationships)) {
+  const relPairs = new Set();
+  for (const r of collabData.relationships) {
+    if (r.domestic?.id && r.overseas?.name) relPairs.add(`${r.domestic.id}|${r.overseas.name}`);
+  }
+  // "供应商"类 partner 属于海外企业对中方的供应(入向),不在本数据集的出境关系口径内,不参与交叉校验
+  const INBOUND_PARTNER_TYPES = ['供应商'];
+  let orphan = 0;
+  for (const c of companiesData.companies) {
+    for (const p of c.partners || []) {
+      if (INBOUND_PARTNER_TYPES.includes(p.type)) continue;
+      if (!relPairs.has(`${c.id}|${p.name}`)) orphan++;
+    }
+  }
+  if (orphan > 0) {
+    warn('companies.json', `partners 中有 ${orphan} 条在 collaborations.json 里找不到对应关系(冗余字段,建议逐步对齐)`);
+  }
 }
 
 /* ---------------- labor-rights.json ---------------- */
@@ -167,6 +246,7 @@ if (laborData) {
     ok(`包含 ${laborData.legalFrameworks.length} 个法律框架`);
     for (const f of laborData.legalFrameworks) {
       if (!f.id || !f.name) err('labor-rights.json', `legalFrameworks 条目缺少 id/name: ${JSON.stringify(f).slice(0, 60)}`);
+      if (!f.url) warn('labor-rights.json', `legalFrameworks 条目缺少官方链接 url: ${f.id || f.name}`);
     }
   }
 
