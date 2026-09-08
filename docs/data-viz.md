@@ -8,7 +8,7 @@
 HOPE/
 ├── README.md                 # 项目说明
 ├── CONTRIBUTING.md           # 贡献指南
-├── LICENSE                   # Anti-996 License
+├── LICENSE                   # CC0 1.0 Universal
 ├── package.json              # 项目配置
 ├── data/
 │   ├── companies.json        # 企业信息

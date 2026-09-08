@@ -159,6 +159,27 @@ npm run stats      # dataset statistics
 
 GitHub Actions runs these on push/PR (see `.github/workflows/validate.yml`).
 
-## 📄 License
+## 📄 License & Spirit
 
-This project is licensed under the [Anti-996 License](LICENSE).
+### License
+
+This project is licensed under [CC0 1.0 Universal](LICENSE). You are free to:
+
+- ✅ Share, copy, and redistribute
+- ✅ Adapt, modify, and build upon
+- ✅ Use commercially
+- ✅ No attribution required
+- ✅ No share-alike required
+
+> Simply put: **Use it however you want, no strings attached.**
+
+### 🙌 Workers' Rights
+
+We advocate:
+
+- ⏰ **Oppose Overwork** — Healthy work, say no to burnout
+- 📋 **Respect Labor Laws** — Every worker deserves fair treatment
+- 🌍 **Open & Share** — Data and knowledge should flow freely
+- 🤝 **Cooperate with Humanity** — Going global should be people-centered
+
+> If you use this data, please treat your employees well.

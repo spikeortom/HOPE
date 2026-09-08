@@ -67,11 +67,11 @@ CITATION.cff 已就绪,GitHub 会在 "Cite this repository" 中展示引用信�
 
 ## 6. 许可证说明
 
-本项目采用 **Anti-996 License**(见 LICENSE 文件)。该许可证不在 SPDX 标准列表中,因此:
+本项目采用 **CC0 1.0 Universal**(见 LICENSE 文件),属于 SPDX 标准许可证。
 
-- GitHub 仓库许可证徽标会显示为 **"Other"**,属正常现象;
-- `package.json` 中 `"license": "Anti-996"` 为自定义字符串,同样正常;
-- 如需换用 SPDX 标准许可证(如 MIT / CC0-1.0),需重写 LICENSE 并同步 README、package.json、CITATION.cff。
+- GitHub 仓库许可证徽标会正确显示 **CC0-1.0**;
+- `package.json` 中 `"license": "CC0-1.0"`;
+- 完全放弃版权,任何人可自由使用,无需署名。
 
 ## 7. 日常维护礼仪
 

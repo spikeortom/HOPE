@@ -247,4 +247,4 @@ A: Absolutely — additional relationships, corrections and new companies are al
 
 ---
 
-**Last updated**: September 2026 · **Data sources**: public channels (annual reports, official websites, reputable media — with per-entry links) · **License**: [Anti-996 License](LICENSE)
+**Last updated**: September 2026 · **Data sources**: public channels (annual reports, official websites, reputable media — with per-entry links) · **License**: [CC0 1.0 Universal](LICENSE)
