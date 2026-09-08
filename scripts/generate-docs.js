@@ -82,6 +82,11 @@ for (const g of groupNames) {
   const list = sortList(groups.get(g));
   out.push(`- **${g}**(${list.length} 家):${list.map(c => `[${c.name?.zh}](#${(c.name?.zh || '').toLowerCase()})`).join(' · ')}`);
 }
+/* 汇总无合作关系企业链接 */
+const noRelCount = companies.filter(c => !(relsByCompany.get(c.id) || []).length).length;
+if (noRelCount > 0) {
+  out.push(`- [🙋 **欢迎补充：暂无合作关系的企业**（${noRelCount} 家）](#-欢迎补充暂无合作关系的企业${noRelCount}-家)`);
+}
 out.push('');
 out.push('---');
 out.push('');
